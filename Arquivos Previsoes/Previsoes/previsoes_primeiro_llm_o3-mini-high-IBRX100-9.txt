@@ -1,0 +1,137 @@
+[
+    {
+        "ticker": "BBDC4",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 21217196,
+            "lucro liquido projetado": 22300000,
+            "unidade": "R$ mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por ajustes extraordinários relacionados à transição para as normas IFRS (especialmente IFRS 17), revisões das provisões para perdas de crédito e reclassificações contábeis de ativos financeiros, itens que não se espera serem recorrentes.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Próximo exercício anual",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A projeção baseia-se na análise detalhada dos números consolidados de 2022, na robustez da estrutura de ativos e na eficiência operacional do Banco; contudo, incertezas associadas à transição para novas normas contábeis e ao cenário macroeconômico moderam a segurança da previsão.",
+            "total de acoes em circulacao": "10642170"
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": -58148,
+            "lucro liquido projetado": 5000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Os resultados de 2022 foram impactados por itens não recorrentes, como ajustes de earn-out, custos de aquisição e o desempenho negativo do segmento Bankly, que devem se normalizar em 2023 com a reestruturação e eventual desinvestimento.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual (período encerrado em 31/12/2023)",
+            "grau de confianca": "60%",
+            "motivo grau de confianca": "Embora os indicadores operacionais já mostrem sinais positivos (ex.: retorno do 4T22 excluindo o Bankly), e as medidas de reestruturação e redução de custos estejam em curso, o cenário macroeconômico permanece incerto devido à manutenção dos juros elevados e à desaceleração global, o que impõe uma confiança moderada na projeção.",
+            "total de acoes em circulacao": 864931939
+        }
+    },
+    {
+        "ticker": "BBDC4",
+        "periodo_pred": "2023-03-31",
+        "output_llm1": {
+            "lucro liquido atual": 5473810,
+            "lucro liquido projetado": 6020191,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por elevações significativas em provisões para perdas de crédito, consideradas não recorrentes e extraordinárias, que prejudicaram o resultado do 1T23.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo exercício",
+            "grau de confianca": "80%",
+            "motivo grau de confianca": "Embora o cenário macroeconômico global mantenha incertezas e haja riscos no ambiente de crédito, a robustez dos dados dos balanços consolidados e as orientações do COPOM quanto à política de juros indicam que os efeitos extraordinários que comprimiram o lucro no 1T23 são transitórios, o que possibilita a projeção de uma melhora de aproximadamente 10%.",
+            "total de acoes em circulacao": 10642170
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-03-31",
+        "output_llm1": {
+            "lucro liquido atual": -11689,
+            "lucro liquido projetado": -4000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Resultado impactado por itens não recorrentes, principalmente a operação Bankly e eventos extraordinários decorrentes da reestruturação e acordos comerciais.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano fiscal",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "A previsão contempla a melhoria dos indicadores operacionais e a redução de custos, conforme observados nos dados consolidados e na estratégia anunciada pela companhia, mas pondera as incertezas do cenário macroeconômico (juros elevados, desaceleração do crescimento e efeitos do aperto monetário) que podem impactar os resultados.",
+            "total de acoes em circulacao": 865180443
+        }
+    },
+    {
+        "ticker": "BBDC4",
+        "periodo_pred": "2023-06-30",
+        "output_llm1": {
+            "lucro liquido atual": "4071265",
+            "lucro liquido projetado": "4478000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Os resultados do trimestre atual foram impactados por ajustes não recorrentes decorrentes da transição para IFRS 17 e ajustes pontuais em provisões, que não se repetirão em períodos futuros.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Mesmo trimestre do próximo ano fiscal (Q2 2024)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Apesar das incertezas macroeconômicas e dos desafios na mensuração decorrentes da transição contábil, o histórico operacional consistente do banco e o cenário do COPOM apontam para uma redução nos custos de captação e potencial expansão das margens. Os ajustes não recorrentes do atual período reforçam que a base operacional tende a se recuperar, conferindo 70% de confiança à projeção.",
+            "total de acoes em circulacao": "10642170"
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-06-30",
+        "output_llm1": {
+            "lucro liquido atual": -15532,
+            "lucro liquido projetado": 5000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O resultado atual foi impactado significativamente por itens não recorrentes, especialmente relacionados à reclassificação e alienação das operações descontinuadas (ex.: Bankly).",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Mesmo trimestre do próximo ano fiscal (01/04/2024 à 30/06/2024)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "A previsão se apoia na melhoria expressiva das margens operacionais, nas iniciativas de redução de custos e na não recorrência dos impactos extraordinários, embora o cenário macroeconômico restritivo e incertezas globais ainda representem riscos a serem monitorados.",
+            "total de acoes em circulacao": 86518044
+        }
+    },
+    {
+        "ticker": "BBDC4",
+        "periodo_pred": "2023-09-30",
+        "output_llm1": {
+            "lucro liquido atual": 13016119,
+            "lucro liquido projetado": 15000000,
+            "unidade": "mil R$",
+            "extraordinariedade de eventos": "Não foram identificados eventos extraordinários relevantes; ajustes técnicos e reclassificações (como a transição para o IFRS 17) já foram incorporados e não se repetem de forma recorrente.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano fiscal",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão baseia‑se na análise dos resultados consolidados atuais, no ambiente macroeconômico moderadamente favorável conforme indicado na Ata do COPOM (com expectativas de cortes graduais na taxa de juros que devem estimular o volume de operações) e na ausência de eventos extraordinários recorrentes. Ainda que subsistam incertezas quanto à possível compressão das margens de juros, a melhoria na atividade operacional e o controle dos riscos sustentam a projeção com um grau razoável de segurança.",
+            "total de acoes em circulacao": "10642170"
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-09-30",
+        "output_llm1": {
+            "lucro liquido atual": "5163",
+            "lucro liquido projetado": "6000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Impacto negativo decorrente das operações descontinuadas relativas à alienação do Bankly, que não se repetirão no próximo período",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão baseia-se na consolidação dos esforços de redução de custos e melhoria de margens evidenciados no relatório, aliada a um ambiente macroeconômico com taxa de juros possivelmente mais amena conforme decisão do COPOM. A incerteza quanto à evolução da demanda e à concorrência implica uma confiança moderada.",
+            "total de acoes em circulacao": "86560518"
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": -25552,
+            "lucro liquido projetado": 8000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por eventos extraordinários, especialmente a alienação de controladas (Bankly e Acessopar), que geraram efeitos não recorrentes e que não se repetirão no próximo exercício.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Próximo exercício fiscal encerrado em 31/12/2024",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "A previsão baseia-se na significativa redução de custos e na melhora do EBITDA ajustado observada em 2023, aliada à expectativa de continuidade das medidas de disciplina de custos e à potencial redução dos juros (conforme sinalizado pelo COPOM). Todavia, persistem incertezas macroeconômicas que moderam o grau de confiança.",
+            "total de acoes em circulacao": "86580215"
+        }
+    }
+]

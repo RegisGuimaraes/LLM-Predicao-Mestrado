@@ -1,0 +1,19 @@
+﻿Limiar,Filtro,Estratégia,Sharpe,Beta,Volatilidade,Retorno Anual,Retorno Acumulado
+0.0%,Lucro Líquido Positivo,value_weighted,1.0774,0.9379,0.1416,0.2999,0.3131
+0.0%,Naive,value_weighted,1.0803,0.8206,0.1366,0.2943,0.3072
+0.0%,Projetado,value_weighted,0.8914,0.9353,0.1413,0.2660,0.2775
+0.5%,Lucro Líquido Positivo,value_weighted,1.1188,0.9278,0.1401,0.3055,0.3190
+0.5%,Naive,value_weighted,0.9879,0.8226,0.1378,0.2794,0.2916
+0.5%,Projetado,value_weighted,0.8801,0.9182,0.1396,0.2624,0.2738
+1.0%,Lucro Líquido Positivo,value_weighted,1.1787,0.9508,0.1458,0.3242,0.3386
+1.0%,Naive,value_weighted,1.0926,0.8591,0.1445,0.3061,0.3196
+1.0%,Projetado,value_weighted,0.9010,0.9470,0.1453,0.2715,0.2834
+1.5%,Lucro Líquido Positivo,value_weighted,1.3028,0.9520,0.1480,0.3516,0.3674
+1.5%,Naive,value_weighted,1.2537,0.8554,0.1438,0.3357,0.3507
+1.5%,Projetado,value_weighted,0.8814,0.9593,0.1489,0.2713,0.2831
+2.0%,Lucro Líquido Positivo,value_weighted,1.4375,0.9690,0.1576,0.3956,0.4137
+2.0%,Naive,value_weighted,1.3071,0.8637,0.1477,0.3520,0.3678
+2.0%,Projetado,value_weighted,0.9219,0.9794,0.1560,0.2860,0.2985
+,Benchmark,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+,Benchmark,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+,Benchmark,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501

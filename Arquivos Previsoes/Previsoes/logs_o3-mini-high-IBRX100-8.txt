@@ -1,0 +1,6195 @@
+Iniciando processo...
+O texto anterior tinha 303391
+O texto atual tem 147990
+Documento tem 147990 tokens.
+O texto anterior tinha 303146
+O texto atual tem 147262
+Documento tem 147262 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 1
+FP = 0
+TN = 0
+FN = 0
+F1 FINAL = 1.0000
+O texto anterior tinha 191040
+O texto atual tem 98607
+Documento tem 98607 tokens.
+O texto anterior tinha 203800
+O texto atual tem 104340
+Documento tem 104340 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 2
+FP = 0
+TN = 0
+FN = 0
+F1 FINAL = 1.0000
+O texto anterior tinha 171146
+O texto atual tem 87414
+Documento tem 87414 tokens.
+O texto anterior tinha 173684
+O texto atual tem 88790
+Documento tem 88790 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 2
+FP = 1
+TN = 0
+FN = 0
+F1 FINAL = 0.8000
+O texto anterior tinha 131300
+O texto atual tem 61575
+Documento tem 61575 tokens.
+O texto anterior tinha 131586
+O texto atual tem 64636
+Documento tem 64636 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 2
+FP = 2
+TN = 0
+FN = 0
+F1 FINAL = 0.6667
+O texto anterior tinha 272815
+O texto atual tem 126386
+Documento tem 126386 tokens.
+O texto anterior tinha 248465
+O texto atual tem 118668
+Documento tem 118668 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 3
+FP = 2
+TN = 0
+FN = 0
+F1 FINAL = 0.7500
+O texto anterior tinha 137877
+O texto atual tem 71781
+Documento tem 71781 tokens.
+O texto anterior tinha 154507
+O texto atual tem 79371
+Documento tem 79371 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 3
+FP = 2
+TN = 1
+FN = 0
+F1 FINAL = 0.7500
+O texto anterior tinha 183579
+O texto atual tem 90765
+Documento tem 90765 tokens.
+O texto anterior tinha 189122
+O texto atual tem 92485
+Documento tem 92485 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 3
+FP = 3
+TN = 1
+FN = 0
+F1 FINAL = 0.6667
+O texto anterior tinha 203218
+O texto atual tem 100687
+Documento tem 100687 tokens.
+O texto anterior tinha 218961
+O texto atual tem 106602
+Documento tem 106602 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 3
+FP = 4
+TN = 1
+FN = 0
+F1 FINAL = 0.6000
+O texto anterior tinha 760115
+O texto atual tem 374572
+Documento tem 374572 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 374572 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+O texto anterior tinha 651259
+O texto atual tem 337404
+Documento tem 337404 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 4
+FP = 4
+TN = 1
+FN = 0
+F1 FINAL = 0.6667
+O texto anterior tinha 543942
+O texto atual tem 271844
+Documento tem 271844 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 271844 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 271844 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+Documento tem 271844 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+O texto anterior tinha 504456
+O texto atual tem 255627
+Documento tem 255627 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 4
+FP = 5
+TN = 1
+FN = 0
+F1 FINAL = 0.6154
+O texto anterior tinha 168074
+O texto atual tem 84854
+Documento tem 84854 tokens.
+O texto anterior tinha 162372
+O texto atual tem 82620
+Documento tem 82620 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 5
+FP = 5
+TN = 1
+FN = 0
+F1 FINAL = 0.6667
+O texto anterior tinha 215652
+O texto atual tem 101297
+Documento tem 101297 tokens.
+O texto anterior tinha 219604
+O texto atual tem 102759
+Documento tem 102759 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 5
+FP = 6
+TN = 1
+FN = 0
+F1 FINAL = 0.6250
+O texto anterior tinha 135853
+O texto atual tem 71059
+Documento tem 71059 tokens.
+O texto anterior tinha 130163
+O texto atual tem 66828
+Documento tem 66828 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 5
+FP = 6
+TN = 2
+FN = 0
+F1 FINAL = 0.6250
+O texto anterior tinha 133069
+O texto atual tem 67003
+Documento tem 67003 tokens.
+O texto anterior tinha 128288
+O texto atual tem 65326
+Documento tem 65326 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 6
+FP = 6
+TN = 2
+FN = 0
+F1 FINAL = 0.6667
+O texto anterior tinha 136256
+O texto atual tem 65825
+Documento tem 65825 tokens.
+O texto anterior tinha 123737
+O texto atual tem 62361
+Documento tem 62361 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 7
+FP = 6
+TN = 2
+FN = 0
+F1 FINAL = 0.7000
+O texto anterior tinha 74811
+O texto atual tem 37454
+Documento tem 37454 tokens.
+Documento tem 37454 tokens.
+O texto anterior tinha 81806
+O texto atual tem 39836
+Documento tem 39836 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 7
+FP = 7
+TN = 2
+FN = 0
+F1 FINAL = 0.6667
+O texto anterior tinha 172259
+O texto atual tem 83734
+Documento tem 83734 tokens.
+O texto anterior tinha 201975
+O texto atual tem 99702
+Documento tem 99702 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 8
+FP = 7
+TN = 2
+FN = 0
+F1 FINAL = 0.6957
+O texto anterior tinha 260587
+O texto atual tem 127154
+Documento tem 127154 tokens.
+O texto anterior tinha 242005
+O texto atual tem 116112
+Documento tem 116112 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 9
+FP = 7
+TN = 2
+FN = 0
+F1 FINAL = 0.7200
+O texto anterior tinha 310233
+O texto atual tem 155612
+Documento tem 155612 tokens.
+O texto anterior tinha 261054
+O texto atual tem 130241
+Documento tem 130241 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 10
+FP = 7
+TN = 2
+FN = 0
+F1 FINAL = 0.7407
+O texto anterior tinha 201614
+O texto atual tem 98715
+Documento tem 98715 tokens.
+O texto anterior tinha 209094
+O texto atual tem 102575
+Documento tem 102575 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 10
+FP = 8
+TN = 2
+FN = 0
+F1 FINAL = 0.7143
+O texto anterior tinha 316935
+O texto atual tem 153773
+Documento tem 153773 tokens.
+[GPTClient] Erro LLM: Response ended prematurely
+O texto anterior tinha 235111
+O texto atual tem 117404
+Documento tem 117404 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 10
+FP = 8
+TN = 3
+FN = 0
+F1 FINAL = 0.7143
+O texto anterior tinha 384401
+O texto atual tem 194991
+Documento tem 194991 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 369280
+O texto atual tem 191004
+Documento tem 191004 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 11
+FP = 8
+TN = 3
+FN = 0
+F1 FINAL = 0.7333
+O texto anterior tinha 184317
+O texto atual tem 99448
+Documento tem 99448 tokens.
+O texto anterior tinha 192318
+O texto atual tem 97589
+Documento tem 97589 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 12
+FP = 8
+TN = 3
+FN = 0
+F1 FINAL = 0.7500
+O texto anterior tinha 190195
+O texto atual tem 95276
+Documento tem 95276 tokens.
+O texto anterior tinha 202863
+O texto atual tem 100233
+Documento tem 100233 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 13
+FP = 8
+TN = 3
+FN = 0
+F1 FINAL = 0.7647
+O texto anterior tinha 212396
+O texto atual tem 108279
+Documento tem 108279 tokens.
+O texto anterior tinha 208378
+O texto atual tem 103602
+Documento tem 103602 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 14
+FP = 8
+TN = 3
+FN = 0
+F1 FINAL = 0.7778
+O texto anterior tinha 366201
+O texto atual tem 169900
+Documento tem 169900 tokens.
+O texto anterior tinha 380621
+O texto atual tem 176052
+Documento tem 176052 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 15
+FP = 8
+TN = 3
+FN = 0
+F1 FINAL = 0.7895
+O texto anterior tinha 262167
+O texto atual tem 123798
+Documento tem 123798 tokens.
+O texto anterior tinha 266144
+O texto atual tem 124086
+Documento tem 124086 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 15
+FP = 9
+TN = 3
+FN = 0
+F1 FINAL = 0.7692
+O texto anterior tinha 285150
+O texto atual tem 133375
+Documento tem 133375 tokens.
+O texto anterior tinha 318433
+O texto atual tem 150559
+Documento tem 150559 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 16
+FP = 9
+TN = 3
+FN = 0
+F1 FINAL = 0.7805
+O texto anterior tinha 302027
+O texto atual tem 155303
+Documento tem 155303 tokens.
+O texto anterior tinha 278556
+O texto atual tem 140684
+Documento tem 140684 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 16
+FP = 10
+TN = 3
+FN = 0
+F1 FINAL = 0.7619
+O texto anterior tinha 149321
+O texto atual tem 74000
+Documento tem 74000 tokens.
+Documento tem 74000 tokens.
+O texto anterior tinha 153571
+O texto atual tem 76375
+Documento tem 76375 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 16
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.7442
+O texto anterior tinha 246330
+O texto atual tem 114428
+Documento tem 114428 tokens.
+O texto anterior tinha 252072
+O texto atual tem 119183
+Documento tem 119183 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 17
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.7556
+O texto anterior tinha 177557
+O texto atual tem 91852
+Documento tem 91852 tokens.
+O texto anterior tinha 166706
+O texto atual tem 83551
+Documento tem 83551 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 18
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.7660
+O texto anterior tinha 215399
+O texto atual tem 104678
+Documento tem 104678 tokens.
+O texto anterior tinha 219855
+O texto atual tem 107634
+Documento tem 107634 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 19
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.7755
+O texto anterior tinha 245468
+O texto atual tem 118198
+Documento tem 118198 tokens.
+O texto anterior tinha 224906
+O texto atual tem 110482
+Documento tem 110482 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 20
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.7843
+O texto anterior tinha 362757
+O texto atual tem 174897
+Documento tem 174897 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 350978
+O texto atual tem 174654
+Documento tem 174654 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 21
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.7925
+O texto anterior tinha 320775
+O texto atual tem 161425
+Documento tem 161425 tokens.
+O texto anterior tinha 444588
+O texto atual tem 229122
+Documento tem 229122 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 22
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.8000
+O texto anterior tinha 294818
+O texto atual tem 148060
+Documento tem 148060 tokens.
+O texto anterior tinha 273831
+O texto atual tem 131654
+Documento tem 131654 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 23
+FP = 11
+TN = 3
+FN = 0
+F1 FINAL = 0.8070
+O texto anterior tinha 258415
+O texto atual tem 126456
+Documento tem 126456 tokens.
+[GPTClient] Erro LLM: Response ended prematurely
+O texto anterior tinha 304093
+O texto atual tem 150051
+Documento tem 150051 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 23
+FP = 12
+TN = 3
+FN = 0
+F1 FINAL = 0.7931
+O texto anterior tinha 471482
+O texto atual tem 230920
+Documento tem 230920 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 230920 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+O texto anterior tinha 491371
+O texto atual tem 239108
+Documento tem 239108 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 24
+FP = 12
+TN = 3
+FN = 0
+F1 FINAL = 0.8000
+O texto anterior tinha 382624
+O texto atual tem 192089
+Documento tem 192089 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 192089 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 192089 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+O texto anterior tinha 410702
+O texto atual tem 204929
+Documento tem 204929 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 25
+FP = 12
+TN = 3
+FN = 0
+F1 FINAL = 0.8065
+O texto anterior tinha 94512
+O texto atual tem 45509
+Documento tem 45509 tokens.
+O texto anterior tinha 94566
+O texto atual tem 46042
+Documento tem 46042 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 25
+FP = 13
+TN = 3
+FN = 0
+F1 FINAL = 0.7937
+O texto anterior tinha 165191
+O texto atual tem 81521
+Documento tem 81521 tokens.
+O texto anterior tinha 182853
+O texto atual tem 89612
+Documento tem 89612 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 26
+FP = 13
+TN = 3
+FN = 0
+F1 FINAL = 0.8000
+O texto anterior tinha 182622
+O texto atual tem 94273
+Documento tem 94273 tokens.
+O texto anterior tinha 184471
+O texto atual tem 95972
+Documento tem 95972 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 26
+FP = 14
+TN = 3
+FN = 0
+F1 FINAL = 0.7879
+O texto anterior tinha 106952
+O texto atual tem 54612
+Documento tem 54612 tokens.
+O texto anterior tinha 126658
+O texto atual tem 63676
+Documento tem 63676 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 27
+FP = 14
+TN = 3
+FN = 0
+F1 FINAL = 0.7941
+O texto anterior tinha 165813
+O texto atual tem 86162
+Documento tem 86162 tokens.
+O texto anterior tinha 166215
+O texto atual tem 86601
+Documento tem 86601 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 27
+FP = 15
+TN = 3
+FN = 0
+F1 FINAL = 0.7826
+O texto anterior tinha 173282
+O texto atual tem 88321
+Documento tem 88321 tokens.
+O texto anterior tinha 170587
+O texto atual tem 85000
+Documento tem 85000 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 28
+FP = 15
+TN = 3
+FN = 0
+F1 FINAL = 0.7887
+O texto anterior tinha 233718
+O texto atual tem 115146
+Documento tem 115146 tokens.
+O texto anterior tinha 227697
+O texto atual tem 112165
+Documento tem 112165 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 29
+FP = 15
+TN = 3
+FN = 0
+F1 FINAL = 0.7945
+O texto anterior tinha 216856
+O texto atual tem 101639
+Documento tem 101639 tokens.
+O texto anterior tinha 215350
+O texto atual tem 101726
+Documento tem 101726 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 29
+FP = 16
+TN = 3
+FN = 0
+F1 FINAL = 0.7838
+O texto anterior tinha 154001
+O texto atual tem 76036
+Documento tem 76036 tokens.
+O texto anterior tinha 147653
+O texto atual tem 73524
+Documento tem 73524 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 30
+FP = 16
+TN = 3
+FN = 0
+F1 FINAL = 0.7895
+O texto anterior tinha 243139
+O texto atual tem 125378
+Documento tem 125378 tokens.
+O texto anterior tinha 224391
+O texto atual tem 118016
+Documento tem 118016 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 31
+FP = 16
+TN = 3
+FN = 0
+F1 FINAL = 0.7949
+O texto anterior tinha 221212
+O texto atual tem 108238
+Documento tem 108238 tokens.
+O texto anterior tinha 209493
+O texto atual tem 103465
+Documento tem 103465 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 32
+FP = 16
+TN = 3
+FN = 0
+F1 FINAL = 0.8000
+O texto anterior tinha 156603
+O texto atual tem 80395
+Documento tem 80395 tokens.
+O texto anterior tinha 164378
+O texto atual tem 85959
+Documento tem 85959 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 32
+FP = 16
+TN = 3
+FN = 1
+F1 FINAL = 0.7901
+O texto anterior tinha 509761
+O texto atual tem 249116
+Documento tem 249116 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 249116 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 249116 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+Documento tem 249116 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+[GPTClient] Erro LLM: Response ended prematurely
+O texto anterior tinha 489582
+O texto atual tem 239432
+Documento tem 239432 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 33
+FP = 16
+TN = 3
+FN = 1
+F1 FINAL = 0.7952
+O texto anterior tinha 336277
+O texto atual tem 165102
+Documento tem 165102 tokens.
+O texto anterior tinha 312527
+O texto atual tem 153514
+Documento tem 153514 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 33
+FP = 16
+TN = 3
+FN = 2
+F1 FINAL = 0.7857
+O texto anterior tinha 265831
+O texto atual tem 129984
+Documento tem 129984 tokens.
+O texto anterior tinha 251994
+O texto atual tem 123821
+Documento tem 123821 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 33
+FP = 17
+TN = 3
+FN = 2
+F1 FINAL = 0.7765
+O texto anterior tinha 201206
+O texto atual tem 99694
+Documento tem 99694 tokens.
+O texto anterior tinha 187737
+O texto atual tem 93818
+Documento tem 93818 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 33
+FP = 18
+TN = 3
+FN = 2
+F1 FINAL = 0.7674
+O texto anterior tinha 136677
+O texto atual tem 71667
+Documento tem 71667 tokens.
+O texto anterior tinha 136174
+O texto atual tem 70571
+Documento tem 70571 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 33
+FP = 19
+TN = 3
+FN = 2
+F1 FINAL = 0.7586
+O texto anterior tinha 236786
+O texto atual tem 115262
+Documento tem 115262 tokens.
+O texto anterior tinha 226467
+O texto atual tem 110189
+Documento tem 110189 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 34
+FP = 19
+TN = 3
+FN = 2
+F1 FINAL = 0.7640
+O texto anterior tinha 222003
+O texto atual tem 108289
+Documento tem 108289 tokens.
+O texto anterior tinha 218725
+O texto atual tem 107990
+Documento tem 107990 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 34
+FP = 20
+TN = 3
+FN = 2
+F1 FINAL = 0.7556
+O texto anterior tinha 131666
+O texto atual tem 65362
+Documento tem 65362 tokens.
+Documento tem 65362 tokens.
+O texto anterior tinha 147355
+O texto atual tem 71375
+Documento tem 71375 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 34
+FP = 21
+TN = 3
+FN = 2
+F1 FINAL = 0.7473
+O texto anterior tinha 259842
+O texto atual tem 128069
+Documento tem 128069 tokens.
+O texto anterior tinha 268960
+O texto atual tem 132876
+Documento tem 132876 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 34
+FP = 22
+TN = 3
+FN = 2
+F1 FINAL = 0.7391
+O texto anterior tinha 211029
+O texto atual tem 104097
+Documento tem 104097 tokens.
+O texto anterior tinha 207747
+O texto atual tem 101829
+Documento tem 101829 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 35
+FP = 22
+TN = 3
+FN = 2
+F1 FINAL = 0.7447
+O texto anterior tinha 250886
+O texto atual tem 125960
+Documento tem 125960 tokens.
+O texto anterior tinha 236631
+O texto atual tem 120896
+Documento tem 120896 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 36
+FP = 22
+TN = 3
+FN = 2
+F1 FINAL = 0.7500
+O texto anterior tinha 242430
+O texto atual tem 113129
+Documento tem 113129 tokens.
+O texto anterior tinha 233435
+O texto atual tem 109943
+Documento tem 109943 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 37
+FP = 22
+TN = 3
+FN = 2
+F1 FINAL = 0.7551
+O texto anterior tinha 217140
+O texto atual tem 105947
+Documento tem 105947 tokens.
+Documento tem 105947 tokens.
+O texto anterior tinha 204863
+O texto atual tem 101053
+Documento tem 101053 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 38
+FP = 22
+TN = 3
+FN = 2
+F1 FINAL = 0.7600
+O texto anterior tinha 376295
+O texto atual tem 187715
+Documento tem 187715 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 369799
+O texto atual tem 183847
+Documento tem 183847 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 38
+FP = 22
+TN = 4
+FN = 2
+F1 FINAL = 0.7600
+O texto anterior tinha 171614
+O texto atual tem 86312
+Documento tem 86312 tokens.
+O texto anterior tinha 164204
+O texto atual tem 80566
+Documento tem 80566 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 38
+FP = 23
+TN = 4
+FN = 2
+F1 FINAL = 0.7525
+O texto anterior tinha 55556
+O texto atual tem 25752
+Documento tem 25752 tokens.
+O texto anterior tinha 61009
+O texto atual tem 27417
+Documento tem 27417 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 39
+FP = 23
+TN = 4
+FN = 2
+F1 FINAL = 0.7573
+O texto anterior tinha 339577
+O texto atual tem 119146
+Documento tem 119146 tokens.
+O texto anterior tinha 358842
+O texto atual tem 132618
+Documento tem 132618 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 40
+FP = 23
+TN = 4
+FN = 2
+F1 FINAL = 0.7619
+O texto anterior tinha 147212
+O texto atual tem 75905
+Documento tem 75905 tokens.
+O texto anterior tinha 146527
+O texto atual tem 74854
+Documento tem 74854 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 40
+FP = 24
+TN = 4
+FN = 2
+F1 FINAL = 0.7547
+O texto anterior tinha 234688
+O texto atual tem 120765
+Documento tem 120765 tokens.
+O texto anterior tinha 242646
+O texto atual tem 121597
+Documento tem 121597 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 41
+FP = 24
+TN = 4
+FN = 2
+F1 FINAL = 0.7593
+O texto anterior tinha 197233
+O texto atual tem 98170
+Documento tem 98170 tokens.
+O texto anterior tinha 206134
+O texto atual tem 98917
+Documento tem 98917 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 42
+FP = 24
+TN = 4
+FN = 2
+F1 FINAL = 0.7636
+O texto anterior tinha 235197
+O texto atual tem 116557
+Documento tem 116557 tokens.
+O texto anterior tinha 252366
+O texto atual tem 124506
+Documento tem 124506 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 43
+FP = 24
+TN = 4
+FN = 2
+F1 FINAL = 0.7679
+O texto anterior tinha 258310
+O texto atual tem 125763
+Documento tem 125763 tokens.
+O texto anterior tinha 277468
+O texto atual tem 136212
+Documento tem 136212 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 44
+FP = 24
+TN = 4
+FN = 2
+F1 FINAL = 0.7719
+O texto anterior tinha 340991
+O texto atual tem 108125
+Documento tem 108125 tokens.
+O texto anterior tinha 144010
+O texto atual tem 69233
+Documento tem 69233 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 44
+FP = 24
+TN = 5
+FN = 2
+F1 FINAL = 0.7719
+O texto anterior tinha 389644
+O texto atual tem 155585
+Documento tem 155585 tokens.
+O texto anterior tinha 335760
+O texto atual tem 164416
+Documento tem 164416 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 44
+FP = 25
+TN = 5
+FN = 2
+F1 FINAL = 0.7652
+O texto anterior tinha 223773
+O texto atual tem 113762
+Documento tem 113762 tokens.
+O texto anterior tinha 217263
+O texto atual tem 110474
+Documento tem 110474 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 44
+FP = 26
+TN = 5
+FN = 2
+F1 FINAL = 0.7586
+O texto anterior tinha 217753
+O texto atual tem 97109
+Documento tem 97109 tokens.
+O texto anterior tinha 269076
+O texto atual tem 118651
+Documento tem 118651 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 45
+FP = 26
+TN = 5
+FN = 2
+F1 FINAL = 0.7627
+O texto anterior tinha 312890
+O texto atual tem 150220
+Documento tem 150220 tokens.
+O texto anterior tinha 330584
+O texto atual tem 160702
+Documento tem 160702 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 45
+FP = 26
+TN = 5
+FN = 3
+F1 FINAL = 0.7563
+O texto anterior tinha 270177
+O texto atual tem 131953
+Documento tem 131953 tokens.
+O texto anterior tinha 287095
+O texto atual tem 139462
+Documento tem 139462 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 45
+FP = 27
+TN = 5
+FN = 3
+F1 FINAL = 0.7500
+O texto anterior tinha 155795
+O texto atual tem 75431
+Documento tem 75431 tokens.
+O texto anterior tinha 98281
+O texto atual tem 45734
+Documento tem 45734 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 46
+FP = 27
+TN = 5
+FN = 3
+F1 FINAL = 0.7541
+O texto anterior tinha 234234
+O texto atual tem 112152
+Documento tem 112152 tokens.
+O texto anterior tinha 233516
+O texto atual tem 111566
+Documento tem 111566 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 47
+FP = 27
+TN = 5
+FN = 3
+F1 FINAL = 0.7581
+O texto anterior tinha 301314
+O texto atual tem 151768
+Documento tem 151768 tokens.
+O texto anterior tinha 294617
+O texto atual tem 150580
+Documento tem 150580 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 47
+FP = 27
+TN = 6
+FN = 3
+F1 FINAL = 0.7581
+O texto anterior tinha 213213
+O texto atual tem 105069
+Documento tem 105069 tokens.
+O texto anterior tinha 214869
+O texto atual tem 107392
+Documento tem 107392 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 47
+FP = 28
+TN = 6
+FN = 3
+F1 FINAL = 0.7520
+O texto anterior tinha 252140
+O texto atual tem 122341
+Documento tem 122341 tokens.
+Documento tem 122341 tokens.
+O texto anterior tinha 249364
+O texto atual tem 123239
+Documento tem 123239 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 48
+FP = 28
+TN = 6
+FN = 3
+F1 FINAL = 0.7559
+O texto anterior tinha 183861
+O texto atual tem 89031
+Documento tem 89031 tokens.
+O texto anterior tinha 180903
+O texto atual tem 89291
+Documento tem 89291 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 49
+FP = 28
+TN = 6
+FN = 3
+F1 FINAL = 0.7597
+O texto anterior tinha 249481
+O texto atual tem 123184
+Documento tem 123184 tokens.
+O texto anterior tinha 243952
+O texto atual tem 119355
+Documento tem 119355 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 50
+FP = 28
+TN = 6
+FN = 3
+F1 FINAL = 0.7634
+O texto anterior tinha 204781
+O texto atual tem 100475
+Documento tem 100475 tokens.
+O texto anterior tinha 214895
+O texto atual tem 104869
+Documento tem 104869 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 50
+FP = 29
+TN = 6
+FN = 3
+F1 FINAL = 0.7576
+O texto anterior tinha 281000
+O texto atual tem 142770
+Documento tem 142770 tokens.
+O texto anterior tinha 346689
+O texto atual tem 164846
+Documento tem 164846 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 50
+FP = 30
+TN = 6
+FN = 3
+F1 FINAL = 0.7519
+O texto anterior tinha 251483
+O texto atual tem 121611
+Documento tem 121611 tokens.
+O texto anterior tinha 267585
+O texto atual tem 126740
+Documento tem 126740 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 50
+FP = 31
+TN = 6
+FN = 3
+F1 FINAL = 0.7463
+O texto anterior tinha 211485
+O texto atual tem 99176
+Documento tem 99176 tokens.
+O texto anterior tinha 72737
+O texto atual tem 31705
+Documento tem 31705 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 51
+FP = 31
+TN = 6
+FN = 3
+F1 FINAL = 0.7500
+O texto anterior tinha 270664
+O texto atual tem 133860
+Documento tem 133860 tokens.
+O texto anterior tinha 272703
+O texto atual tem 129309
+Documento tem 129309 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 52
+FP = 31
+TN = 6
+FN = 3
+F1 FINAL = 0.7536
+O texto anterior tinha 127113
+O texto atual tem 59742
+Documento tem 59742 tokens.
+O texto anterior tinha 128492
+O texto atual tem 60712
+Documento tem 60712 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 53
+FP = 31
+TN = 6
+FN = 3
+F1 FINAL = 0.7571
+O texto anterior tinha 188552
+O texto atual tem 88968
+Documento tem 88968 tokens.
+O texto anterior tinha 190424
+O texto atual tem 87740
+Documento tem 87740 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 54
+FP = 31
+TN = 6
+FN = 3
+F1 FINAL = 0.7606
+O texto anterior tinha 199545
+O texto atual tem 95835
+Documento tem 95835 tokens.
+O texto anterior tinha 179783
+O texto atual tem 84154
+Documento tem 84154 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 54
+FP = 32
+TN = 6
+FN = 3
+F1 FINAL = 0.7552
+O texto anterior tinha 160768
+O texto atual tem 82769
+Documento tem 82769 tokens.
+O texto anterior tinha 142205
+O texto atual tem 72517
+Documento tem 72517 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 54
+FP = 33
+TN = 6
+FN = 3
+F1 FINAL = 0.7500
+O texto anterior tinha 130481
+O texto atual tem 65970
+Documento tem 65970 tokens.
+O texto anterior tinha 122925
+O texto atual tem 62669
+Documento tem 62669 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 55
+FP = 33
+TN = 6
+FN = 3
+F1 FINAL = 0.7534
+O texto anterior tinha 77405
+O texto atual tem 35832
+Documento tem 35832 tokens.
+O texto anterior tinha 78213
+O texto atual tem 38631
+Documento tem 38631 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 55
+FP = 34
+TN = 6
+FN = 3
+F1 FINAL = 0.7483
+O texto anterior tinha 143344
+O texto atual tem 68949
+Documento tem 68949 tokens.
+O texto anterior tinha 143773
+O texto atual tem 70595
+Documento tem 70595 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 55
+FP = 35
+TN = 6
+FN = 3
+F1 FINAL = 0.7432
+O texto anterior tinha 92610
+O texto atual tem 45801
+Documento tem 45801 tokens.
+O texto anterior tinha 98127
+O texto atual tem 48642
+Documento tem 48642 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 55
+FP = 35
+TN = 6
+FN = 3
+F1 FINAL = 0.7432
+O texto anterior tinha 91141
+O texto atual tem 44099
+Documento tem 44099 tokens.
+O texto anterior tinha 86890
+O texto atual tem 42669
+Documento tem 42669 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 56
+FP = 35
+TN = 6
+FN = 3
+F1 FINAL = 0.7467
+O texto anterior tinha 128996
+O texto atual tem 63327
+Documento tem 63327 tokens.
+O texto anterior tinha 131241
+O texto atual tem 64327
+Documento tem 64327 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 56
+FP = 36
+TN = 6
+FN = 3
+F1 FINAL = 0.7417
+O texto anterior tinha 474597
+O texto atual tem 235104
+Documento tem 235104 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 439776
+O texto atual tem 227033
+Documento tem 227033 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 57
+FP = 36
+TN = 6
+FN = 3
+F1 FINAL = 0.7451
+O texto anterior tinha 367976
+O texto atual tem 186621
+Documento tem 186621 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 340473
+O texto atual tem 169230
+Documento tem 169230 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 57
+FP = 37
+TN = 6
+FN = 3
+F1 FINAL = 0.7403
+O texto anterior tinha 114023
+O texto atual tem 59092
+Documento tem 59092 tokens.
+O texto anterior tinha 108513
+O texto atual tem 54279
+Documento tem 54279 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 58
+FP = 37
+TN = 6
+FN = 3
+F1 FINAL = 0.7436
+O texto anterior tinha 179527
+O texto atual tem 84186
+Documento tem 84186 tokens.
+O texto anterior tinha 190741
+O texto atual tem 86387
+Documento tem 86387 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 58
+FP = 37
+TN = 6
+FN = 4
+F1 FINAL = 0.7389
+O texto anterior tinha 86405
+O texto atual tem 44689
+Documento tem 44689 tokens.
+O texto anterior tinha 93844
+O texto atual tem 48750
+Documento tem 48750 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 59
+FP = 37
+TN = 6
+FN = 4
+F1 FINAL = 0.7421
+O texto anterior tinha 54967
+O texto atual tem 25023
+Documento tem 25023 tokens.
+O texto anterior tinha 96191
+O texto atual tem 49376
+Documento tem 49376 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 60
+FP = 37
+TN = 6
+FN = 4
+F1 FINAL = 0.7453
+O texto anterior tinha 115187
+O texto atual tem 55043
+Documento tem 55043 tokens.
+O texto anterior tinha 112255
+O texto atual tem 56964
+Documento tem 56964 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 61
+FP = 37
+TN = 6
+FN = 4
+F1 FINAL = 0.7485
+O texto anterior tinha 46989
+O texto atual tem 23909
+Documento tem 23909 tokens.
+O texto anterior tinha 44115
+O texto atual tem 21296
+Documento tem 21296 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 61
+FP = 38
+TN = 6
+FN = 4
+F1 FINAL = 0.7439
+O texto anterior tinha 114920
+O texto atual tem 58041
+Documento tem 58041 tokens.
+O texto anterior tinha 144450
+O texto atual tem 73555
+Documento tem 73555 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 61
+FP = 39
+TN = 6
+FN = 4
+F1 FINAL = 0.7394
+O texto anterior tinha 156530
+O texto atual tem 77112
+Documento tem 77112 tokens.
+O texto anterior tinha 154795
+O texto atual tem 75702
+Documento tem 75702 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 62
+FP = 39
+TN = 6
+FN = 4
+F1 FINAL = 0.7425
+O texto anterior tinha 173435
+O texto atual tem 85137
+Documento tem 85137 tokens.
+O texto anterior tinha 179754
+O texto atual tem 88680
+Documento tem 88680 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 62
+FP = 40
+TN = 6
+FN = 4
+F1 FINAL = 0.7381
+O texto anterior tinha 149832
+O texto atual tem 70460
+Documento tem 70460 tokens.
+Documento tem 70460 tokens.
+O texto anterior tinha 150002
+O texto atual tem 70972
+Documento tem 70972 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 62
+FP = 41
+TN = 6
+FN = 4
+F1 FINAL = 0.7337
+O texto anterior tinha 146327
+O texto atual tem 68549
+Documento tem 68549 tokens.
+O texto anterior tinha 141585
+O texto atual tem 68717
+Documento tem 68717 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 62
+FP = 42
+TN = 6
+FN = 4
+F1 FINAL = 0.7294
+O texto anterior tinha 175830
+O texto atual tem 88341
+Documento tem 88341 tokens.
+Documento tem 88341 tokens.
+O texto anterior tinha 161123
+O texto atual tem 80752
+Documento tem 80752 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 62
+FP = 43
+TN = 6
+FN = 4
+F1 FINAL = 0.7251
+O texto anterior tinha 102566
+O texto atual tem 53655
+Documento tem 53655 tokens.
+O texto anterior tinha 98242
+O texto atual tem 50223
+Documento tem 50223 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 63
+FP = 43
+TN = 6
+FN = 4
+F1 FINAL = 0.7283
+O texto anterior tinha 117216
+O texto atual tem 59323
+Documento tem 59323 tokens.
+O texto anterior tinha 121626
+O texto atual tem 60007
+Documento tem 60007 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 63
+FP = 44
+TN = 6
+FN = 4
+F1 FINAL = 0.7241
+O texto anterior tinha 66867
+O texto atual tem 31265
+Documento tem 31265 tokens.
+Documento tem 31265 tokens.
+O texto anterior tinha 68759
+O texto atual tem 32695
+Documento tem 32695 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 63
+FP = 44
+TN = 7
+FN = 4
+F1 FINAL = 0.7241
+O texto anterior tinha 196009
+O texto atual tem 90933
+Documento tem 90933 tokens.
+O texto anterior tinha 202058
+O texto atual tem 94613
+Documento tem 94613 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 63
+FP = 45
+TN = 7
+FN = 4
+F1 FINAL = 0.7200
+O texto anterior tinha 189298
+O texto atual tem 87206
+Documento tem 87206 tokens.
+O texto anterior tinha 172833
+O texto atual tem 79806
+Documento tem 79806 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 64
+FP = 45
+TN = 7
+FN = 4
+F1 FINAL = 0.7232
+O texto anterior tinha 182463
+O texto atual tem 85705
+Documento tem 85705 tokens.
+O texto anterior tinha 194476
+O texto atual tem 90662
+Documento tem 90662 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 65
+FP = 45
+TN = 7
+FN = 4
+F1 FINAL = 0.7263
+O texto anterior tinha 152671
+O texto atual tem 75861
+Documento tem 75861 tokens.
+O texto anterior tinha 158292
+O texto atual tem 77845
+Documento tem 77845 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 66
+FP = 45
+TN = 7
+FN = 4
+F1 FINAL = 0.7293
+O texto anterior tinha 102869
+O texto atual tem 50642
+Documento tem 50642 tokens.
+O texto anterior tinha 102493
+O texto atual tem 50499
+Documento tem 50499 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 67
+FP = 45
+TN = 7
+FN = 4
+F1 FINAL = 0.7322
+O texto anterior tinha 199143
+O texto atual tem 93016
+Documento tem 93016 tokens.
+Documento tem 93016 tokens.
+O texto anterior tinha 152561
+O texto atual tem 77048
+Documento tem 77048 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 68
+FP = 45
+TN = 7
+FN = 4
+F1 FINAL = 0.7351
+O texto anterior tinha 130003
+O texto atual tem 67847
+Documento tem 67847 tokens.
+O texto anterior tinha 152879
+O texto atual tem 77202
+Documento tem 77202 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 69
+FP = 45
+TN = 7
+FN = 4
+F1 FINAL = 0.7380
+O texto anterior tinha 141892
+O texto atual tem 69455
+Documento tem 69455 tokens.
+O texto anterior tinha 148193
+O texto atual tem 73466
+Documento tem 73466 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 69
+FP = 46
+TN = 7
+FN = 4
+F1 FINAL = 0.7340
+O texto anterior tinha 96554
+O texto atual tem 47124
+Documento tem 47124 tokens.
+O texto anterior tinha 92078
+O texto atual tem 46047
+Documento tem 46047 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 70
+FP = 46
+TN = 7
+FN = 4
+F1 FINAL = 0.7368
+O texto anterior tinha 135737
+O texto atual tem 64938
+Documento tem 64938 tokens.
+O texto anterior tinha 141473
+O texto atual tem 67984
+Documento tem 67984 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 71
+FP = 46
+TN = 7
+FN = 4
+F1 FINAL = 0.7396
+O texto anterior tinha 83753
+O texto atual tem 39943
+Documento tem 39943 tokens.
+Documento tem 39943 tokens.
+Documento tem 39943 tokens.
+Documento tem 39943 tokens.
+O texto anterior tinha 93434
+O texto atual tem 44939
+Documento tem 44939 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 71
+FP = 47
+TN = 7
+FN = 4
+F1 FINAL = 0.7358
+O texto anterior tinha 167365
+O texto atual tem 80408
+Documento tem 80408 tokens.
+[GPTClient] Erro LLM: Response ended prematurely
+O texto anterior tinha 161262
+O texto atual tem 77598
+Documento tem 77598 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 72
+FP = 47
+TN = 7
+FN = 4
+F1 FINAL = 0.7385
+O texto anterior tinha 200651
+O texto atual tem 96769
+Documento tem 96769 tokens.
+O texto anterior tinha 226212
+O texto atual tem 110616
+Documento tem 110616 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 72
+FP = 48
+TN = 7
+FN = 4
+F1 FINAL = 0.7347
+O texto anterior tinha 354581
+O texto atual tem 172012
+Documento tem 172012 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 405158
+O texto atual tem 194383
+Documento tem 194383 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 73
+FP = 48
+TN = 7
+FN = 4
+F1 FINAL = 0.7374
+O texto anterior tinha 236058
+O texto atual tem 120065
+Documento tem 120065 tokens.
+O texto anterior tinha 268782
+O texto atual tem 132690
+Documento tem 132690 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 74
+FP = 48
+TN = 7
+FN = 4
+F1 FINAL = 0.7400
+O texto anterior tinha 63885
+O texto atual tem 31489
+Documento tem 31489 tokens.
+O texto anterior tinha 62163
+O texto atual tem 30194
+Documento tem 30194 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 75
+FP = 48
+TN = 7
+FN = 4
+F1 FINAL = 0.7426
+O texto anterior tinha 120131
+O texto atual tem 59125
+Documento tem 59125 tokens.
+O texto anterior tinha 119292
+O texto atual tem 57416
+Documento tem 57416 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 76
+FP = 48
+TN = 7
+FN = 4
+F1 FINAL = 0.7451
+O texto anterior tinha 104786
+O texto atual tem 51979
+Documento tem 51979 tokens.
+O texto anterior tinha 107310
+O texto atual tem 53790
+Documento tem 53790 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 76
+FP = 49
+TN = 7
+FN = 4
+F1 FINAL = 0.7415
+O texto anterior tinha 74383
+O texto atual tem 36726
+Documento tem 36726 tokens.
+O texto anterior tinha 100036
+O texto atual tem 49784
+Documento tem 49784 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 77
+FP = 49
+TN = 7
+FN = 4
+F1 FINAL = 0.7440
+O texto anterior tinha 91890
+O texto atual tem 46318
+Documento tem 46318 tokens.
+O texto anterior tinha 91805
+O texto atual tem 47663
+Documento tem 47663 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 77
+FP = 50
+TN = 7
+FN = 4
+F1 FINAL = 0.7404
+O texto anterior tinha 100650
+O texto atual tem 50355
+Documento tem 50355 tokens.
+O texto anterior tinha 119598
+O texto atual tem 59191
+Documento tem 59191 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 78
+FP = 50
+TN = 7
+FN = 4
+F1 FINAL = 0.7429
+O texto anterior tinha 153905
+O texto atual tem 74655
+Documento tem 74655 tokens.
+O texto anterior tinha 152806
+O texto atual tem 74460
+Documento tem 74460 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 79
+FP = 50
+TN = 7
+FN = 4
+F1 FINAL = 0.7453
+O texto anterior tinha 118370
+O texto atual tem 56276
+Documento tem 56276 tokens.
+O texto anterior tinha 120696
+O texto atual tem 58419
+Documento tem 58419 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 80
+FP = 50
+TN = 7
+FN = 4
+F1 FINAL = 0.7477
+O texto anterior tinha 85416
+O texto atual tem 41662
+Documento tem 41662 tokens.
+O texto anterior tinha 74995
+O texto atual tem 36351
+Documento tem 36351 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 81
+FP = 50
+TN = 7
+FN = 4
+F1 FINAL = 0.7500
+O texto anterior tinha 200029
+O texto atual tem 100560
+Documento tem 100560 tokens.
+O texto anterior tinha 129911
+O texto atual tem 62146
+Documento tem 62146 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 82
+FP = 50
+TN = 7
+FN = 4
+F1 FINAL = 0.7523
+O texto anterior tinha 140247
+O texto atual tem 68997
+Documento tem 68997 tokens.
+O texto anterior tinha 150209
+O texto atual tem 71726
+Documento tem 71726 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 82
+FP = 51
+TN = 7
+FN = 4
+F1 FINAL = 0.7489
+O texto anterior tinha 103710
+O texto atual tem 51542
+Documento tem 51542 tokens.
+O texto anterior tinha 106558
+O texto atual tem 53508
+Documento tem 53508 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 83
+FP = 51
+TN = 7
+FN = 4
+F1 FINAL = 0.7511
+O texto anterior tinha 353598
+O texto atual tem 166776
+Documento tem 166776 tokens.
+O texto anterior tinha 423591
+O texto atual tem 205940
+Documento tem 205940 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 84
+FP = 51
+TN = 7
+FN = 4
+F1 FINAL = 0.7534
+O texto anterior tinha 141892
+O texto atual tem 71317
+Documento tem 71317 tokens.
+O texto anterior tinha 144702
+O texto atual tem 73263
+Documento tem 73263 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 85
+FP = 51
+TN = 7
+FN = 4
+F1 FINAL = 0.7556
+O texto anterior tinha 168715
+O texto atual tem 85606
+Documento tem 85606 tokens.
+O texto anterior tinha 175650
+O texto atual tem 87079
+Documento tem 87079 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 85
+FP = 52
+TN = 7
+FN = 4
+F1 FINAL = 0.7522
+O texto anterior tinha 122024
+O texto atual tem 61654
+Documento tem 61654 tokens.
+O texto anterior tinha 123197
+O texto atual tem 61560
+Documento tem 61560 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 86
+FP = 52
+TN = 7
+FN = 4
+F1 FINAL = 0.7544
+O texto anterior tinha 93420
+O texto atual tem 47056
+Documento tem 47056 tokens.
+O texto anterior tinha 92299
+O texto atual tem 45835
+Documento tem 45835 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 87
+FP = 52
+TN = 7
+FN = 4
+F1 FINAL = 0.7565
+O texto anterior tinha 143302
+O texto atual tem 72819
+Documento tem 72819 tokens.
+O texto anterior tinha 139810
+O texto atual tem 69618
+Documento tem 69618 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 88
+FP = 52
+TN = 7
+FN = 4
+F1 FINAL = 0.7586
+O texto anterior tinha 155449
+O texto atual tem 77010
+Documento tem 77010 tokens.
+O texto anterior tinha 151799
+O texto atual tem 75486
+Documento tem 75486 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 89
+FP = 52
+TN = 7
+FN = 4
+F1 FINAL = 0.7607
+O texto anterior tinha 91540
+O texto atual tem 45130
+Documento tem 45130 tokens.
+O texto anterior tinha 88863
+O texto atual tem 43750
+Documento tem 43750 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 90
+FP = 52
+TN = 7
+FN = 4
+F1 FINAL = 0.7627
+O texto anterior tinha 179517
+O texto atual tem 90035
+Documento tem 90035 tokens.
+O texto anterior tinha 168582
+O texto atual tem 85374
+Documento tem 85374 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 52
+TN = 7
+FN = 4
+F1 FINAL = 0.7647
+O texto anterior tinha 181014
+O texto atual tem 88239
+Documento tem 88239 tokens.
+O texto anterior tinha 167536
+O texto atual tem 79454
+Documento tem 79454 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 53
+TN = 7
+FN = 4
+F1 FINAL = 0.7615
+O texto anterior tinha 256340
+O texto atual tem 124081
+Documento tem 124081 tokens.
+O texto anterior tinha 233172
+O texto atual tem 113356
+Documento tem 113356 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 54
+TN = 7
+FN = 4
+F1 FINAL = 0.7583
+O texto anterior tinha 94503
+O texto atual tem 43786
+Documento tem 43786 tokens.
+O texto anterior tinha 132396
+O texto atual tem 65632
+Documento tem 65632 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 54
+TN = 8
+FN = 4
+F1 FINAL = 0.7583
+O texto anterior tinha 115337
+O texto atual tem 57398
+Documento tem 57398 tokens.
+O texto anterior tinha 117386
+O texto atual tem 58484
+Documento tem 58484 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 55
+TN = 8
+FN = 4
+F1 FINAL = 0.7552
+O texto anterior tinha 152268
+O texto atual tem 75390
+Documento tem 75390 tokens.
+O texto anterior tinha 159843
+O texto atual tem 79167
+Documento tem 79167 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 56
+TN = 8
+FN = 4
+F1 FINAL = 0.7521
+O texto anterior tinha 139657
+O texto atual tem 69132
+Documento tem 69132 tokens.
+O texto anterior tinha 129564
+O texto atual tem 63784
+Documento tem 63784 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 57
+TN = 8
+FN = 4
+F1 FINAL = 0.7490
+O texto anterior tinha 96474
+O texto atual tem 48527
+Documento tem 48527 tokens.
+O texto anterior tinha 108091
+O texto atual tem 54159
+Documento tem 54159 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 91
+FP = 58
+TN = 8
+FN = 4
+F1 FINAL = 0.7459
+O texto anterior tinha 147612
+O texto atual tem 72794
+Documento tem 72794 tokens.
+O texto anterior tinha 170270
+O texto atual tem 85130
+Documento tem 85130 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 92
+FP = 58
+TN = 8
+FN = 4
+F1 FINAL = 0.7480
+O texto anterior tinha 100291
+O texto atual tem 50568
+Documento tem 50568 tokens.
+Documento tem 50568 tokens.
+O texto anterior tinha 100413
+O texto atual tem 50978
+Documento tem 50978 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 92
+FP = 59
+TN = 8
+FN = 4
+F1 FINAL = 0.7449
+O texto anterior tinha 158239
+O texto atual tem 78577
+Documento tem 78577 tokens.
+O texto anterior tinha 172444
+O texto atual tem 85151
+Documento tem 85151 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 92
+FP = 60
+TN = 8
+FN = 4
+F1 FINAL = 0.7419
+O texto anterior tinha 111515
+O texto atual tem 55886
+Documento tem 55886 tokens.
+O texto anterior tinha 113994
+O texto atual tem 55980
+Documento tem 55980 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 93
+FP = 60
+TN = 8
+FN = 4
+F1 FINAL = 0.7440
+O texto anterior tinha 294805
+O texto atual tem 144828
+Documento tem 144828 tokens.
+O texto anterior tinha 270757
+O texto atual tem 132228
+Documento tem 132228 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 93
+FP = 61
+TN = 8
+FN = 4
+F1 FINAL = 0.7410
+O texto anterior tinha 165814
+O texto atual tem 81858
+Documento tem 81858 tokens.
+O texto anterior tinha 162052
+O texto atual tem 81958
+Documento tem 81958 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 94
+FP = 61
+TN = 8
+FN = 4
+F1 FINAL = 0.7431
+O texto anterior tinha 130489
+O texto atual tem 62124
+Documento tem 62124 tokens.
+O texto anterior tinha 98450
+O texto atual tem 48109
+Documento tem 48109 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 94
+FP = 62
+TN = 8
+FN = 4
+F1 FINAL = 0.7402
+O texto anterior tinha 205132
+O texto atual tem 96614
+Documento tem 96614 tokens.
+O texto anterior tinha 164555
+O texto atual tem 79721
+Documento tem 79721 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 95
+FP = 62
+TN = 8
+FN = 4
+F1 FINAL = 0.7422
+O texto anterior tinha 280854
+O texto atual tem 142944
+Documento tem 142944 tokens.
+O texto anterior tinha 274749
+O texto atual tem 140967
+Documento tem 140967 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 96
+FP = 62
+TN = 8
+FN = 4
+F1 FINAL = 0.7442
+O texto anterior tinha 98451
+O texto atual tem 47697
+Documento tem 47697 tokens.
+O texto anterior tinha 124706
+O texto atual tem 63296
+Documento tem 63296 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 97
+FP = 62
+TN = 8
+FN = 4
+F1 FINAL = 0.7462
+O texto anterior tinha 225301
+O texto atual tem 109201
+Documento tem 109201 tokens.
+O texto anterior tinha 236339
+O texto atual tem 113706
+Documento tem 113706 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 98
+FP = 62
+TN = 8
+FN = 4
+F1 FINAL = 0.7481
+O texto anterior tinha 179106
+O texto atual tem 90285
+Documento tem 90285 tokens.
+O texto anterior tinha 191024
+O texto atual tem 94941
+Documento tem 94941 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 98
+FP = 63
+TN = 8
+FN = 4
+F1 FINAL = 0.7452
+O texto anterior tinha 170405
+O texto atual tem 78482
+Documento tem 78482 tokens.
+O texto anterior tinha 160478
+O texto atual tem 74451
+Documento tem 74451 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 99
+FP = 63
+TN = 8
+FN = 4
+F1 FINAL = 0.7472
+O texto anterior tinha 150850
+O texto atual tem 73095
+Documento tem 73095 tokens.
+O texto anterior tinha 151488
+O texto atual tem 74604
+Documento tem 74604 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 100
+FP = 63
+TN = 8
+FN = 4
+F1 FINAL = 0.7491
+O texto anterior tinha 169182
+O texto atual tem 85151
+Documento tem 85151 tokens.
+O texto anterior tinha 170733
+O texto atual tem 86644
+Documento tem 86644 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 100
+FP = 64
+TN = 8
+FN = 4
+F1 FINAL = 0.7463
+O texto anterior tinha 164722
+O texto atual tem 79207
+Documento tem 79207 tokens.
+O texto anterior tinha 163934
+O texto atual tem 78169
+Documento tem 78169 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 100
+FP = 65
+TN = 8
+FN = 4
+F1 FINAL = 0.7435
+O texto anterior tinha 195359
+O texto atual tem 95618
+Documento tem 95618 tokens.
+O texto anterior tinha 177261
+O texto atual tem 88038
+Documento tem 88038 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 100
+FP = 65
+TN = 8
+FN = 4
+F1 FINAL = 0.7435
+O texto anterior tinha 102856
+O texto atual tem 51434
+Documento tem 51434 tokens.
+O texto anterior tinha 102589
+O texto atual tem 51927
+Documento tem 51927 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 101
+FP = 65
+TN = 8
+FN = 4
+F1 FINAL = 0.7454
+O texto anterior tinha 165052
+O texto atual tem 80902
+Documento tem 80902 tokens.
+O texto anterior tinha 155365
+O texto atual tem 77203
+Documento tem 77203 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 102
+FP = 65
+TN = 8
+FN = 4
+F1 FINAL = 0.7473
+O texto anterior tinha 104883
+O texto atual tem 54179
+Documento tem 54179 tokens.
+O texto anterior tinha 99884
+O texto atual tem 51033
+Documento tem 51033 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 102
+FP = 66
+TN = 8
+FN = 4
+F1 FINAL = 0.7445
+O texto anterior tinha 102894
+O texto atual tem 55081
+Documento tem 55081 tokens.
+Documento tem 55081 tokens.
+O texto anterior tinha 108681
+O texto atual tem 56555
+Documento tem 56555 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 102
+FP = 67
+TN = 8
+FN = 4
+F1 FINAL = 0.7418
+O texto anterior tinha 180655
+O texto atual tem 88051
+Documento tem 88051 tokens.
+O texto anterior tinha 206176
+O texto atual tem 99161
+Documento tem 99161 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 103
+FP = 67
+TN = 8
+FN = 4
+F1 FINAL = 0.7437
+O texto anterior tinha 143850
+O texto atual tem 70217
+Documento tem 70217 tokens.
+Documento tem 70217 tokens.
+O texto anterior tinha 100953
+O texto atual tem 47633
+Documento tem 47633 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 104
+FP = 67
+TN = 8
+FN = 4
+F1 FINAL = 0.7455
+O texto anterior tinha 172323
+O texto atual tem 80444
+Documento tem 80444 tokens.
+O texto anterior tinha 167566
+O texto atual tem 79795
+Documento tem 79795 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 105
+FP = 67
+TN = 8
+FN = 4
+F1 FINAL = 0.7473
+O texto anterior tinha 88498
+O texto atual tem 43031
+Documento tem 43031 tokens.
+O texto anterior tinha 92804
+O texto atual tem 43899
+Documento tem 43899 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 106
+FP = 67
+TN = 8
+FN = 4
+F1 FINAL = 0.7491
+O texto anterior tinha 163293
+O texto atual tem 76891
+Documento tem 76891 tokens.
+O texto anterior tinha 153968
+O texto atual tem 73467
+Documento tem 73467 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 107
+FP = 67
+TN = 8
+FN = 4
+F1 FINAL = 0.7509
+O texto anterior tinha 253092
+O texto atual tem 119563
+Documento tem 119563 tokens.
+Documento tem 119563 tokens.
+Documento tem 119563 tokens.
+Documento tem 119563 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+O texto anterior tinha 224662
+O texto atual tem 106169
+Documento tem 106169 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 107
+FP = 67
+TN = 8
+FN = 5
+F1 FINAL = 0.7483
+O texto anterior tinha 169339
+O texto atual tem 86332
+Documento tem 86332 tokens.
+O texto anterior tinha 156842
+O texto atual tem 78084
+Documento tem 78084 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 107
+FP = 67
+TN = 9
+FN = 5
+F1 FINAL = 0.7483
+O texto anterior tinha 150427
+O texto atual tem 75472
+Documento tem 75472 tokens.
+O texto anterior tinha 133150
+O texto atual tem 67382
+Documento tem 67382 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 108
+FP = 67
+TN = 9
+FN = 5
+F1 FINAL = 0.7500
+O texto anterior tinha 81156
+O texto atual tem 38139
+Documento tem 38139 tokens.
+O texto anterior tinha 91789
+O texto atual tem 46771
+Documento tem 46771 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 108
+FP = 68
+TN = 9
+FN = 5
+F1 FINAL = 0.7474
+O texto anterior tinha 158798
+O texto atual tem 76405
+Documento tem 76405 tokens.
+O texto anterior tinha 162600
+O texto atual tem 78555
+Documento tem 78555 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 108
+FP = 69
+TN = 9
+FN = 5
+F1 FINAL = 0.7448
+O texto anterior tinha 104399
+O texto atual tem 52679
+Documento tem 52679 tokens.
+O texto anterior tinha 111234
+O texto atual tem 54534
+Documento tem 54534 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 108
+FP = 70
+TN = 9
+FN = 5
+F1 FINAL = 0.7423
+O texto anterior tinha 104068
+O texto atual tem 50734
+Documento tem 50734 tokens.
+O texto anterior tinha 90770
+O texto atual tem 44687
+Documento tem 44687 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 109
+FP = 70
+TN = 9
+FN = 5
+F1 FINAL = 0.7440
+O texto anterior tinha 144704
+O texto atual tem 70526
+Documento tem 70526 tokens.
+O texto anterior tinha 148053
+O texto atual tem 71885
+Documento tem 71885 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 110
+FP = 70
+TN = 9
+FN = 5
+F1 FINAL = 0.7458
+O texto anterior tinha 504900
+O texto atual tem 250037
+Documento tem 250037 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 250037 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 250037 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+Documento tem 250037 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+O texto anterior tinha 472940
+O texto atual tem 247529
+Documento tem 247529 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 111
+FP = 70
+TN = 9
+FN = 5
+F1 FINAL = 0.7475
+O texto anterior tinha 419435
+O texto atual tem 208747
+Documento tem 208747 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 396668
+O texto atual tem 199029
+Documento tem 199029 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 111
+FP = 70
+TN = 10
+FN = 5
+F1 FINAL = 0.7475
+O texto anterior tinha 130291
+O texto atual tem 65787
+Documento tem 65787 tokens.
+Documento tem 65787 tokens.
+O texto anterior tinha 121840
+O texto atual tem 62576
+Documento tem 62576 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 112
+FP = 70
+TN = 10
+FN = 5
+F1 FINAL = 0.7492
+O texto anterior tinha 184538
+O texto atual tem 86321
+Documento tem 86321 tokens.
+O texto anterior tinha 195260
+O texto atual tem 89556
+Documento tem 89556 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 112
+FP = 70
+TN = 10
+FN = 5
+F1 FINAL = 0.7492
+O texto anterior tinha 92338
+O texto atual tem 48115
+Documento tem 48115 tokens.
+Documento tem 48115 tokens.
+O texto anterior tinha 93361
+O texto atual tem 48381
+Documento tem 48381 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 113
+FP = 70
+TN = 10
+FN = 5
+F1 FINAL = 0.7508
+O texto anterior tinha 111862
+O texto atual tem 57290
+Documento tem 57290 tokens.
+O texto anterior tinha 105416
+O texto atual tem 54169
+Documento tem 54169 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 113
+FP = 70
+TN = 11
+FN = 5
+F1 FINAL = 0.7508
+O texto anterior tinha 115860
+O texto atual tem 56286
+Documento tem 56286 tokens.
+O texto anterior tinha 129915
+O texto atual tem 63826
+Documento tem 63826 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 114
+FP = 70
+TN = 11
+FN = 5
+F1 FINAL = 0.7525
+O texto anterior tinha 51108
+O texto atual tem 26074
+Documento tem 26074 tokens.
+Documento tem 26074 tokens.
+O texto anterior tinha 44685
+O texto atual tem 23539
+Documento tem 23539 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 115
+FP = 70
+TN = 11
+FN = 5
+F1 FINAL = 0.7541
+O texto anterior tinha 141576
+O texto atual tem 70432
+Documento tem 70432 tokens.
+O texto anterior tinha 163370
+O texto atual tem 82653
+Documento tem 82653 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 115
+FP = 71
+TN = 11
+FN = 5
+F1 FINAL = 0.7516
+O texto anterior tinha 166646
+O texto atual tem 82048
+Documento tem 82048 tokens.
+O texto anterior tinha 174300
+O texto atual tem 84173
+Documento tem 84173 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 116
+FP = 71
+TN = 11
+FN = 5
+F1 FINAL = 0.7532
+O texto anterior tinha 182289
+O texto atual tem 90092
+Documento tem 90092 tokens.
+O texto anterior tinha 207651
+O texto atual tem 99221
+Documento tem 99221 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 117
+FP = 71
+TN = 11
+FN = 5
+F1 FINAL = 0.7548
+O texto anterior tinha 159064
+O texto atual tem 76618
+Documento tem 76618 tokens.
+O texto anterior tinha 151367
+O texto atual tem 71016
+Documento tem 71016 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 117
+FP = 71
+TN = 11
+FN = 6
+F1 FINAL = 0.7524
+O texto anterior tinha 178252
+O texto atual tem 83721
+Documento tem 83721 tokens.
+O texto anterior tinha 171934
+O texto atual tem 81730
+Documento tem 81730 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 118
+FP = 71
+TN = 11
+FN = 6
+F1 FINAL = 0.7540
+O texto anterior tinha 190690
+O texto atual tem 95397
+Documento tem 95397 tokens.
+O texto anterior tinha 186031
+O texto atual tem 92822
+Documento tem 92822 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 118
+FP = 71
+TN = 11
+FN = 7
+F1 FINAL = 0.7516
+O texto anterior tinha 107855
+O texto atual tem 57399
+Documento tem 57399 tokens.
+O texto anterior tinha 105529
+O texto atual tem 54715
+Documento tem 54715 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 119
+FP = 71
+TN = 11
+FN = 7
+F1 FINAL = 0.7532
+O texto anterior tinha 126582
+O texto atual tem 63727
+Documento tem 63727 tokens.
+O texto anterior tinha 123221
+O texto atual tem 60831
+Documento tem 60831 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 120
+FP = 71
+TN = 11
+FN = 7
+F1 FINAL = 0.7547
+O texto anterior tinha 74265
+O texto atual tem 34379
+Documento tem 34379 tokens.
+O texto anterior tinha 81457
+O texto atual tem 37118
+Documento tem 37118 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 121
+FP = 71
+TN = 11
+FN = 7
+F1 FINAL = 0.7562
+O texto anterior tinha 215085
+O texto atual tem 100476
+Documento tem 100476 tokens.
+O texto anterior tinha 149865
+O texto atual tem 71492
+Documento tem 71492 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 122
+FP = 71
+TN = 11
+FN = 7
+F1 FINAL = 0.7578
+O texto anterior tinha 209286
+O texto atual tem 96394
+Documento tem 96394 tokens.
+O texto anterior tinha 184584
+O texto atual tem 89146
+Documento tem 89146 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 123
+FP = 71
+TN = 11
+FN = 7
+F1 FINAL = 0.7593
+O texto anterior tinha 218371
+O texto atual tem 104757
+Documento tem 104757 tokens.
+O texto anterior tinha 223332
+O texto atual tem 108730
+Documento tem 108730 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 123
+FP = 71
+TN = 12
+FN = 7
+F1 FINAL = 0.7593
+O texto anterior tinha 165633
+O texto atual tem 83040
+Documento tem 83040 tokens.
+O texto anterior tinha 160343
+O texto atual tem 80122
+Documento tem 80122 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 123
+FP = 72
+TN = 12
+FN = 7
+F1 FINAL = 0.7569
+O texto anterior tinha 111953
+O texto atual tem 55224
+Documento tem 55224 tokens.
+O texto anterior tinha 109548
+O texto atual tem 54790
+Documento tem 54790 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 124
+FP = 72
+TN = 12
+FN = 7
+F1 FINAL = 0.7584
+O texto anterior tinha 213303
+O texto atual tem 100883
+Documento tem 100883 tokens.
+O texto anterior tinha 169548
+O texto atual tem 83379
+Documento tem 83379 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 125
+FP = 72
+TN = 12
+FN = 7
+F1 FINAL = 0.7599
+O texto anterior tinha 158924
+O texto atual tem 80607
+Documento tem 80607 tokens.
+O texto anterior tinha 158728
+O texto atual tem 81852
+Documento tem 81852 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 126
+FP = 72
+TN = 12
+FN = 7
+F1 FINAL = 0.7613
+O texto anterior tinha 152291
+O texto atual tem 75384
+Documento tem 75384 tokens.
+Documento tem 75384 tokens.
+O texto anterior tinha 161105
+O texto atual tem 79593
+Documento tem 79593 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 126
+FP = 73
+TN = 12
+FN = 7
+F1 FINAL = 0.7590
+O texto anterior tinha 108589
+O texto atual tem 53297
+Documento tem 53297 tokens.
+O texto anterior tinha 97012
+O texto atual tem 49679
+Documento tem 49679 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 127
+FP = 73
+TN = 12
+FN = 7
+F1 FINAL = 0.7605
+O texto anterior tinha 151511
+O texto atual tem 74396
+Documento tem 74396 tokens.
+O texto anterior tinha 158851
+O texto atual tem 77251
+Documento tem 77251 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 128
+FP = 73
+TN = 12
+FN = 7
+F1 FINAL = 0.7619
+O texto anterior tinha 116362
+O texto atual tem 55578
+Documento tem 55578 tokens.
+O texto anterior tinha 104201
+O texto atual tem 50175
+Documento tem 50175 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 129
+FP = 73
+TN = 12
+FN = 7
+F1 FINAL = 0.7633
+O texto anterior tinha 174829
+O texto atual tem 85375
+Documento tem 85375 tokens.
+Documento tem 85375 tokens.
+O texto anterior tinha 163951
+O texto atual tem 79308
+Documento tem 79308 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 130
+FP = 73
+TN = 12
+FN = 7
+F1 FINAL = 0.7647
+O texto anterior tinha 224654
+O texto atual tem 110844
+Documento tem 110844 tokens.
+O texto anterior tinha 265083
+O texto atual tem 130304
+Documento tem 130304 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 131
+FP = 73
+TN = 12
+FN = 7
+F1 FINAL = 0.7661
+O texto anterior tinha 367897
+O texto atual tem 179189
+Documento tem 179189 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 421635
+O texto atual tem 203375
+Documento tem 203375 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 131
+FP = 73
+TN = 12
+FN = 8
+F1 FINAL = 0.7638
+O texto anterior tinha 281369
+O texto atual tem 139711
+Documento tem 139711 tokens.
+O texto anterior tinha 280817
+O texto atual tem 143372
+Documento tem 143372 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 132
+FP = 73
+TN = 12
+FN = 8
+F1 FINAL = 0.7652
+O texto anterior tinha 71597
+O texto atual tem 34782
+Documento tem 34782 tokens.
+O texto anterior tinha 67801
+O texto atual tem 33042
+Documento tem 33042 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 133
+FP = 73
+TN = 12
+FN = 8
+F1 FINAL = 0.7666
+O texto anterior tinha 397322
+O texto atual tem 115190
+Documento tem 115190 tokens.
+O texto anterior tinha 136725
+O texto atual tem 66729
+Documento tem 66729 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 134
+FP = 73
+TN = 12
+FN = 8
+F1 FINAL = 0.7679
+O texto anterior tinha 117908
+O texto atual tem 59462
+Documento tem 59462 tokens.
+Documento tem 59462 tokens.
+O texto anterior tinha 130344
+O texto atual tem 63412
+Documento tem 63412 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 135
+FP = 73
+TN = 12
+FN = 8
+F1 FINAL = 0.7692
+O texto anterior tinha 89584
+O texto atual tem 44785
+Documento tem 44785 tokens.
+O texto anterior tinha 115513
+O texto atual tem 57319
+Documento tem 57319 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 136
+FP = 73
+TN = 12
+FN = 8
+F1 FINAL = 0.7705
+O texto anterior tinha 102087
+O texto atual tem 52726
+Documento tem 52726 tokens.
+Documento tem 52726 tokens.
+O texto anterior tinha 109900
+O texto atual tem 55507
+Documento tem 55507 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 137
+FP = 73
+TN = 12
+FN = 8
+F1 FINAL = 0.7718
+O texto anterior tinha 108777
+O texto atual tem 53779
+Documento tem 53779 tokens.
+O texto anterior tinha 136770
+O texto atual tem 67963
+Documento tem 67963 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 137
+FP = 74
+TN = 12
+FN = 8
+F1 FINAL = 0.7697
+O texto anterior tinha 167532
+O texto atual tem 81268
+Documento tem 81268 tokens.
+O texto anterior tinha 183347
+O texto atual tem 89109
+Documento tem 89109 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 137
+FP = 74
+TN = 12
+FN = 9
+F1 FINAL = 0.7675
+O texto anterior tinha 129472
+O texto atual tem 62397
+Documento tem 62397 tokens.
+O texto anterior tinha 132222
+O texto atual tem 64838
+Documento tem 64838 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 137
+FP = 75
+TN = 12
+FN = 9
+F1 FINAL = 0.7654
+O texto anterior tinha 82322
+O texto atual tem 40510
+Documento tem 40510 tokens.
+O texto anterior tinha 80617
+O texto atual tem 40165
+Documento tem 40165 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 137
+FP = 76
+TN = 12
+FN = 9
+F1 FINAL = 0.7632
+O texto anterior tinha 256875
+O texto atual tem 128022
+Documento tem 128022 tokens.
+O texto anterior tinha 236107
+O texto atual tem 117085
+Documento tem 117085 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 138
+FP = 76
+TN = 12
+FN = 9
+F1 FINAL = 0.7645
+O texto anterior tinha 151354
+O texto atual tem 74029
+Documento tem 74029 tokens.
+O texto anterior tinha 159980
+O texto atual tem 76609
+Documento tem 76609 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 139
+FP = 76
+TN = 12
+FN = 9
+F1 FINAL = 0.7658
+O texto anterior tinha 118312
+O texto atual tem 60526
+Documento tem 60526 tokens.
+Documento tem 60526 tokens.
+Documento tem 60526 tokens.
+Documento tem 60526 tokens.
+O texto anterior tinha 112944
+O texto atual tem 56565
+Documento tem 56565 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 140
+FP = 76
+TN = 12
+FN = 9
+F1 FINAL = 0.7671
+O texto anterior tinha 391014
+O texto atual tem 182974
+Documento tem 182974 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 436302
+O texto atual tem 213047
+Documento tem 213047 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 141
+FP = 76
+TN = 12
+FN = 9
+F1 FINAL = 0.7684
+O texto anterior tinha 159747
+O texto atual tem 80679
+Documento tem 80679 tokens.
+O texto anterior tinha 156768
+O texto atual tem 78974
+Documento tem 78974 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 142
+FP = 76
+TN = 12
+FN = 9
+F1 FINAL = 0.7696
+O texto anterior tinha 190320
+O texto atual tem 95504
+Documento tem 95504 tokens.
+O texto anterior tinha 193961
+O texto atual tem 95980
+Documento tem 95980 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 142
+FP = 77
+TN = 12
+FN = 9
+F1 FINAL = 0.7676
+O texto anterior tinha 138251
+O texto atual tem 69270
+Documento tem 69270 tokens.
+Documento tem 69270 tokens.
+Documento tem 69270 tokens.
+O texto anterior tinha 135010
+O texto atual tem 67663
+Documento tem 67663 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 143
+FP = 77
+TN = 12
+FN = 9
+F1 FINAL = 0.7688
+O texto anterior tinha 100467
+O texto atual tem 50979
+Documento tem 50979 tokens.
+O texto anterior tinha 115610
+O texto atual tem 58175
+Documento tem 58175 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 144
+FP = 77
+TN = 12
+FN = 9
+F1 FINAL = 0.7701
+O texto anterior tinha 155865
+O texto atual tem 79074
+Documento tem 79074 tokens.
+O texto anterior tinha 151249
+O texto atual tem 74393
+Documento tem 74393 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 144
+FP = 78
+TN = 12
+FN = 9
+F1 FINAL = 0.7680
+O texto anterior tinha 175413
+O texto atual tem 85921
+Documento tem 85921 tokens.
+O texto anterior tinha 86266
+O texto atual tem 40696
+Documento tem 40696 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 145
+FP = 78
+TN = 12
+FN = 9
+F1 FINAL = 0.7692
+O texto anterior tinha 98254
+O texto atual tem 46915
+Documento tem 46915 tokens.
+O texto anterior tinha 100522
+O texto atual tem 46599
+Documento tem 46599 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 146
+FP = 78
+TN = 12
+FN = 9
+F1 FINAL = 0.7704
+O texto anterior tinha 195571
+O texto atual tem 98103
+Documento tem 98103 tokens.
+O texto anterior tinha 185962
+O texto atual tem 93994
+Documento tem 93994 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 147
+FP = 78
+TN = 12
+FN = 9
+F1 FINAL = 0.7717
+O texto anterior tinha 211216
+O texto atual tem 99193
+Documento tem 99193 tokens.
+O texto anterior tinha 182951
+O texto atual tem 88768
+Documento tem 88768 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 147
+FP = 79
+TN = 12
+FN = 9
+F1 FINAL = 0.7696
+O texto anterior tinha 258741
+O texto atual tem 126508
+Documento tem 126508 tokens.
+O texto anterior tinha 259141
+O texto atual tem 126769
+Documento tem 126769 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 148
+FP = 79
+TN = 12
+FN = 9
+F1 FINAL = 0.7708
+O texto anterior tinha 156584
+O texto atual tem 76079
+Documento tem 76079 tokens.
+O texto anterior tinha 144710
+O texto atual tem 72896
+Documento tem 72896 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 148
+FP = 80
+TN = 12
+FN = 9
+F1 FINAL = 0.7688
+O texto anterior tinha 119798
+O texto atual tem 58647
+Documento tem 58647 tokens.
+O texto anterior tinha 121418
+O texto atual tem 60692
+Documento tem 60692 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 148
+FP = 81
+TN = 12
+FN = 9
+F1 FINAL = 0.7668
+O texto anterior tinha 105104
+O texto atual tem 48148
+Documento tem 48148 tokens.
+O texto anterior tinha 190371
+O texto atual tem 95384
+Documento tem 95384 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 148
+FP = 81
+TN = 12
+FN = 10
+F1 FINAL = 0.7649
+O texto anterior tinha 145004
+O texto atual tem 71467
+Documento tem 71467 tokens.
+O texto anterior tinha 139235
+O texto atual tem 68123
+Documento tem 68123 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 148
+FP = 82
+TN = 12
+FN = 10
+F1 FINAL = 0.7629
+O texto anterior tinha 42888
+O texto atual tem 17943
+Documento tem 17943 tokens.
+O texto anterior tinha 118744
+O texto atual tem 57109
+Documento tem 57109 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 149
+FP = 82
+TN = 12
+FN = 10
+F1 FINAL = 0.7641
+O texto anterior tinha 115618
+O texto atual tem 56999
+Documento tem 56999 tokens.
+Documento tem 56999 tokens.
+O texto anterior tinha 199437
+O texto atual tem 98500
+Documento tem 98500 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 149
+FP = 82
+TN = 12
+FN = 11
+F1 FINAL = 0.7621
+O texto anterior tinha 114366
+O texto atual tem 58117
+Documento tem 58117 tokens.
+O texto anterior tinha 114695
+O texto atual tem 58362
+Documento tem 58362 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 150
+FP = 82
+TN = 12
+FN = 11
+F1 FINAL = 0.7634
+O texto anterior tinha 175302
+O texto atual tem 86449
+Documento tem 86449 tokens.
+O texto anterior tinha 186019
+O texto atual tem 90512
+Documento tem 90512 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 151
+FP = 82
+TN = 12
+FN = 11
+F1 FINAL = 0.7646
+O texto anterior tinha 127499
+O texto atual tem 64573
+Documento tem 64573 tokens.
+O texto anterior tinha 134217
+O texto atual tem 66987
+Documento tem 66987 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 151
+FP = 83
+TN = 12
+FN = 11
+F1 FINAL = 0.7626
+O texto anterior tinha 207541
+O texto atual tem 104101
+Documento tem 104101 tokens.
+O texto anterior tinha 222251
+O texto atual tem 108828
+Documento tem 108828 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 152
+FP = 83
+TN = 12
+FN = 11
+F1 FINAL = 0.7638
+O texto anterior tinha 170777
+O texto atual tem 81526
+Documento tem 81526 tokens.
+Documento tem 81526 tokens.
+O texto anterior tinha 173569
+O texto atual tem 84912
+Documento tem 84912 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 153
+FP = 83
+TN = 12
+FN = 11
+F1 FINAL = 0.7650
+O texto anterior tinha 124166
+O texto atual tem 61883
+Documento tem 61883 tokens.
+O texto anterior tinha 116478
+O texto atual tem 56933
+Documento tem 56933 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 153
+FP = 84
+TN = 12
+FN = 11
+F1 FINAL = 0.7631
+O texto anterior tinha 233013
+O texto atual tem 110210
+Documento tem 110210 tokens.
+O texto anterior tinha 187644
+O texto atual tem 91597
+Documento tem 91597 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 153
+FP = 85
+TN = 12
+FN = 11
+F1 FINAL = 0.7612
+O texto anterior tinha 302856
+O texto atual tem 151707
+Documento tem 151707 tokens.
+O texto anterior tinha 219975
+O texto atual tem 105723
+Documento tem 105723 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 154
+FP = 85
+TN = 12
+FN = 11
+F1 FINAL = 0.7624
+O texto anterior tinha 106262
+O texto atual tem 53739
+Documento tem 53739 tokens.
+O texto anterior tinha 144527
+O texto atual tem 71844
+Documento tem 71844 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 155
+FP = 85
+TN = 12
+FN = 11
+F1 FINAL = 0.7635
+O texto anterior tinha 244755
+O texto atual tem 120652
+Documento tem 120652 tokens.
+O texto anterior tinha 219038
+O texto atual tem 105582
+Documento tem 105582 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 155
+FP = 86
+TN = 12
+FN = 11
+F1 FINAL = 0.7617
+O texto anterior tinha 199983
+O texto atual tem 97024
+Documento tem 97024 tokens.
+O texto anterior tinha 216534
+O texto atual tem 108060
+Documento tem 108060 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 156
+FP = 86
+TN = 12
+FN = 11
+F1 FINAL = 0.7628
+O texto anterior tinha 94771
+O texto atual tem 43207
+Documento tem 43207 tokens.
+O texto anterior tinha 90306
+O texto atual tem 42423
+Documento tem 42423 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 156
+FP = 87
+TN = 12
+FN = 11
+F1 FINAL = 0.7610
+O texto anterior tinha 169950
+O texto atual tem 81969
+Documento tem 81969 tokens.
+O texto anterior tinha 158311
+O texto atual tem 78502
+Documento tem 78502 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 157
+FP = 87
+TN = 12
+FN = 11
+F1 FINAL = 0.7621
+O texto anterior tinha 168115
+O texto atual tem 84290
+Documento tem 84290 tokens.
+O texto anterior tinha 189182
+O texto atual tem 95868
+Documento tem 95868 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 157
+FP = 88
+TN = 12
+FN = 11
+F1 FINAL = 0.7603
+O texto anterior tinha 176342
+O texto atual tem 86764
+Documento tem 86764 tokens.
+O texto anterior tinha 186494
+O texto atual tem 89543
+Documento tem 89543 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 158
+FP = 88
+TN = 12
+FN = 11
+F1 FINAL = 0.7614
+O texto anterior tinha 199172
+O texto atual tem 98656
+Documento tem 98656 tokens.
+O texto anterior tinha 179456
+O texto atual tem 90693
+Documento tem 90693 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 159
+FP = 88
+TN = 12
+FN = 11
+F1 FINAL = 0.7626
+O texto anterior tinha 113196
+O texto atual tem 57903
+Documento tem 57903 tokens.
+O texto anterior tinha 109516
+O texto atual tem 56660
+Documento tem 56660 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 160
+FP = 88
+TN = 12
+FN = 11
+F1 FINAL = 0.7637
+O texto anterior tinha 171733
+O texto atual tem 85020
+Documento tem 85020 tokens.
+O texto anterior tinha 156472
+O texto atual tem 77360
+Documento tem 77360 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 161
+FP = 88
+TN = 12
+FN = 11
+F1 FINAL = 0.7648
+O texto anterior tinha 124875
+O texto atual tem 63124
+Documento tem 63124 tokens.
+O texto anterior tinha 114204
+O texto atual tem 57987
+Documento tem 57987 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 161
+FP = 89
+TN = 12
+FN = 11
+F1 FINAL = 0.7630
+O texto anterior tinha 123626
+O texto atual tem 63542
+Documento tem 63542 tokens.
+O texto anterior tinha 124039
+O texto atual tem 64731
+Documento tem 64731 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 162
+FP = 89
+TN = 12
+FN = 11
+F1 FINAL = 0.7642
+O texto anterior tinha 196804
+O texto atual tem 94619
+Documento tem 94619 tokens.
+O texto anterior tinha 190310
+O texto atual tem 92726
+Documento tem 92726 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 163
+FP = 89
+TN = 12
+FN = 11
+F1 FINAL = 0.7653
+O texto anterior tinha 154300
+O texto atual tem 78005
+Documento tem 78005 tokens.
+O texto anterior tinha 168108
+O texto atual tem 81942
+Documento tem 81942 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 164
+FP = 89
+TN = 12
+FN = 11
+F1 FINAL = 0.7664
+O texto anterior tinha 185544
+O texto atual tem 87886
+Documento tem 87886 tokens.
+O texto anterior tinha 179136
+O texto atual tem 86829
+Documento tem 86829 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 165
+FP = 89
+TN = 12
+FN = 11
+F1 FINAL = 0.7674
+O texto anterior tinha 95089
+O texto atual tem 46657
+Documento tem 46657 tokens.
+O texto anterior tinha 103986
+O texto atual tem 48672
+Documento tem 48672 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 166
+FP = 89
+TN = 12
+FN = 11
+F1 FINAL = 0.7685
+O texto anterior tinha 181997
+O texto atual tem 85368
+Documento tem 85368 tokens.
+O texto anterior tinha 183560
+O texto atual tem 82594
+Documento tem 82594 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 166
+FP = 90
+TN = 12
+FN = 11
+F1 FINAL = 0.7667
+O texto anterior tinha 236900
+O texto atual tem 112866
+Documento tem 112866 tokens.
+Documento tem 112866 tokens.
+Documento tem 112866 tokens.
+Documento tem 112866 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+O texto anterior tinha 225506
+O texto atual tem 108909
+Documento tem 108909 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 166
+FP = 91
+TN = 12
+FN = 11
+F1 FINAL = 0.7650
+O texto anterior tinha 89405
+O texto atual tem 42846
+Documento tem 42846 tokens.
+O texto anterior tinha 164147
+O texto atual tem 83163
+Documento tem 83163 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 167
+FP = 91
+TN = 12
+FN = 11
+F1 FINAL = 0.7661
+O texto anterior tinha 148311
+O texto atual tem 75031
+Documento tem 75031 tokens.
+O texto anterior tinha 124073
+O texto atual tem 65158
+Documento tem 65158 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 168
+FP = 91
+TN = 12
+FN = 11
+F1 FINAL = 0.7671
+O texto anterior tinha 86720
+O texto atual tem 42328
+Documento tem 42328 tokens.
+O texto anterior tinha 98164
+O texto atual tem 49540
+Documento tem 49540 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 168
+FP = 92
+TN = 12
+FN = 11
+F1 FINAL = 0.7654
+O texto anterior tinha 163637
+O texto atual tem 80172
+Documento tem 80172 tokens.
+O texto anterior tinha 158492
+O texto atual tem 76192
+Documento tem 76192 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 168
+FP = 93
+TN = 12
+FN = 11
+F1 FINAL = 0.7636
+O texto anterior tinha 121705
+O texto atual tem 61143
+Documento tem 61143 tokens.
+O texto anterior tinha 117060
+O texto atual tem 56856
+Documento tem 56856 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 169
+FP = 93
+TN = 12
+FN = 11
+F1 FINAL = 0.7647
+O texto anterior tinha 106844
+O texto atual tem 51935
+Documento tem 51935 tokens.
+O texto anterior tinha 106662
+O texto atual tem 51560
+Documento tem 51560 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 170
+FP = 93
+TN = 12
+FN = 11
+F1 FINAL = 0.7658
+O texto anterior tinha 149286
+O texto atual tem 73507
+Documento tem 73507 tokens.
+O texto anterior tinha 151875
+O texto atual tem 73208
+Documento tem 73208 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 171
+FP = 93
+TN = 12
+FN = 11
+F1 FINAL = 0.7668
+O texto anterior tinha 499849
+O texto atual tem 250472
+Documento tem 250472 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 250472 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 250472 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+Documento tem 250472 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+Documento tem 250472 tokens.
+[INFO] Texto excede 90000 tokens, cortando em duas partes.
+O texto anterior tinha 374853
+O texto atual tem 186733
+Documento tem 186733 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 365928
+O texto atual tem 182507
+Documento tem 182507 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 172
+FP = 93
+TN = 12
+FN = 11
+F1 FINAL = 0.7679
+O texto anterior tinha 126301
+O texto atual tem 66338
+Documento tem 66338 tokens.
+O texto anterior tinha 125367
+O texto atual tem 64332
+Documento tem 64332 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 173
+FP = 93
+TN = 12
+FN = 11
+F1 FINAL = 0.7689
+O texto anterior tinha 191696
+O texto atual tem 88972
+Documento tem 88972 tokens.
+O texto anterior tinha 199886
+O texto atual tem 93243
+Documento tem 93243 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 173
+FP = 94
+TN = 12
+FN = 11
+F1 FINAL = 0.7672
+O texto anterior tinha 94684
+O texto atual tem 49016
+Documento tem 49016 tokens.
+O texto anterior tinha 96528
+O texto atual tem 50028
+Documento tem 50028 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 174
+FP = 94
+TN = 12
+FN = 11
+F1 FINAL = 0.7682
+O texto anterior tinha 133164
+O texto atual tem 68943
+Documento tem 68943 tokens.
+O texto anterior tinha 113720
+O texto atual tem 57142
+Documento tem 57142 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 175
+FP = 94
+TN = 12
+FN = 11
+F1 FINAL = 0.7692
+O texto anterior tinha 118134
+O texto atual tem 58461
+Documento tem 58461 tokens.
+O texto anterior tinha 124859
+O texto atual tem 61568
+Documento tem 61568 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 176
+FP = 94
+TN = 12
+FN = 11
+F1 FINAL = 0.7702
+O texto anterior tinha 57830
+O texto atual tem 28552
+Documento tem 28552 tokens.
+O texto anterior tinha 49028
+O texto atual tem 24459
+Documento tem 24459 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 176
+FP = 95
+TN = 12
+FN = 11
+F1 FINAL = 0.7686
+O texto anterior tinha 149461
+O texto atual tem 74216
+Documento tem 74216 tokens.
+O texto anterior tinha 202481
+O texto atual tem 103372
+Documento tem 103372 tokens.
+    [ERRO] Falha no segundo LLM.
+O texto anterior tinha 160865
+O texto atual tem 77643
+Documento tem 77643 tokens.
+O texto anterior tinha 178524
+O texto atual tem 87872
+Documento tem 87872 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 177
+FP = 95
+TN = 12
+FN = 11
+F1 FINAL = 0.7696
+O texto anterior tinha 183682
+O texto atual tem 91948
+Documento tem 91948 tokens.
+O texto anterior tinha 211842
+O texto atual tem 100783
+Documento tem 100783 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 177
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7679
+O texto anterior tinha 167258
+O texto atual tem 79761
+Documento tem 79761 tokens.
+O texto anterior tinha 149830
+O texto atual tem 70728
+Documento tem 70728 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 178
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7689
+O texto anterior tinha 184727
+O texto atual tem 88327
+Documento tem 88327 tokens.
+O texto anterior tinha 171953
+O texto atual tem 84226
+Documento tem 84226 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 179
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7699
+O texto anterior tinha 192717
+O texto atual tem 97128
+Documento tem 97128 tokens.
+Documento tem 97128 tokens.
+O texto anterior tinha 189714
+O texto atual tem 97402
+Documento tem 97402 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 180
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7709
+O texto anterior tinha 110767
+O texto atual tem 58044
+Documento tem 58044 tokens.
+O texto anterior tinha 113687
+O texto atual tem 58363
+Documento tem 58363 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 181
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7719
+O texto anterior tinha 122848
+O texto atual tem 61996
+Documento tem 61996 tokens.
+O texto anterior tinha 122983
+O texto atual tem 60223
+Documento tem 60223 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 182
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7728
+O texto anterior tinha 77477
+O texto atual tem 35268
+Documento tem 35268 tokens.
+O texto anterior tinha 85937
+O texto atual tem 39274
+Documento tem 39274 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 183
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7738
+O texto anterior tinha 228323
+O texto atual tem 106484
+Documento tem 106484 tokens.
+O texto anterior tinha 138957
+O texto atual tem 67026
+Documento tem 67026 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 184
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7747
+O texto anterior tinha 208456
+O texto atual tem 96100
+Documento tem 96100 tokens.
+O texto anterior tinha 191233
+O texto atual tem 89039
+Documento tem 89039 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 185
+FP = 95
+TN = 12
+FN = 12
+F1 FINAL = 0.7757
+O texto anterior tinha 234767
+O texto atual tem 111950
+Documento tem 111950 tokens.
+O texto anterior tinha 236363
+O texto atual tem 113376
+Documento tem 113376 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 185
+FP = 96
+TN = 12
+FN = 12
+F1 FINAL = 0.7741
+O texto anterior tinha 166204
+O texto atual tem 84169
+Documento tem 84169 tokens.
+O texto anterior tinha 166224
+O texto atual tem 83909
+Documento tem 83909 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 185
+FP = 97
+TN = 12
+FN = 12
+F1 FINAL = 0.7724
+O texto anterior tinha 112476
+O texto atual tem 56387
+Documento tem 56387 tokens.
+O texto anterior tinha 103876
+O texto atual tem 51646
+Documento tem 51646 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 186
+FP = 97
+TN = 12
+FN = 12
+F1 FINAL = 0.7734
+O texto anterior tinha 217498
+O texto atual tem 102140
+Documento tem 102140 tokens.
+O texto anterior tinha 175789
+O texto atual tem 85878
+Documento tem 85878 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 187
+FP = 97
+TN = 12
+FN = 12
+F1 FINAL = 0.7743
+O texto anterior tinha 162644
+O texto atual tem 81770
+Documento tem 81770 tokens.
+O texto anterior tinha 157534
+O texto atual tem 81695
+Documento tem 81695 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 188
+FP = 97
+TN = 12
+FN = 12
+F1 FINAL = 0.7753
+O texto anterior tinha 137698
+O texto atual tem 68260
+Documento tem 68260 tokens.
+O texto anterior tinha 166736
+O texto atual tem 83131
+Documento tem 83131 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 188
+FP = 98
+TN = 12
+FN = 12
+F1 FINAL = 0.7737
+O texto anterior tinha 105288
+O texto atual tem 52754
+Documento tem 52754 tokens.
+O texto anterior tinha 105714
+O texto atual tem 52869
+Documento tem 52869 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 189
+FP = 98
+TN = 12
+FN = 12
+F1 FINAL = 0.7746
+O texto anterior tinha 151593
+O texto atual tem 75215
+Documento tem 75215 tokens.
+O texto anterior tinha 167474
+O texto atual tem 80361
+Documento tem 80361 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 189
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7730
+O texto anterior tinha 141889
+O texto atual tem 67561
+Documento tem 67561 tokens.
+O texto anterior tinha 122626
+O texto atual tem 57623
+Documento tem 57623 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 190
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7739
+O texto anterior tinha 174107
+O texto atual tem 86351
+Documento tem 86351 tokens.
+O texto anterior tinha 166183
+O texto atual tem 80261
+Documento tem 80261 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 191
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7748
+O texto anterior tinha 204293
+O texto atual tem 100156
+Documento tem 100156 tokens.
+O texto anterior tinha 283256
+O texto atual tem 138285
+Documento tem 138285 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 192
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7758
+O texto anterior tinha 382679
+O texto atual tem 188812
+Documento tem 188812 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 409453
+O texto atual tem 197946
+Documento tem 197946 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 193
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7767
+O texto anterior tinha 284749
+O texto atual tem 142399
+Documento tem 142399 tokens.
+O texto anterior tinha 302317
+O texto atual tem 148584
+Documento tem 148584 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 194
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7776
+O texto anterior tinha 71462
+O texto atual tem 34584
+Documento tem 34584 tokens.
+O texto anterior tinha 71603
+O texto atual tem 34355
+Documento tem 34355 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 195
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7784
+O texto anterior tinha 146423
+O texto atual tem 73335
+Documento tem 73335 tokens.
+O texto anterior tinha 145231
+O texto atual tem 70420
+Documento tem 70420 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 196
+FP = 99
+TN = 12
+FN = 12
+F1 FINAL = 0.7793
+O texto anterior tinha 119442
+O texto atual tem 61027
+Documento tem 61027 tokens.
+O texto anterior tinha 127948
+O texto atual tem 63366
+Documento tem 63366 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 196
+FP = 100
+TN = 12
+FN = 12
+F1 FINAL = 0.7778
+O texto anterior tinha 90289
+O texto atual tem 44397
+Documento tem 44397 tokens.
+O texto anterior tinha 50847
+O texto atual tem 24788
+Documento tem 24788 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 197
+FP = 100
+TN = 12
+FN = 12
+F1 FINAL = 0.7787
+O texto anterior tinha 104340
+O texto atual tem 54636
+Documento tem 54636 tokens.
+O texto anterior tinha 107334
+O texto atual tem 54993
+Documento tem 54993 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 197
+FP = 101
+TN = 12
+FN = 12
+F1 FINAL = 0.7771
+O texto anterior tinha 114547
+O texto atual tem 57006
+Documento tem 57006 tokens.
+O texto anterior tinha 142962
+O texto atual tem 70988
+Documento tem 70988 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 198
+FP = 101
+TN = 12
+FN = 12
+F1 FINAL = 0.7780
+O texto anterior tinha 184116
+O texto atual tem 87426
+Documento tem 87426 tokens.
+O texto anterior tinha 186066
+O texto atual tem 90330
+Documento tem 90330 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 198
+FP = 102
+TN = 12
+FN = 12
+F1 FINAL = 0.7765
+O texto anterior tinha 134072
+O texto atual tem 63970
+Documento tem 63970 tokens.
+O texto anterior tinha 132822
+O texto atual tem 64811
+Documento tem 64811 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 198
+FP = 103
+TN = 12
+FN = 12
+F1 FINAL = 0.7750
+O texto anterior tinha 79862
+O texto atual tem 39140
+Documento tem 39140 tokens.
+O texto anterior tinha 82316
+O texto atual tem 40817
+Documento tem 40817 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 199
+FP = 103
+TN = 12
+FN = 12
+F1 FINAL = 0.7758
+O texto anterior tinha 260939
+O texto atual tem 129975
+Documento tem 129975 tokens.
+O texto anterior tinha 234690
+O texto atual tem 116022
+Documento tem 116022 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 200
+FP = 103
+TN = 12
+FN = 12
+F1 FINAL = 0.7767
+O texto anterior tinha 155944
+O texto atual tem 75031
+Documento tem 75031 tokens.
+O texto anterior tinha 168152
+O texto atual tem 81184
+Documento tem 81184 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 201
+FP = 103
+TN = 12
+FN = 12
+F1 FINAL = 0.7776
+O texto anterior tinha 117132
+O texto atual tem 60440
+Documento tem 60440 tokens.
+Documento tem 60440 tokens.
+O texto anterior tinha 117839
+O texto atual tem 58121
+Documento tem 58121 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 201
+FP = 103
+TN = 13
+FN = 12
+F1 FINAL = 0.7776
+O texto anterior tinha 248860
+O texto atual tem 109133
+Documento tem 109133 tokens.
+O texto anterior tinha 431990
+O texto atual tem 214326
+Documento tem 214326 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 202
+FP = 103
+TN = 13
+FN = 12
+F1 FINAL = 0.7784
+O texto anterior tinha 161291
+O texto atual tem 82215
+Documento tem 82215 tokens.
+Documento tem 82215 tokens.
+O texto anterior tinha 162936
+O texto atual tem 81345
+Documento tem 81345 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 203
+FP = 103
+TN = 13
+FN = 12
+F1 FINAL = 0.7793
+O texto anterior tinha 183709
+O texto atual tem 92247
+Documento tem 92247 tokens.
+Documento tem 92247 tokens.
+O texto anterior tinha 205465
+O texto atual tem 101341
+Documento tem 101341 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 204
+FP = 103
+TN = 13
+FN = 12
+F1 FINAL = 0.7801
+O texto anterior tinha 144433
+O texto atual tem 71399
+Documento tem 71399 tokens.
+O texto anterior tinha 133211
+O texto atual tem 66814
+Documento tem 66814 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 205
+FP = 103
+TN = 13
+FN = 12
+F1 FINAL = 0.7810
+O texto anterior tinha 110139
+O texto atual tem 55487
+Documento tem 55487 tokens.
+O texto anterior tinha 115443
+O texto atual tem 57323
+Documento tem 57323 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 206
+FP = 103
+TN = 13
+FN = 12
+F1 FINAL = 0.7818
+O texto anterior tinha 160949
+O texto atual tem 82306
+Documento tem 82306 tokens.
+Documento tem 82306 tokens.
+O texto anterior tinha 136325
+O texto atual tem 69026
+Documento tem 69026 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 207
+FP = 103
+TN = 13
+FN = 12
+F1 FINAL = 0.7826
+O texto anterior tinha 187432
+O texto atual tem 91521
+Documento tem 91521 tokens.
+O texto anterior tinha 171743
+O texto atual tem 83627
+Documento tem 83627 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 207
+FP = 104
+TN = 13
+FN = 12
+F1 FINAL = 0.7811
+O texto anterior tinha 100674
+O texto atual tem 47710
+Documento tem 47710 tokens.
+O texto anterior tinha 103093
+O texto atual tem 48581
+Documento tem 48581 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 208
+FP = 104
+TN = 13
+FN = 12
+F1 FINAL = 0.7820
+O texto anterior tinha 199264
+O texto atual tem 101182
+Documento tem 101182 tokens.
+O texto anterior tinha 178966
+O texto atual tem 91360
+Documento tem 91360 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 209
+FP = 104
+TN = 13
+FN = 12
+F1 FINAL = 0.7828
+O texto anterior tinha 244713
+O texto atual tem 119894
+Documento tem 119894 tokens.
+Documento tem 119894 tokens.
+Documento tem 119894 tokens.
+O texto anterior tinha 184796
+O texto atual tem 89067
+Documento tem 89067 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 209
+FP = 104
+TN = 14
+FN = 12
+F1 FINAL = 0.7828
+O texto anterior tinha 260719
+O texto atual tem 126318
+Documento tem 126318 tokens.
+O texto anterior tinha 257857
+O texto atual tem 127008
+Documento tem 127008 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 210
+FP = 104
+TN = 14
+FN = 12
+F1 FINAL = 0.7836
+O texto anterior tinha 160232
+O texto atual tem 74907
+Documento tem 74907 tokens.
+Documento tem 74907 tokens.
+Documento tem 74907 tokens.
+O texto anterior tinha 137673
+O texto atual tem 69506
+Documento tem 69506 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 210
+FP = 104
+TN = 15
+FN = 12
+F1 FINAL = 0.7836
+O texto anterior tinha 123141
+O texto atual tem 61490
+Documento tem 61490 tokens.
+O texto anterior tinha 122273
+O texto atual tem 61263
+Documento tem 61263 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 211
+FP = 104
+TN = 15
+FN = 12
+F1 FINAL = 0.7844
+O texto anterior tinha 189104
+O texto atual tem 93425
+Documento tem 93425 tokens.
+O texto anterior tinha 159232
+O texto atual tem 80200
+Documento tem 80200 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 212
+FP = 104
+TN = 15
+FN = 12
+F1 FINAL = 0.7852
+O texto anterior tinha 149024
+O texto atual tem 72927
+Documento tem 72927 tokens.
+O texto anterior tinha 138519
+O texto atual tem 68424
+Documento tem 68424 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 213
+FP = 104
+TN = 15
+FN = 12
+F1 FINAL = 0.7860
+O texto anterior tinha 42318
+O texto atual tem 18133
+Documento tem 18133 tokens.
+O texto anterior tinha 119259
+O texto atual tem 57861
+Documento tem 57861 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 213
+FP = 104
+TN = 16
+FN = 12
+F1 FINAL = 0.7860
+O texto anterior tinha 208960
+O texto atual tem 104260
+Documento tem 104260 tokens.
+O texto anterior tinha 198859
+O texto atual tem 97304
+Documento tem 97304 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 214
+FP = 104
+TN = 16
+FN = 12
+F1 FINAL = 0.7868
+O texto anterior tinha 117647
+O texto atual tem 60654
+Documento tem 60654 tokens.
+O texto anterior tinha 123921
+O texto atual tem 59225
+Documento tem 59225 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 215
+FP = 104
+TN = 16
+FN = 12
+F1 FINAL = 0.7875
+O texto anterior tinha 169440
+O texto atual tem 85288
+Documento tem 85288 tokens.
+O texto anterior tinha 186513
+O texto atual tem 90545
+Documento tem 90545 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 216
+FP = 104
+TN = 16
+FN = 12
+F1 FINAL = 0.7883
+O texto anterior tinha 133460
+O texto atual tem 65887
+Documento tem 65887 tokens.
+O texto anterior tinha 134258
+O texto atual tem 65046
+Documento tem 65046 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 216
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7869
+O texto anterior tinha 244535
+O texto atual tem 119404
+Documento tem 119404 tokens.
+O texto anterior tinha 249221
+O texto atual tem 122554
+Documento tem 122554 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 217
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7877
+O texto anterior tinha 172751
+O texto atual tem 83061
+Documento tem 83061 tokens.
+O texto anterior tinha 177003
+O texto atual tem 87707
+Documento tem 87707 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 218
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7884
+O texto anterior tinha 144134
+O texto atual tem 66037
+Documento tem 66037 tokens.
+O texto anterior tinha 115777
+O texto atual tem 57060
+Documento tem 57060 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 219
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7892
+O texto anterior tinha 233818
+O texto atual tem 111994
+Documento tem 111994 tokens.
+O texto anterior tinha 192408
+O texto atual tem 93773
+Documento tem 93773 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 220
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7899
+O texto anterior tinha 297301
+O texto atual tem 152029
+Documento tem 152029 tokens.
+O texto anterior tinha 310120
+O texto atual tem 150524
+Documento tem 150524 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 221
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7907
+O texto anterior tinha 130055
+O texto atual tem 66147
+Documento tem 66147 tokens.
+O texto anterior tinha 164421
+O texto atual tem 82526
+Documento tem 82526 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 222
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7914
+O texto anterior tinha 254307
+O texto atual tem 123579
+Documento tem 123579 tokens.
+O texto anterior tinha 248349
+O texto atual tem 118466
+Documento tem 118466 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 223
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7922
+O texto anterior tinha 200107
+O texto atual tem 96162
+Documento tem 96162 tokens.
+O texto anterior tinha 220720
+O texto atual tem 109932
+Documento tem 109932 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 224
+FP = 104
+TN = 16
+FN = 13
+F1 FINAL = 0.7929
+O texto anterior tinha 104159
+O texto atual tem 48480
+Documento tem 48480 tokens.
+O texto anterior tinha 101321
+O texto atual tem 47012
+Documento tem 47012 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 224
+FP = 104
+TN = 17
+FN = 13
+F1 FINAL = 0.7929
+O texto anterior tinha 172737
+O texto atual tem 84439
+Documento tem 84439 tokens.
+O texto anterior tinha 160875
+O texto atual tem 79887
+Documento tem 79887 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 225
+FP = 104
+TN = 17
+FN = 13
+F1 FINAL = 0.7937
+O texto anterior tinha 187384
+O texto atual tem 93808
+Documento tem 93808 tokens.
+O texto anterior tinha 190590
+O texto atual tem 95187
+Documento tem 95187 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 226
+FP = 104
+TN = 17
+FN = 13
+F1 FINAL = 0.7944
+O texto anterior tinha 184274
+O texto atual tem 89615
+Documento tem 89615 tokens.
+O texto anterior tinha 191418
+O texto atual tem 92879
+Documento tem 92879 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 227
+FP = 104
+TN = 17
+FN = 13
+F1 FINAL = 0.7951
+O texto anterior tinha 201344
+O texto atual tem 100567
+Documento tem 100567 tokens.
+Documento tem 100567 tokens.
+O texto anterior tinha 183969
+O texto atual tem 91490
+Documento tem 91490 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 228
+FP = 104
+TN = 17
+FN = 13
+F1 FINAL = 0.7958
+O texto anterior tinha 114927
+O texto atual tem 59911
+Documento tem 59911 tokens.
+O texto anterior tinha 117840
+O texto atual tem 61249
+Documento tem 61249 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 228
+FP = 105
+TN = 17
+FN = 13
+F1 FINAL = 0.7944
+O texto anterior tinha 179177
+O texto atual tem 88369
+Documento tem 88369 tokens.
+O texto anterior tinha 146037
+O texto atual tem 72900
+Documento tem 72900 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 228
+FP = 106
+TN = 17
+FN = 13
+F1 FINAL = 0.7930
+O texto anterior tinha 126539
+O texto atual tem 64105
+Documento tem 64105 tokens.
+O texto anterior tinha 119123
+O texto atual tem 60324
+Documento tem 60324 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 229
+FP = 106
+TN = 17
+FN = 13
+F1 FINAL = 0.7938
+O texto anterior tinha 126160
+O texto atual tem 64954
+Documento tem 64954 tokens.
+O texto anterior tinha 130470
+O texto atual tem 66795
+Documento tem 66795 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 229
+FP = 107
+TN = 17
+FN = 13
+F1 FINAL = 0.7924
+O texto anterior tinha 211166
+O texto atual tem 102342
+Documento tem 102342 tokens.
+O texto anterior tinha 215708
+O texto atual tem 103938
+Documento tem 103938 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 230
+FP = 107
+TN = 17
+FN = 13
+F1 FINAL = 0.7931
+O texto anterior tinha 176021
+O texto atual tem 81573
+Documento tem 81573 tokens.
+O texto anterior tinha 182753
+O texto atual tem 86519
+Documento tem 86519 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 231
+FP = 107
+TN = 17
+FN = 13
+F1 FINAL = 0.7938
+O texto anterior tinha 184407
+O texto atual tem 90695
+Documento tem 90695 tokens.
+O texto anterior tinha 182289
+O texto atual tem 89779
+Documento tem 89779 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 232
+FP = 107
+TN = 17
+FN = 13
+F1 FINAL = 0.7945
+O texto anterior tinha 97634
+O texto atual tem 48281
+Documento tem 48281 tokens.
+O texto anterior tinha 103157
+O texto atual tem 48982
+Documento tem 48982 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 233
+FP = 107
+TN = 17
+FN = 13
+F1 FINAL = 0.7952
+O texto anterior tinha 177140
+O texto atual tem 86042
+Documento tem 86042 tokens.
+O texto anterior tinha 175071
+O texto atual tem 84886
+Documento tem 84886 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 234
+FP = 107
+TN = 17
+FN = 13
+F1 FINAL = 0.7959
+O texto anterior tinha 303146
+O texto atual tem 147262
+Documento tem 147262 tokens.
+O texto anterior tinha 292815
+O texto atual tem 141259
+Documento tem 141259 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 234
+FP = 108
+TN = 17
+FN = 13
+F1 FINAL = 0.7946
+O texto anterior tinha 203800
+O texto atual tem 104340
+Documento tem 104340 tokens.
+O texto anterior tinha 213171
+O texto atual tem 105296
+Documento tem 105296 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 234
+FP = 108
+TN = 18
+FN = 13
+F1 FINAL = 0.7946
+O texto anterior tinha 173684
+O texto atual tem 88790
+Documento tem 88790 tokens.
+O texto anterior tinha 166021
+O texto atual tem 84223
+Documento tem 84223 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 235
+FP = 108
+TN = 18
+FN = 13
+F1 FINAL = 0.7953
+O texto anterior tinha 131586
+O texto atual tem 64636
+Documento tem 64636 tokens.
+O texto anterior tinha 145884
+O texto atual tem 72481
+Documento tem 72481 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 236
+FP = 108
+TN = 18
+FN = 13
+F1 FINAL = 0.7960
+O texto anterior tinha 248465
+O texto atual tem 118668
+Documento tem 118668 tokens.
+O texto anterior tinha 231605
+O texto atual tem 113433
+Documento tem 113433 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 236
+FP = 109
+TN = 18
+FN = 13
+F1 FINAL = 0.7946
+O texto anterior tinha 154507
+O texto atual tem 79371
+Documento tem 79371 tokens.
+O texto anterior tinha 145926
+O texto atual tem 73830
+Documento tem 73830 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 236
+FP = 110
+TN = 18
+FN = 13
+F1 FINAL = 0.7933
+O texto anterior tinha 189122
+O texto atual tem 92485
+Documento tem 92485 tokens.
+O texto anterior tinha 219495
+O texto atual tem 110750
+Documento tem 110750 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 236
+FP = 111
+TN = 18
+FN = 13
+F1 FINAL = 0.7919
+O texto anterior tinha 218961
+O texto atual tem 106602
+Documento tem 106602 tokens.
+O texto anterior tinha 216542
+O texto atual tem 107270
+Documento tem 107270 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 237
+FP = 111
+TN = 18
+FN = 13
+F1 FINAL = 0.7926
+O texto anterior tinha 651259
+O texto atual tem 337404
+Documento tem 337404 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 337404 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 337404 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+Documento tem 337404 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+Documento tem 337404 tokens.
+[INFO] Texto excede 90000 tokens, cortando em duas partes.
+Documento tem 337404 tokens.
+[INFO] Texto excede 70000 tokens, cortando em duas partes.
+O texto anterior tinha 504456
+O texto atual tem 255627
+Documento tem 255627 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 90000 tokens, cortando em duas partes.
+O texto anterior tinha 162372
+O texto atual tem 82620
+Documento tem 82620 tokens.
+Documento tem 82620 tokens.
+O texto anterior tinha 144164
+O texto atual tem 72283
+Documento tem 72283 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 238
+FP = 111
+TN = 18
+FN = 13
+F1 FINAL = 0.7933
+O texto anterior tinha 219604
+O texto atual tem 102759
+Documento tem 102759 tokens.
+O texto anterior tinha 233941
+O texto atual tem 109272
+Documento tem 109272 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 238
+FP = 112
+TN = 18
+FN = 13
+F1 FINAL = 0.7920
+O texto anterior tinha 130163
+O texto atual tem 66828
+Documento tem 66828 tokens.
+O texto anterior tinha 134753
+O texto atual tem 69909
+Documento tem 69909 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 239
+FP = 112
+TN = 18
+FN = 13
+F1 FINAL = 0.7927
+O texto anterior tinha 128288
+O texto atual tem 65326
+Documento tem 65326 tokens.
+O texto anterior tinha 64187
+O texto atual tem 28912
+Documento tem 28912 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 240
+FP = 112
+TN = 18
+FN = 13
+F1 FINAL = 0.7934
+O texto anterior tinha 123737
+O texto atual tem 62361
+Documento tem 62361 tokens.
+O texto anterior tinha 146679
+O texto atual tem 75880
+Documento tem 75880 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 241
+FP = 112
+TN = 18
+FN = 13
+F1 FINAL = 0.7941
+O texto anterior tinha 81806
+O texto atual tem 39836
+Documento tem 39836 tokens.
+O texto anterior tinha 63853
+O texto atual tem 31391
+Documento tem 31391 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 241
+FP = 113
+TN = 18
+FN = 13
+F1 FINAL = 0.7928
+O texto anterior tinha 201975
+O texto atual tem 99702
+Documento tem 99702 tokens.
+O texto anterior tinha 263480
+O texto atual tem 136502
+Documento tem 136502 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 241
+FP = 113
+TN = 18
+FN = 14
+F1 FINAL = 0.7915
+O texto anterior tinha 242005
+O texto atual tem 116112
+Documento tem 116112 tokens.
+O texto anterior tinha 251957
+O texto atual tem 123739
+Documento tem 123739 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 242
+FP = 113
+TN = 18
+FN = 14
+F1 FINAL = 0.7921
+O texto anterior tinha 261054
+O texto atual tem 130241
+Documento tem 130241 tokens.
+O texto anterior tinha 260129
+O texto atual tem 128223
+Documento tem 128223 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 242
+FP = 113
+TN = 19
+FN = 14
+F1 FINAL = 0.7921
+O texto anterior tinha 209094
+O texto atual tem 102575
+Documento tem 102575 tokens.
+O texto anterior tinha 207866
+O texto atual tem 100358
+Documento tem 100358 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 243
+FP = 113
+TN = 19
+FN = 14
+F1 FINAL = 0.7928
+O texto anterior tinha 235111
+O texto atual tem 117404
+Documento tem 117404 tokens.
+O texto anterior tinha 241366
+O texto atual tem 118992
+Documento tem 118992 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 243
+FP = 114
+TN = 19
+FN = 14
+F1 FINAL = 0.7915
+O texto anterior tinha 369280
+O texto atual tem 191004
+Documento tem 191004 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 413896
+O texto atual tem 208958
+Documento tem 208958 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 244
+FP = 114
+TN = 19
+FN = 14
+F1 FINAL = 0.7922
+O texto anterior tinha 192318
+O texto atual tem 97589
+Documento tem 97589 tokens.
+O texto anterior tinha 163371
+O texto atual tem 83932
+Documento tem 83932 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 245
+FP = 114
+TN = 19
+FN = 14
+F1 FINAL = 0.7929
+O texto anterior tinha 202863
+O texto atual tem 100233
+Documento tem 100233 tokens.
+O texto anterior tinha 194645
+O texto atual tem 95753
+Documento tem 95753 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 246
+FP = 114
+TN = 19
+FN = 14
+F1 FINAL = 0.7935
+O texto anterior tinha 208378
+O texto atual tem 103602
+Documento tem 103602 tokens.
+O texto anterior tinha 211238
+O texto atual tem 103665
+Documento tem 103665 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 247
+FP = 114
+TN = 19
+FN = 14
+F1 FINAL = 0.7942
+O texto anterior tinha 380621
+O texto atual tem 176052
+Documento tem 176052 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 343000
+O texto atual tem 157894
+Documento tem 157894 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 248
+FP = 114
+TN = 19
+FN = 14
+F1 FINAL = 0.7949
+O texto anterior tinha 266144
+O texto atual tem 124086
+Documento tem 124086 tokens.
+O texto anterior tinha 248550
+O texto atual tem 118456
+Documento tem 118456 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 249
+FP = 114
+TN = 19
+FN = 14
+F1 FINAL = 0.7955
+O texto anterior tinha 318433
+O texto atual tem 150559
+Documento tem 150559 tokens.
+O texto anterior tinha 299429
+O texto atual tem 142672
+Documento tem 142672 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 249
+FP = 114
+TN = 19
+FN = 15
+F1 FINAL = 0.7943
+O texto anterior tinha 278556
+O texto atual tem 140684
+Documento tem 140684 tokens.
+O texto anterior tinha 257168
+O texto atual tem 127228
+Documento tem 127228 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 249
+FP = 115
+TN = 19
+FN = 15
+F1 FINAL = 0.7930
+O texto anterior tinha 153571
+O texto atual tem 76375
+Documento tem 76375 tokens.
+O texto anterior tinha 128053
+O texto atual tem 64337
+Documento tem 64337 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 250
+FP = 115
+TN = 19
+FN = 15
+F1 FINAL = 0.7937
+O texto anterior tinha 252072
+O texto atual tem 119183
+Documento tem 119183 tokens.
+O texto anterior tinha 216307
+O texto atual tem 105682
+Documento tem 105682 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 251
+FP = 115
+TN = 19
+FN = 15
+F1 FINAL = 0.7943
+O texto anterior tinha 166706
+O texto atual tem 83551
+Documento tem 83551 tokens.
+O texto anterior tinha 167534
+O texto atual tem 86064
+Documento tem 86064 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 252
+FP = 115
+TN = 19
+FN = 15
+F1 FINAL = 0.7950
+O texto anterior tinha 219855
+O texto atual tem 107634
+Documento tem 107634 tokens.
+O texto anterior tinha 217970
+O texto atual tem 107367
+Documento tem 107367 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 252
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7937
+O texto anterior tinha 224906
+O texto atual tem 110482
+Documento tem 110482 tokens.
+O texto anterior tinha 237690
+O texto atual tem 117852
+Documento tem 117852 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 253
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7943
+O texto anterior tinha 350978
+O texto atual tem 174654
+Documento tem 174654 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 373541
+O texto atual tem 179497
+Documento tem 179497 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 254
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7950
+O texto anterior tinha 444588
+O texto atual tem 229122
+Documento tem 229122 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 279726
+O texto atual tem 138541
+Documento tem 138541 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 255
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7956
+O texto anterior tinha 273831
+O texto atual tem 131654
+Documento tem 131654 tokens.
+O texto anterior tinha 295347
+O texto atual tem 137424
+Documento tem 137424 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 256
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7963
+O texto anterior tinha 304093
+O texto atual tem 150051
+Documento tem 150051 tokens.
+O texto anterior tinha 346225
+O texto atual tem 171701
+Documento tem 171701 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 257
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7969
+O texto anterior tinha 491371
+O texto atual tem 239108
+Documento tem 239108 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 410702
+O texto atual tem 204929
+Documento tem 204929 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 417124
+O texto atual tem 205153
+Documento tem 205153 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 258
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7975
+O texto anterior tinha 94566
+O texto atual tem 46042
+Documento tem 46042 tokens.
+O texto anterior tinha 104133
+O texto atual tem 50308
+Documento tem 50308 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 259
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7982
+O texto anterior tinha 182853
+O texto atual tem 89612
+Documento tem 89612 tokens.
+O texto anterior tinha 189649
+O texto atual tem 92102
+Documento tem 92102 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 260
+FP = 116
+TN = 19
+FN = 15
+F1 FINAL = 0.7988
+O texto anterior tinha 184471
+O texto atual tem 95972
+Documento tem 95972 tokens.
+O texto anterior tinha 192733
+O texto atual tem 100418
+Documento tem 100418 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 260
+FP = 117
+TN = 19
+FN = 15
+F1 FINAL = 0.7975
+O texto anterior tinha 126658
+O texto atual tem 63676
+Documento tem 63676 tokens.
+O texto anterior tinha 67514
+O texto atual tem 33089
+Documento tem 33089 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 261
+FP = 117
+TN = 19
+FN = 15
+F1 FINAL = 0.7982
+O texto anterior tinha 166215
+O texto atual tem 86601
+Documento tem 86601 tokens.
+O texto anterior tinha 175231
+O texto atual tem 91123
+Documento tem 91123 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 261
+FP = 118
+TN = 19
+FN = 15
+F1 FINAL = 0.7969
+O texto anterior tinha 170587
+O texto atual tem 85000
+Documento tem 85000 tokens.
+O texto anterior tinha 192097
+O texto atual tem 96231
+Documento tem 96231 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 261
+FP = 119
+TN = 19
+FN = 15
+F1 FINAL = 0.7957
+O texto anterior tinha 227697
+O texto atual tem 112165
+Documento tem 112165 tokens.
+O texto anterior tinha 244489
+O texto atual tem 121409
+Documento tem 121409 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 262
+FP = 119
+TN = 19
+FN = 15
+F1 FINAL = 0.7964
+O texto anterior tinha 215350
+O texto atual tem 101726
+Documento tem 101726 tokens.
+O texto anterior tinha 213913
+O texto atual tem 101160
+Documento tem 101160 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 262
+FP = 120
+TN = 19
+FN = 15
+F1 FINAL = 0.7951
+O texto anterior tinha 147653
+O texto atual tem 73524
+Documento tem 73524 tokens.
+O texto anterior tinha 144026
+O texto atual tem 72248
+Documento tem 72248 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 263
+FP = 120
+TN = 19
+FN = 15
+F1 FINAL = 0.7958
+O texto anterior tinha 224391
+O texto atual tem 118016
+Documento tem 118016 tokens.
+O texto anterior tinha 262712
+O texto atual tem 130893
+Documento tem 130893 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 264
+FP = 120
+TN = 19
+FN = 15
+F1 FINAL = 0.7964
+O texto anterior tinha 209493
+O texto atual tem 103465
+Documento tem 103465 tokens.
+O texto anterior tinha 228067
+O texto atual tem 111678
+Documento tem 111678 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 265
+FP = 120
+TN = 19
+FN = 15
+F1 FINAL = 0.7970
+O texto anterior tinha 164378
+O texto atual tem 85959
+Documento tem 85959 tokens.
+Documento tem 85959 tokens.
+O texto anterior tinha 157762
+O texto atual tem 79320
+Documento tem 79320 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 266
+FP = 120
+TN = 19
+FN = 15
+F1 FINAL = 0.7976
+O texto anterior tinha 489582
+O texto atual tem 239432
+Documento tem 239432 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+Documento tem 239432 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 239432 tokens.
+[INFO] Texto excede 130000 tokens, cortando em duas partes.
+O texto anterior tinha 312527
+O texto atual tem 153514
+Documento tem 153514 tokens.
+O texto anterior tinha 321563
+O texto atual tem 157169
+Documento tem 157169 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 267
+FP = 120
+TN = 19
+FN = 15
+F1 FINAL = 0.7982
+O texto anterior tinha 251994
+O texto atual tem 123821
+Documento tem 123821 tokens.
+O texto anterior tinha 265995
+O texto atual tem 128880
+Documento tem 128880 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 267
+FP = 121
+TN = 19
+FN = 15
+F1 FINAL = 0.7970
+O texto anterior tinha 187737
+O texto atual tem 93818
+Documento tem 93818 tokens.
+Documento tem 93818 tokens.
+O texto anterior tinha 186342
+O texto atual tem 90724
+Documento tem 90724 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 268
+FP = 121
+TN = 19
+FN = 15
+F1 FINAL = 0.7976
+O texto anterior tinha 136174
+O texto atual tem 70571
+Documento tem 70571 tokens.
+O texto anterior tinha 137697
+O texto atual tem 68934
+Documento tem 68934 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 269
+FP = 121
+TN = 19
+FN = 15
+F1 FINAL = 0.7982
+O texto anterior tinha 226467
+O texto atual tem 110189
+Documento tem 110189 tokens.
+O texto anterior tinha 216180
+O texto atual tem 105444
+Documento tem 105444 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 269
+FP = 122
+TN = 19
+FN = 15
+F1 FINAL = 0.7970
+O texto anterior tinha 218725
+O texto atual tem 107990
+Documento tem 107990 tokens.
+O texto anterior tinha 109304
+O texto atual tem 51086
+Documento tem 51086 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 270
+FP = 122
+TN = 19
+FN = 15
+F1 FINAL = 0.7976
+O texto anterior tinha 147355
+O texto atual tem 71375
+Documento tem 71375 tokens.
+Documento tem 10 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 270
+FP = 122
+TN = 19
+FN = 15
+F1 FINAL = 0.7976
+O texto anterior tinha 268960
+O texto atual tem 132876
+Documento tem 132876 tokens.
+O texto anterior tinha 268428
+O texto atual tem 131731
+Documento tem 131731 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 271
+FP = 122
+TN = 19
+FN = 15
+F1 FINAL = 0.7982
+O texto anterior tinha 207747
+O texto atual tem 101829
+Documento tem 101829 tokens.
+O texto anterior tinha 210061
+O texto atual tem 102534
+Documento tem 102534 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 271
+FP = 122
+TN = 19
+FN = 16
+F1 FINAL = 0.7971
+O texto anterior tinha 236631
+O texto atual tem 120896
+Documento tem 120896 tokens.
+Documento tem 120896 tokens.
+O texto anterior tinha 346820
+O texto atual tem 170215
+Documento tem 170215 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 272
+FP = 122
+TN = 19
+FN = 16
+F1 FINAL = 0.7977
+O texto anterior tinha 233435
+O texto atual tem 109943
+Documento tem 109943 tokens.
+O texto anterior tinha 254186
+O texto atual tem 116629
+Documento tem 116629 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 272
+FP = 122
+TN = 19
+FN = 17
+F1 FINAL = 0.7965
+O texto anterior tinha 204863
+O texto atual tem 101053
+Documento tem 101053 tokens.
+Documento tem 101053 tokens.
+O texto anterior tinha 203515
+O texto atual tem 98418
+Documento tem 98418 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 272
+FP = 122
+TN = 19
+FN = 18
+F1 FINAL = 0.7953
+O texto anterior tinha 369799
+O texto atual tem 183847
+Documento tem 183847 tokens.
+[INFO] Texto excede 170000 tokens, cortando em duas partes.
+O texto anterior tinha 371006
+O texto atual tem 184354
+Documento tem 184354 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 272
+FP = 122
+TN = 19
+FN = 19
+F1 FINAL = 0.7942
+O texto anterior tinha 164204
+O texto atual tem 80566
+Documento tem 80566 tokens.
+O texto anterior tinha 158733
+O texto atual tem 78501
+Documento tem 78501 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 272
+FP = 122
+TN = 19
+FN = 20
+F1 FINAL = 0.7930
+O texto anterior tinha 61009
+O texto atual tem 27417
+Documento tem 27417 tokens.
+O texto anterior tinha 64010
+O texto atual tem 28499
+Documento tem 28499 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 273
+FP = 122
+TN = 19
+FN = 20
+F1 FINAL = 0.7936
+O texto anterior tinha 358842
+O texto atual tem 132618
+Documento tem 132618 tokens.
+O texto anterior tinha 228319
+O texto atual tem 102573
+Documento tem 102573 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 274
+FP = 122
+TN = 19
+FN = 20
+F1 FINAL = 0.7942
+O texto anterior tinha 146527
+O texto atual tem 74854
+Documento tem 74854 tokens.
+O texto anterior tinha 146191
+O texto atual tem 72334
+Documento tem 72334 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 275
+FP = 122
+TN = 19
+FN = 20
+F1 FINAL = 0.7948
+O texto anterior tinha 242646
+O texto atual tem 121597
+Documento tem 121597 tokens.
+O texto anterior tinha 239701
+O texto atual tem 121485
+Documento tem 121485 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 276
+FP = 122
+TN = 19
+FN = 20
+F1 FINAL = 0.7954
+O texto anterior tinha 206134
+O texto atual tem 98917
+Documento tem 98917 tokens.
+O texto anterior tinha 184825
+O texto atual tem 89215
+Documento tem 89215 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 276
+FP = 122
+TN = 19
+FN = 21
+F1 FINAL = 0.7942
+O texto anterior tinha 252366
+O texto atual tem 124506
+Documento tem 124506 tokens.
+O texto anterior tinha 251228
+O texto atual tem 122576
+Documento tem 122576 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 276
+FP = 123
+TN = 19
+FN = 21
+F1 FINAL = 0.7931
+O texto anterior tinha 277468
+O texto atual tem 136212
+Documento tem 136212 tokens.
+O texto anterior tinha 285475
+O texto atual tem 143628
+Documento tem 143628 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 277
+FP = 123
+TN = 19
+FN = 21
+F1 FINAL = 0.7937
+O texto anterior tinha 144010
+O texto atual tem 69233
+Documento tem 69233 tokens.
+O texto anterior tinha 152494
+O texto atual tem 75670
+Documento tem 75670 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 277
+FP = 124
+TN = 19
+FN = 21
+F1 FINAL = 0.7926
+O texto anterior tinha 335760
+O texto atual tem 164416
+Documento tem 164416 tokens.
+O texto anterior tinha 260411
+O texto atual tem 130781
+Documento tem 130781 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 278
+FP = 124
+TN = 19
+FN = 21
+F1 FINAL = 0.7932
+O texto anterior tinha 217263
+O texto atual tem 110474
+Documento tem 110474 tokens.
+O texto anterior tinha 246550
+O texto atual tem 116062
+Documento tem 116062 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 278
+FP = 124
+TN = 20
+FN = 21
+F1 FINAL = 0.7932
+O texto anterior tinha 269076
+O texto atual tem 118651
+Documento tem 118651 tokens.
+O texto anterior tinha 199704
+O texto atual tem 102376
+Documento tem 102376 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 279
+FP = 124
+TN = 20
+FN = 21
+F1 FINAL = 0.7937
+O texto anterior tinha 330584
+O texto atual tem 160702
+Documento tem 160702 tokens.
+O texto anterior tinha 284142
+O texto atual tem 137252
+Documento tem 137252 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 280
+FP = 124
+TN = 20
+FN = 21
+F1 FINAL = 0.7943
+O texto anterior tinha 287095
+O texto atual tem 139462
+Documento tem 139462 tokens.
+O texto anterior tinha 320662
+O texto atual tem 156257
+Documento tem 156257 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 280
+FP = 124
+TN = 21
+FN = 21
+F1 FINAL = 0.7943
+O texto anterior tinha 98281
+O texto atual tem 45734
+Documento tem 45734 tokens.
+O texto anterior tinha 98053
+O texto atual tem 44965
+Documento tem 44965 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 280
+FP = 124
+TN = 21
+FN = 21
+F1 FINAL = 0.7943
+O texto anterior tinha 233516
+O texto atual tem 111566
+Documento tem 111566 tokens.
+O texto anterior tinha 240807
+O texto atual tem 116476
+Documento tem 116476 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 281
+FP = 124
+TN = 21
+FN = 21
+F1 FINAL = 0.7949
+O texto anterior tinha 294617
+O texto atual tem 150580
+Documento tem 150580 tokens.
+O texto anterior tinha 314106
+O texto atual tem 152967
+Documento tem 152967 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 281
+FP = 124
+TN = 21
+FN = 22
+F1 FINAL = 0.7938
+O texto anterior tinha 214869
+O texto atual tem 107392
+Documento tem 107392 tokens.
+O texto anterior tinha 241392
+O texto atual tem 116708
+Documento tem 116708 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 282
+FP = 124
+TN = 21
+FN = 22
+F1 FINAL = 0.7944
+O texto anterior tinha 249364
+O texto atual tem 123239
+Documento tem 123239 tokens.
+O texto anterior tinha 223481
+O texto atual tem 114569
+Documento tem 114569 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 283
+FP = 124
+TN = 21
+FN = 22
+F1 FINAL = 0.7949
+O texto anterior tinha 180903
+O texto atual tem 89291
+Documento tem 89291 tokens.
+O texto anterior tinha 172809
+O texto atual tem 86977
+Documento tem 86977 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 283
+FP = 125
+TN = 21
+FN = 22
+F1 FINAL = 0.7938
+O texto anterior tinha 243952
+O texto atual tem 119355
+Documento tem 119355 tokens.
+O texto anterior tinha 211173
+O texto atual tem 105747
+Documento tem 105747 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 284
+FP = 125
+TN = 21
+FN = 22
+F1 FINAL = 0.7944
+O texto anterior tinha 214895
+O texto atual tem 104869
+Documento tem 104869 tokens.
+O texto anterior tinha 212389
+O texto atual tem 102921
+Documento tem 102921 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 284
+FP = 126
+TN = 21
+FN = 22
+F1 FINAL = 0.7933
+O texto anterior tinha 346689
+O texto atual tem 164846
+Documento tem 164846 tokens.
+O texto anterior tinha 303822
+O texto atual tem 153161
+Documento tem 153161 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 284
+FP = 126
+TN = 21
+FN = 23
+F1 FINAL = 0.7922
+O texto anterior tinha 267585
+O texto atual tem 126740
+Documento tem 126740 tokens.
+O texto anterior tinha 229035
+O texto atual tem 115436
+Documento tem 115436 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 284
+FP = 127
+TN = 21
+FN = 23
+F1 FINAL = 0.7911
+O texto anterior tinha 72737
+O texto atual tem 31705
+Documento tem 31705 tokens.
+O texto anterior tinha 216192
+O texto atual tem 104443
+Documento tem 104443 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 285
+FP = 127
+TN = 21
+FN = 23
+F1 FINAL = 0.7917
+O texto anterior tinha 272703
+O texto atual tem 129309
+Documento tem 129309 tokens.
+O texto anterior tinha 263097
+O texto atual tem 124626
+Documento tem 124626 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 286
+FP = 127
+TN = 21
+FN = 23
+F1 FINAL = 0.7922
+O texto anterior tinha 128492
+O texto atual tem 60712
+Documento tem 60712 tokens.
+O texto anterior tinha 139381
+O texto atual tem 65897
+Documento tem 65897 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 287
+FP = 127
+TN = 21
+FN = 23
+F1 FINAL = 0.7928
+O texto anterior tinha 190424
+O texto atual tem 87740
+Documento tem 87740 tokens.
+O texto anterior tinha 195904
+O texto atual tem 89310
+Documento tem 89310 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+TP = 288
+FP = 127
+TN = 21
+FN = 23
+F1 FINAL = 0.7934
+
+Processo concluído.

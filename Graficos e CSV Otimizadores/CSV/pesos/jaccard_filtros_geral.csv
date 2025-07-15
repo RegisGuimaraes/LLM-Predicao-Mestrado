@@ -1,0 +1,10 @@
+Filtro A,Filtro B,Estrategia,Jaccard
+Lucro Liquido Positivo,Naive,Equal-Weight,0.4338
+Lucro Liquido Positivo,Naive,Markowitz,0.3781
+Lucro Liquido Positivo,Naive,Value-Weighted,0.4338
+Lucro Liquido Positivo,Projetado,Equal-Weight,0.6767
+Lucro Liquido Positivo,Projetado,Markowitz,0.5190
+Lucro Liquido Positivo,Projetado,Value-Weighted,0.6767
+Naive,Projetado,Equal-Weight,0.3571
+Naive,Projetado,Markowitz,0.3067
+Naive,Projetado,Value-Weighted,0.3571

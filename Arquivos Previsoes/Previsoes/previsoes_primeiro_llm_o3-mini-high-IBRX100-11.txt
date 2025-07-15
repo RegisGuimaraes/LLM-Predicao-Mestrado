@@ -1,0 +1,137 @@
+[
+    {
+        "ticker": "ELET3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 4549774,
+            "lucro liquido projetado": 5237240,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro atual foi impactado por eventos extraordinários, como reestruturações societárias, ajustes de provisões e reversões de impairment, que tendem a se normalizar no futuro.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Próximo exercício fiscal (2024)",
+            "grau de confianca": "80%",
+            "motivo grau de confianca": "A previsão é baseada em dados consolidados de 2023 com tendências de melhoria decorrentes de ajustes não recorrentes e investimentos estratégicos, mesmo considerando incertezas macroeconômicas e regulatórias.",
+            "total de acoes em circulacao": "2250447745"
+        }
+    },
+    {
+        "ticker": "ELET3",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "3638378",
+            "lucro liquido projetado": "4500000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Despesas extraordinárias relacionadas ao Plano de Demissão Voluntária e reestruturação societária no contexto da privatização, além de provisões elevadas, que não se repetirão no próximo exercício.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual (exercício findo em 31/12/2023)",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "Os resultados operacionais dos contratos regulados e a não recorrência dos eventos extraordinários indicam potencial de recuperação, embora a persistência de juros elevados mantenha certa incerteza.",
+            "total de acoes em circulacao": "2301228"
+        }
+    },
+    {
+        "ticker": "ELET3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 4394861,
+            "lucro liquido projetado": 4850000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por ajustes não recorrentes, provisões para litígios e reestruturações societárias, que possivelmente não se repetirão integralmente no próximo exercício.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A projeção se apoia na robustez dos indicadores operacionais, no expressivo aumento do EBITDA, na redução de despesas extraordinárias e na expectativa de menor custo financeiro devido à política de juros mais baixos. Contudo, persistem incertezas regulatórias e riscos de mercado que moderam a confiança.",
+            "total de acoes em circulacao": "2307099812"
+        }
+    },
+    {
+        "ticker": "ELET3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 4394861,
+            "lucro liquido projetado": 5050000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Os resultados de 2023 foram impactados por eventos não recorrentes, como reestruturações societárias, reversões de provisões e ajustes de ativos, que tendem a se normalizar no próximo exercício.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo relatório anual",
+            "grau de confianca": "80%",
+            "motivo grau de confianca": "A projeção baseia-se em melhorias históricas consistentes, na redução dos custos financeiros prevista pelo cenário de política monetária (com cortes graduais na taxa de juros) e nas ações de eficiência operacional implementadas; contudo, as incertezas macroeconômicas e a normalização dos efeitos extraordinários medem um grau moderado de incerteza.",
+            "total de acoes em circulacao": 2307099812
+        }
+    },
+    {
+        "ticker": "ELET3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "4.394.861",
+            "lucro liquido projetado": "4.100.000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O resultado de 2023 foi impactado por eventos extraordinários no processo de de-risking (reversões de provisões e ajustes não recorrentes) que impulsionaram o lucro, mas que não devem se repetir no próximo exercício.",
+            "previsao de melhora ou piora": "Piora",
+            "periodo previsao": "Próximo exercício fiscal",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão possui grau de confiança moderado devido à incerteza no ambiente macroeconômico, a normalização dos eventos extraordinários e às variabilidades inerentes ao setor, mesmo com melhorias operacionais já evidenciadas.",
+            "total de acoes em circulacao": "2250447745"
+        }
+    },
+    {
+        "ticker": "ELET3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 4394861,
+            "lucro liquido projetado": 4614000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro de 2023 foi impactado por reversões significativas de provisões operacionais e ajustes decorrentes das reestruturações societárias, eventos considerados não recorrentes.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual (2024)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Apesar dos avanços em eficiência operacional e dos investimentos que indicam potencial de crescimento, a ausência de repetição dos eventos extraordinários de 2023 e as incertezas do cenário macroeconômico (como volatilidade dos mercados e variação das taxas de juros) reduzem parcialmente a segurança da projeção.",
+            "total de acoes em circulacao": 2307099812
+        }
+    },
+    {
+        "ticker": "BBDC4",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "21217196",
+            "lucro liquido projetado": "22000000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "A ocorrência de ajustes contábeis e reclassificações em 2022 foi considerada não recorrente e não se espera que se repita de forma significativa.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Próximo exercício anual",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão é moderadamente segura, pois os juros elevados sustentam as margens mesmo diante de incertezas na atividade econômica e na qualidade de crédito, enquanto os eventos extraordinários de 2022 não deverão se repetir.",
+            "total de acoes em circulacao": "10642170"
+        }
+    },
+    {
+        "ticker": "BBDC4",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 14502765,
+            "lucro liquido projetado": 15800000,
+            "unidade": "mil Reais",
+            "extraordinariedade de eventos": "O resultado de 2023 foi impactado por reestruturações, impairment de ativos e provisões não recorrentes, que se espera serem revertidos no próximo exercício.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual (encerrado em 31 de dezembro de 2024)",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "Apesar de os dados consolidados serem robustos, a projeção assume a reversão dos efeitos não recorrentes de 2023; contudo, incertezas macroeconômicas e riscos de crédito exigem cautela.",
+            "total de acoes em circulacao": "10642170"
+        }
+    },
+    {
+        "ticker": "BBDC4",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 21217196,
+            "lucro liquido projetado": 22000000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado pelo aumento das despesas financeiras e elevação das provisões de perdas de crédito, além de ajustes não recorrentes relacionados a reestruturações e a movimento de impairment/amortização de ágio, os quais não se espera se repetirem no próximo exercício.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão baseia-se na comparação entre os resultados consolidados de 2021 e 2022, onde observou-se uma retração do lucro decorrente de maiores provisões e custos financeiros. A expectativa de que a estabilização do cenário de crédito e uma eventual moderada redução dos custos de captação contribuam para uma leve recuperação confere um grau razoável de confiança, porém as incertezas macroeconômicas mantêm o nível de confiança em 75%.",
+            "total de acoes em circulacao": "10642170228"
+        }
+    }
+]

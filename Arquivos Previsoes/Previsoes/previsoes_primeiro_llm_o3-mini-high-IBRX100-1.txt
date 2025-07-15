@@ -1,0 +1,302 @@
+[
+    {
+        "ticker": "AMBP3",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "108745",
+            "lucro liquido projetado": "120000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por custos extraordinários relacionados à integração de aquisições e elevados encargos financeiros decorrentes de um ambiente de juros elevados.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A projeção considera a consolidação dos resultados atuais e a expectativa de sinergias e melhora de eficiência operacional, porém a persistência de juros elevados e incertezas macroeconômicas, bem como desafios na integração de novas aquisições, reduzem a certeza da previsão.",
+            "total de acoes em circulacao": "112935588"
+        }
+    },
+    {
+        "ticker": "BRAV3",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "127716",
+            "lucro liquido projetado": "166030",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Custos de transição, ajustes de provisões (como provisão para abandono e earn-out) e reversões de impairment impactaram o resultado de 2022 de forma não recorrente.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Exercício social de 2023",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A consolidação dos novos ativos e a estabilização operacional apontam para melhoria, embora a persistência de juros elevados e a volatilidade dos preços do petróleo introduzam incertezas moderadas.",
+            "total de acoes em circulacao": "203087632"
+        }
+    },
+    {
+        "ticker": "GOAU4",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "11462284",
+            "lucro liquido projetado": "12600000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por condições de mercado adversas e ajustes operacionais recorrentes (como variações cambiais e altos custos de energia), sem a presença de eventos extraordinários não recorrentes.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual (período equivalente ao encerrado em 31/12/2022)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "A previsão baseia-se na expectativa de modesta recuperação dos volumes e melhoria dos custos operacionais, atenuada pela persistência do ambiente de juros elevados e dos riscos macroeconômicos, mas amparada pelos investimentos estratégicos e iniciativas de modernização.",
+            "total de acoes em circulacao": "1033840804"
+        }
+    },
+    {
+        "ticker": "ISAE4",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 2319791,
+            "lucro liquido projetado": 2500000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado negativamente por efeitos não recorrentes, como a redução dos reajustes inflacionários sobre os ativos da concessão e os altos encargos financeiros decorrentes de captações para investimentos.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão baseia‑se em dados consolidados do exercício encerrado em 31/12/2022 e na estabilidade característica do setor de transmissão regulado, embora persistam incertezas macroeconômicas e regulatórias, especialmente devido à manutenção de juros elevados.",
+            "total de acoes em circulacao": "658883304"
+        }
+    },
+    {
+        "ticker": "AMBP3",
+        "periodo_pred": "2023-03-31",
+        "output_llm1": {
+            "lucro liquido atual": "-110988",
+            "lucro liquido projetado": "50000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Impactos extraordinários decorrentes de reestruturações, despesas financeiras atípicas e ajustes relacionados à integração de aquisições que não se repetirão no próximo exercício.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "Embora o ambiente de juros elevados — conforme destacado na Ata do COPOM — e as incertezas macroeconômicas representem desafios, as iniciativas de integração, racionalização de capex e redução de endividamento oferecem argumentos fortes para uma reversão do quadro de prejuízo, conferindo um grau de confiança moderadamente alto à previsão.",
+            "total de acoes em circulacao": "112935588"
+        }
+    },
+    {
+        "ticker": "BRAV3",
+        "periodo_pred": "2023-03-31",
+        "output_llm1": {
+            "lucro liquido atual": "16103",
+            "lucro liquido projetado": "18500",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Resultados do período atual foram impactados por custos de transição e despesas de reativação (não recorrentes) relacionados à integração de novos ativos.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano fiscal (1T24)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Apesar das incertezas macroeconômicas – com taxas de juros elevadas e riscos de volatilidade do mercado – a consolidação das operações e as sinergias advindas da integração dos novos ativos sustentam uma projeção positiva, embora moderada, para o próximo período.",
+            "total de acoes em circulacao": "203087632"
+        }
+    },
+    {
+        "ticker": "GOAU4",
+        "periodo_pred": "2023-03-31",
+        "output_llm1": {
+            "lucro liquido atual": 3236531,
+            "lucro liquido projetado": 3350000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi beneficiado por ganhos de equivalência patrimonial e ajustes de hedge/câmbio não recorrentes, que se espera se normalizem no próximo período.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Mesmo trimestre do próximo ano fiscal",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A projeção baseia-se na melhoria da margem e no histórico de crescimento, mas incorpora os riscos de um ambiente econômico com juros elevados e incertezas globais que podem moderar o avanço no lucro.",
+            "total de acoes em circulacao": 1033840804
+        }
+    },
+    {
+        "ticker": "ISAE4",
+        "periodo_pred": "2023-03-31",
+        "output_llm1": {
+            "lucro liquido atual": 755203,
+            "lucro liquido projetado": 830700,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Lucro líquido atual foi impulsionado por ganhos extraordinários de eficiência na implementação de infraestrutura, eventos parcialmente não recorrentes.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Embora os fundamentos operacionais e o histórico de eficiência reforcem a projeção, a manutenção de taxas de juros elevadas e as incertezas regulatórias e macroeconômicas reduzem o grau de segurança da previsão.",
+            "total de acoes em circulacao": 658883304
+        }
+    },
+    {
+        "ticker": "AMBP3",
+        "periodo_pred": "2023-06-30",
+        "output_llm1": {
+            "lucro liquido atual": 23900,
+            "lucro liquido projetado": 28000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por despesas extraordinárias e não caixa relacionadas à reestruturação e ajustes contábeis decorrentes da listagem na NYSE, que não se repetirão no próximo período.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano (2T2024)",
+            "grau de confianca": "80%",
+            "motivo grau de confianca": "A projeção se apoia na consistente melhora dos resultados operacionais no 2T23, na forte evolução de receitas e margens, e na expectativa de redução dos encargos financeiros devido à possível flexibilização da política monetária, conforme sugerido na Ata do COPOM. No entanto, persistem certas incertezas macroeconômicas e riscos cambiais que impedem um grau de segurança ainda maior.",
+            "total de acoes em circulacao": 112935588
+        }
+    },
+    {
+        "ticker": "BRAV3",
+        "periodo_pred": "2023-06-30",
+        "output_llm1": {
+            "lucro liquido atual": 79388,
+            "lucro liquido projetado": 90000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi significativamente impactado pela integração não recorrente do Polo Potiguar, que impulsionou a produção e a receita de forma extraordinária no período.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Mesmo trimestre do próximo exercício (2T24)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Embora a análise dos fundamentos operacionais mostre ganhos expressivos e sinergias a partir da integração de novos ativos, as incertezas macroeconômicas – como o ambiente de juros elevados e volatilidade dos preços do petróleo –, bem como os efeitos transitórios dos eventos extraordinários, reduzem a confiabilidade total da projeção.",
+            "total de acoes em circulacao": "239897447"
+        }
+    },
+    {
+        "ticker": "GOAU4",
+        "periodo_pred": "2023-06-30",
+        "output_llm1": {
+            "lucro liquido atual": 2132522,
+            "lucro liquido projetado": 2350000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O resultado do trimestre atual foi impactado por ajustes não recorrentes e efeitos de equivalência patrimonial, que contribuíram para uma queda significativa em comparação ao mesmo período do ano anterior.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Mesmo trimestre do próximo ano fiscal (01/04/2024 a 30/06/2024)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Apesar das incertezas macroeconômicas e da política monetária contracionista, os fundamentos operacionais e a resiliência do mercado interno apontam para uma recuperação moderada, embora sujeita a riscos externos.",
+            "total de acoes em circulacao": 1033840804
+        }
+    },
+    {
+        "ticker": "ISAE4",
+        "periodo_pred": "2023-06-30",
+        "output_llm1": {
+            "lucro liquido atual": 613126,
+            "lucro liquido projetado": 651000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "A baixa atualização inflacionária (menor efeito IPCA) impactou negativamente os resultados no período atual, sendo um fator não recorrente que tende a se normalizar nos próximos trimestres.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano fiscal",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A projeção baseia‑se na análise dos resultados operacionais estáveis decorrentes dos contratos de concessão, no potencial de recuperação com a normalização dos ajustes inflacionários e no cenário macroeconômico moderadamente estável apontado pela ata do COPOM, embora existam incertezas relacionadas a fatores externos e à evolução dos novos investimentos.",
+            "total de acoes em circulacao": 658883304
+        }
+    },
+    {
+        "ticker": "AMBP3",
+        "periodo_pred": "2023-09-30",
+        "output_llm1": {
+            "lucro liquido atual": 34800,
+            "lucro liquido projetado": 38000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Não foram identificados eventos não recorrentes significativos neste trimestre; despesas extraordinárias de períodos anteriores não se repetiram.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano (3T23 de 2024)",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão é baseada no robusto desempenho do segmento Response, na melhoria dos indicadores operacionais (como o EBITDA e margens) e no cenário macroeconômico sinalizado pelo COPOM, que sugere possíveis alívios nos custos de financiamento, embora persistam incertezas quanto à volatilidade econômica.",
+            "total de acoes em circulacao": "112935588"
+        }
+    },
+    {
+        "ticker": "BRAV3",
+        "periodo_pred": "2023-09-30",
+        "output_llm1": {
+            "lucro liquido atual": -77453,
+            "lucro liquido projetado": 50000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por custos não recorrentes e itens extraordinários, como despesas de integração de aquisições (especialmente do Polo Potiguar), ajustes de impairment (no Campo de Camarão) e encargos financeiros intensos decorrentes de operações de hedge e reestruturação.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano (Q3 2024)",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Apesar de os fundamentos operacionais e sinergias estarem evoluindo positivamente e do ambiente de juros potencialmente mais favorável evidenciado na ata do COPOM, permanecem incertezas relacionadas à volatilidade dos preços do petróleo e riscos inerentes às operações de integração.",
+            "total de acoes em circulacao": 239984927
+        }
+    },
+    {
+        "ticker": "GOAU4",
+        "periodo_pred": "2023-09-30",
+        "output_llm1": {
+            "lucro liquido atual": 1613051,
+            "lucro liquido projetado": 1774356,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi beneficiado por itens não recorrentes, como os efeitos de equivalência patrimonial decorrentes dos investimentos em controladas e ajustes de conversão, que podem não se repetir no futuro.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano fiscal",
+            "grau de confianca": "80%",
+            "motivo grau de confianca": "A projeção baseia-se na solidez dos resultados históricos e na perspectiva de redução dos custos financeiros decorrentes dos ajustes na política monetária, conforme indicado pelo COPOM, embora riscos setoriais e variações nos preços de commodities mantenham um nível significativo de incerteza.",
+            "total de acoes em circulacao": 1033840804
+        }
+    },
+    {
+        "ticker": "ISAE4",
+        "periodo_pred": "2023-09-30",
+        "output_llm1": {
+            "lucro liquido atual": 486181,
+            "lucro liquido projetado": 500000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Não identificou-se evento extraordinário não recorrente; os resultados refletem operações regulares e efeitos de ajustes tarifários e de eficiência já incorporados.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Mesmo trimestre do próximo ano",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "A previsão baseia-se na estabilidade histórica dos resultados e na projeção dos efeitos positivos da redução das taxas de juros, conforme indicado pela Ata do COPOM; entretanto, há incertezas regulatórias e de mercado que induzem cautela.",
+            "total de acoes em circulacao": 658883304
+        }
+    },
+    {
+        "ticker": "AMBP3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 56649,
+            "lucro liquido projetado": 100000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O resultado de 2023 foi impactado significativamente por custos de integração de aquisições, ajustes de equivalência patrimonial e despesas financeiras elevadas – itens considerados não recorrentes que comprimiram as margens.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "A previsão se apoia na análise dos números consolidados e na expectativa de que itens extraordinários de 2023 se normalizem, aliados à possível redução dos encargos financeiros decorrente de ajustes na política monetária (conforme apontado na ata do COPOM). Contudo, permanecem incertezas relacionadas à integração dos novos negócios e à volatilidade macroeconômica.",
+            "total de acoes em circulacao": "167041869"
+        }
+    },
+    {
+        "ticker": "BRAV3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 425215,
+            "lucro liquido projetado": 488000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi fortemente impactado por ganhos extraordinários decorrentes da aquisição e integração do Polo Potiguar, além de reavaliações de ativos, os quais não se repetirão em sua magnitude no próximo período.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício fiscal (relatório anual de 2024)",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A projeção baseia-se no forte desempenho operacional, sinergias decorrentes das recentes aquisições e na política monetária cautelosa do COPOM com redução de juros; contudo, incertezas relacionadas à volatilidade dos preços internacionais do petróleo e riscos macroeconômicos reduzem a segurança da previsão.",
+            "total de acoes em circulacao": 239984927
+        }
+    },
+    {
+        "ticker": "GOAU4",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "7585094",
+            "lucro liquido projetado": "8500000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "Lucro líquido atual foi impactado por fatores não recorrentes, como a elevada concorrência de importações e ajustes estratégicos (reestruturação e venda de participações em joint ventures) que não devem se repetir integralmente.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "próximo exercício anual",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "A projeção se baseia em dados consolidados robustos, na solidez do fluxo de caixa e nas iniciativas estratégicas de CAPEX e reestruturação, além do ambiente de afrouxamento monetário indicado pelo COPOM; entretanto, persistem riscos externos e competição intensa, o que torna a confiança moderada a alta.",
+            "total de acoes em circulacao": "1032705804"
+        }
+    },
+    {
+        "ticker": "ISAE4",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": 2892362,
+            "lucro liquido projetado": 3150000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impulsionado, em 2023, por ganhos extraordinários – especialmente resultados decorrentes de revisões tarifárias e ganhos de eficiência na implementação de infraestrutura – que tendem a se normalizar.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Próximo exercício fiscal (período equivalente ao relatório anual)",
+            "grau de confianca": "80%",
+            "motivo grau de confianca": "A previsão baseia-se em dados financeiros robustos e na continuidade de tendências positivas operacionais, embora haja incertezas relacionadas a variações regulatórias e macroeconômicas; os recentes encaminhamentos do COPOM indicam um ambiente moderadamente favorável aos resultados, o que nos confere 80% de confiança na projeção.",
+            "total de acoes em circulacao": 658883304
+        }
+    }
+]

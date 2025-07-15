@@ -1,0 +1,54 @@
+Iniciando processo...
+
+Processando para data_pred=2022-12-31 e data_check=2023-12-31
+  Processando BBDC4 ...
+O texto anterior tinha 543942
+O texto atual tem 271844
+Documento tem 271844 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+O texto anterior tinha 504456
+O texto atual tem 255627
+Documento tem 255627 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BBDC4
+TP = 2
+FP = 1
+TN = 0
+FN = 1
+F1 FINAL = 0.6667
+
+Processando para data_pred=2023-12-31 e data_check=2024-12-31
+  Processando BBDC4 ...
+O texto anterior tinha 504456
+O texto atual tem 255627
+Documento tem 255627 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+    [ERRO] Falha no primeiro LLM para BBDC4 em 2023-12-31
+
+Todos os tickers para a data 2022-12-31 foram processados com sucesso.
+
+Para a data 2023-03-31, os seguintes tickers não foram processados: ['BBDC4']
+  Reprocessando BBDC4 para 2023-03-31...
+O texto anterior tinha 367976
+O texto atual tem 186621
+Documento tem 186621 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+Documento tem 186621 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+Documento tem 186621 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.
+    [ERRO] Falha no primeiro LLM para BBDC4 em 2023-03-31
+  [ERRO] Não foi possível processar BBDC4 mesmo na reexecução.
+
+Para a data 2023-06-30, os seguintes tickers não foram processados: ['BBDC4']
+  Reprocessando BBDC4 para 2023-06-30...
+O texto anterior tinha 419435
+O texto atual tem 208747
+Documento tem 208747 tokens.
+[INFO] Texto excede 110000 tokens, cortando em duas partes.

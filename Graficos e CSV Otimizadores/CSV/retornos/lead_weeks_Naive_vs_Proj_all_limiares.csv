@@ -1,0 +1,7 @@
+Filtro,Estrategia,Semanas Lider,Total Semanas,Retorno Acumulado,Percentual Semanas Lider
+Naive,Equal-Weight,130,270,0.2061,0.4815
+Naive,Markowitz,156,270,0.0860,0.5778
+Naive,Value-Weighted,249,270,0.3674,0.9222
+Projetado,Equal-Weight,140,270,0.1585,0.5185
+Projetado,Markowitz,114,270,0.1609,0.4222
+Projetado,Value-Weighted,21,270,0.2983,0.0778

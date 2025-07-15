@@ -1,0 +1,19 @@
+﻿Limiar,Filtro,Estratégia,Sharpe,Beta,Volatilidade,Retorno Anual,Retorno Acumulado
+0.0%,Lucro Líquido Positivo,markowitz,0.4235,0.5495,0.1043,0.1722,0.1793
+0.0%,Naive,markowitz,0.4712,0.5274,0.1085,0.1798,0.1873
+0.0%,Projetado,markowitz,0.7018,0.5215,0.1044,0.2067,0.2154
+0.5%,Lucro Líquido Positivo,markowitz,0.7119,0.5741,0.1072,0.2099,0.2188
+0.5%,Naive,markowitz,0.2953,0.5355,0.1084,0.1576,0.1641
+0.5%,Projetado,markowitz,0.6530,0.4980,0.1027,0.1994,0.2078
+1.0%,Lucro Líquido Positivo,markowitz,0.6689,0.5965,0.1107,0.2067,0.2155
+1.0%,Naive,markowitz,0.4204,0.5762,0.1171,0.1765,0.1839
+1.0%,Projetado,markowitz,0.7621,0.5503,0.1062,0.2157,0.2248
+1.5%,Lucro Líquido Positivo,markowitz,0.7748,0.5430,0.1038,0.2153,0.2244
+1.5%,Naive,markowitz,0.1124,0.5805,0.1190,0.1350,0.1405
+1.5%,Projetado,markowitz,0.3819,0.5304,0.1055,0.1675,0.1745
+2.0%,Lucro Líquido Positivo,markowitz,0.7529,0.6034,0.1132,0.2199,0.2293
+2.0%,Naive,markowitz,-0.2699,0.6180,0.1237,0.0827,0.0860
+2.0%,Projetado,markowitz,0.2742,0.5333,0.1060,0.1545,0.1609
+,Benchmark,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+,Benchmark,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+,Benchmark,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501

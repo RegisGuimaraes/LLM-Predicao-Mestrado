@@ -1,0 +1,7 @@
+Iniciando processo...
+
+Processando para data_pred=2022-12-31 e data_check=2023-12-31
+  Processando AZZA3 ...
+O texto anterior tinha 183579
+O texto atual tem 90765
+Documento tem 90765 tokens.

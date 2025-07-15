@@ -1,0 +1,31 @@
+Filtro,Limiar,Estrategia,Jaccard
+Lucro Liquido Positivo,0.0%,Markowitz,0.2237
+Lucro Liquido Positivo,0.0%,Value-Weighted,1.0000
+Lucro Liquido Positivo,0.5%,Markowitz,0.2436
+Lucro Liquido Positivo,0.5%,Value-Weighted,1.0000
+Lucro Liquido Positivo,1.0%,Markowitz,0.2757
+Lucro Liquido Positivo,1.0%,Value-Weighted,1.0000
+Lucro Liquido Positivo,1.5%,Markowitz,0.2788
+Lucro Liquido Positivo,1.5%,Value-Weighted,1.0000
+Lucro Liquido Positivo,2.0%,Markowitz,0.3117
+Lucro Liquido Positivo,2.0%,Value-Weighted,1.0000
+Naive,0.0%,Markowitz,0.3129
+Naive,0.0%,Value-Weighted,1.0000
+Naive,0.5%,Markowitz,0.3314
+Naive,0.5%,Value-Weighted,1.0000
+Naive,1.0%,Markowitz,0.3445
+Naive,1.0%,Value-Weighted,1.0000
+Naive,1.5%,Markowitz,0.3597
+Naive,1.5%,Value-Weighted,1.0000
+Naive,2.0%,Markowitz,0.3758
+Naive,2.0%,Value-Weighted,1.0000
+Projetado,0.0%,Markowitz,0.1685
+Projetado,0.0%,Value-Weighted,1.0000
+Projetado,0.5%,Markowitz,0.1779
+Projetado,0.5%,Value-Weighted,1.0000
+Projetado,1.0%,Markowitz,0.2007
+Projetado,1.0%,Value-Weighted,1.0000
+Projetado,1.5%,Markowitz,0.2192
+Projetado,1.5%,Value-Weighted,1.0000
+Projetado,2.0%,Markowitz,0.2693
+Projetado,2.0%,Value-Weighted,1.0000

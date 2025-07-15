@@ -1,0 +1,820 @@
+Iniciando processo...
+
+Processando para data_pred=2022-12-31 e data_check=2023-12-31
+  Processando AZZA3 ...
+O texto anterior tinha 183579
+O texto atual tem 90765
+Documento tem 90765 tokens.
+O texto anterior tinha 189122
+O texto atual tem 92485
+Documento tem 92485 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: AZZA3
+TP = 0
+FP = 1
+TN = 0
+FN = 0
+F1 FINAL = 0.0000
+  Processando BHIA3 ...
+O texto anterior tinha 135853
+O texto atual tem 71059
+Documento tem 71059 tokens.
+O texto anterior tinha 130163
+O texto atual tem 66828
+Documento tem 66828 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BHIA3
+TP = 0
+FP = 2
+TN = 0
+FN = 0
+F1 FINAL = 0.0000
+  Processando BRAV3 ...
+O texto anterior tinha 172259
+O texto atual tem 83734
+Documento tem 83734 tokens.
+O texto anterior tinha 201975
+O texto atual tem 99702
+Documento tem 99702 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BRAV3
+TP = 1
+FP = 2
+TN = 0
+FN = 0
+F1 FINAL = 0.5000
+  Processando CBAV3 ...
+O texto anterior tinha 201614
+O texto atual tem 98715
+Documento tem 98715 tokens.
+O texto anterior tinha 209094
+O texto atual tem 102575
+Documento tem 102575 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CBAV3
+TP = 1
+FP = 2
+TN = 0
+FN = 1
+F1 FINAL = 0.4000
+  Processando DXCO3 ...
+O texto anterior tinha 215399
+O texto atual tem 104678
+Documento tem 104678 tokens.
+Documento tem 104678 tokens.
+O texto anterior tinha 219855
+O texto atual tem 107634
+Documento tem 107634 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: DXCO3
+TP = 2
+FP = 2
+TN = 0
+FN = 1
+F1 FINAL = 0.5714
+  Processando ECOR3 ...
+O texto anterior tinha 245468
+O texto atual tem 118198
+Documento tem 118198 tokens.
+O texto anterior tinha 224906
+O texto atual tem 110482
+Documento tem 110482 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: ECOR3
+TP = 3
+FP = 2
+TN = 0
+FN = 1
+F1 FINAL = 0.6667
+  Processando GOLL4 ...
+O texto anterior tinha 173282
+O texto atual tem 88321
+Documento tem 88321 tokens.
+O texto anterior tinha 170587
+O texto atual tem 85000
+Documento tem 85000 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: GOLL4
+TP = 4
+FP = 2
+TN = 0
+FN = 1
+F1 FINAL = 0.7273
+  Processando MDIA3 ...
+O texto anterior tinha 236786
+O texto atual tem 115262
+Documento tem 115262 tokens.
+O texto anterior tinha 226467
+O texto atual tem 110189
+Documento tem 110189 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: MDIA3
+TP = 5
+FP = 2
+TN = 0
+FN = 1
+F1 FINAL = 0.7692
+  Processando QUAL3 ...
+O texto anterior tinha 147212
+O texto atual tem 75905
+Documento tem 75905 tokens.
+O texto anterior tinha 146527
+O texto atual tem 74854
+Documento tem 74854 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: QUAL3
+TP = 5
+FP = 3
+TN = 0
+FN = 1
+F1 FINAL = 0.7143
+  Processando SIMH3 ...
+O texto anterior tinha 312890
+O texto atual tem 150220
+Documento tem 150220 tokens.
+O texto anterior tinha 330584
+O texto atual tem 160702
+Documento tem 160702 tokens.
+[INFO] Texto excede 160000 tokens, cortando em duas partes.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: SIMH3
+TP = 5
+FP = 3
+TN = 0
+FN = 2
+F1 FINAL = 0.6667
+
+Processando para data_pred=2023-03-31 e data_check=2024-03-31
+  Processando AZZA3 ...
+O texto anterior tinha 91141
+O texto atual tem 44099
+Documento tem 44099 tokens.
+O texto anterior tinha 86890
+O texto atual tem 42669
+Documento tem 42669 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: AZZA3
+TP = 6
+FP = 3
+TN = 0
+FN = 2
+F1 FINAL = 0.7059
+  Processando BHIA3 ...
+O texto anterior tinha 86405
+O texto atual tem 44689
+Documento tem 44689 tokens.
+O texto anterior tinha 93844
+O texto atual tem 48750
+Documento tem 48750 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BHIA3
+TP = 7
+FP = 3
+TN = 0
+FN = 2
+F1 FINAL = 0.7368
+  Processando BRAV3 ...
+O texto anterior tinha 114920
+O texto atual tem 58041
+Documento tem 58041 tokens.
+O texto anterior tinha 144450
+O texto atual tem 73555
+Documento tem 73555 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BRAV3
+TP = 7
+FP = 4
+TN = 0
+FN = 2
+F1 FINAL = 0.7000
+  Processando CBAV3 ...
+O texto anterior tinha 149832
+O texto atual tem 70460
+Documento tem 70460 tokens.
+Documento tem 70460 tokens.
+O texto anterior tinha 150002
+O texto atual tem 70972
+Documento tem 70972 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CBAV3
+TP = 7
+FP = 5
+TN = 0
+FN = 2
+F1 FINAL = 0.6667
+  Processando DXCO3 ...
+O texto anterior tinha 141892
+O texto atual tem 69455
+Documento tem 69455 tokens.
+O texto anterior tinha 148193
+O texto atual tem 73466
+Documento tem 73466 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: DXCO3
+TP = 7
+FP = 5
+TN = 0
+FN = 3
+F1 FINAL = 0.6364
+  Processando ECOR3 ...
+O texto anterior tinha 96554
+O texto atual tem 47124
+Documento tem 47124 tokens.
+O texto anterior tinha 92078
+O texto atual tem 46047
+Documento tem 46047 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: ECOR3
+TP = 8
+FP = 5
+TN = 0
+FN = 3
+F1 FINAL = 0.6667
+  Processando GOLL4 ...
+O texto anterior tinha 100650
+O texto atual tem 50355
+Documento tem 50355 tokens.
+O texto anterior tinha 119598
+O texto atual tem 59191
+Documento tem 59191 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: GOLL4
+TP = 9
+FP = 5
+TN = 0
+FN = 3
+F1 FINAL = 0.6923
+  Processando MDIA3 ...
+O texto anterior tinha 143302
+O texto atual tem 72819
+Documento tem 72819 tokens.
+O texto anterior tinha 139810
+O texto atual tem 69618
+Documento tem 69618 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: MDIA3
+TP = 10
+FP = 5
+TN = 0
+FN = 3
+F1 FINAL = 0.7143
+  Processando QUAL3 ...
+O texto anterior tinha 100291
+O texto atual tem 50568
+Documento tem 50568 tokens.
+Documento tem 50568 tokens.
+O texto anterior tinha 100413
+O texto atual tem 50978
+Documento tem 50978 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: QUAL3
+TP = 10
+FP = 6
+TN = 0
+FN = 3
+F1 FINAL = 0.6897
+  Processando SIMH3 ...
+O texto anterior tinha 225301
+O texto atual tem 109201
+Documento tem 109201 tokens.
+O texto anterior tinha 236339
+O texto atual tem 113706
+Documento tem 113706 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: SIMH3
+TP = 11
+FP = 6
+TN = 0
+FN = 3
+F1 FINAL = 0.7097
+
+Processando para data_pred=2023-06-30 e data_check=2024-06-30
+  Processando AZZA3 ...
+O texto anterior tinha 104068
+O texto atual tem 50734
+Documento tem 50734 tokens.
+O texto anterior tinha 90770
+O texto atual tem 44687
+Documento tem 44687 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: AZZA3
+TP = 12
+FP = 6
+TN = 0
+FN = 3
+F1 FINAL = 0.7273
+  Processando BHIA3 ...
+O texto anterior tinha 92338
+O texto atual tem 48115
+Documento tem 48115 tokens.
+O texto anterior tinha 93361
+O texto atual tem 48381
+Documento tem 48381 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BHIA3
+TP = 13
+FP = 6
+TN = 0
+FN = 3
+F1 FINAL = 0.7429
+  Processando BRAV3 ...
+O texto anterior tinha 141576
+O texto atual tem 70432
+Documento tem 70432 tokens.
+O texto anterior tinha 163370
+O texto atual tem 82653
+Documento tem 82653 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BRAV3
+TP = 13
+FP = 7
+TN = 0
+FN = 3
+F1 FINAL = 0.7222
+  Processando CBAV3 ...
+O texto anterior tinha 159064
+O texto atual tem 76618
+Documento tem 76618 tokens.
+O texto anterior tinha 151367
+O texto atual tem 71016
+Documento tem 71016 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CBAV3
+TP = 13
+FP = 7
+TN = 1
+FN = 3
+F1 FINAL = 0.7222
+  Processando DXCO3 ...
+O texto anterior tinha 152291
+O texto atual tem 75384
+Documento tem 75384 tokens.
+O texto anterior tinha 161105
+O texto atual tem 79593
+Documento tem 79593 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: DXCO3
+TP = 13
+FP = 8
+TN = 1
+FN = 3
+F1 FINAL = 0.7027
+  Processando ECOR3 ...
+O texto anterior tinha 108589
+O texto atual tem 53297
+Documento tem 53297 tokens.
+Documento tem 53297 tokens.
+O texto anterior tinha 97012
+O texto atual tem 49679
+Documento tem 49679 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: ECOR3
+TP = 14
+FP = 8
+TN = 1
+FN = 3
+F1 FINAL = 0.7179
+  Processando GOLL4 ...
+O texto anterior tinha 108777
+O texto atual tem 53779
+Documento tem 53779 tokens.
+O texto anterior tinha 136770
+O texto atual tem 67963
+Documento tem 67963 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: GOLL4
+TP = 14
+FP = 9
+TN = 1
+FN = 3
+F1 FINAL = 0.7000
+  Processando MDIA3 ...
+O texto anterior tinha 155865
+O texto atual tem 79074
+Documento tem 79074 tokens.
+O texto anterior tinha 151249
+O texto atual tem 74393
+Documento tem 74393 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: MDIA3
+TP = 15
+FP = 9
+TN = 1
+FN = 3
+F1 FINAL = 0.7143
+  Processando QUAL3 ...
+O texto anterior tinha 114366
+O texto atual tem 58117
+Documento tem 58117 tokens.
+O texto anterior tinha 114695
+O texto atual tem 58362
+Documento tem 58362 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: QUAL3
+TP = 16
+FP = 9
+TN = 1
+FN = 3
+F1 FINAL = 0.7273
+  Processando SIMH3 ...
+O texto anterior tinha 244755
+O texto atual tem 120652
+Documento tem 120652 tokens.
+O texto anterior tinha 219038
+O texto atual tem 105582
+Documento tem 105582 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: SIMH3
+TP = 16
+FP = 10
+TN = 1
+FN = 3
+F1 FINAL = 0.7111
+
+Processando para data_pred=2023-09-30 e data_check=2024-09-30
+  Processando AZZA3 ...
+O texto anterior tinha 106844
+O texto atual tem 51935
+Documento tem 51935 tokens.
+O texto anterior tinha 106662
+O texto atual tem 51560
+Documento tem 51560 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: AZZA3
+TP = 17
+FP = 10
+TN = 1
+FN = 3
+F1 FINAL = 0.7234
+  Processando BHIA3 ...
+O texto anterior tinha 94684
+O texto atual tem 49016
+Documento tem 49016 tokens.
+O texto anterior tinha 96528
+O texto atual tem 50028
+Documento tem 50028 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BHIA3
+TP = 18
+FP = 10
+TN = 1
+FN = 3
+F1 FINAL = 0.7347
+  Processando BRAV3 ...
+O texto anterior tinha 149461
+O texto atual tem 74216
+Documento tem 74216 tokens.
+O texto anterior tinha 202481
+O texto atual tem 103372
+Documento tem 103372 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BRAV3
+TP = 19
+FP = 10
+TN = 1
+FN = 3
+F1 FINAL = 0.7451
+  Processando CBAV3 ...
+O texto anterior tinha 167258
+O texto atual tem 79761
+Documento tem 79761 tokens.
+O texto anterior tinha 149830
+O texto atual tem 70728
+Documento tem 70728 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CBAV3
+TP = 20
+FP = 10
+TN = 1
+FN = 3
+F1 FINAL = 0.7547
+  Processando DXCO3 ...
+O texto anterior tinha 137698
+O texto atual tem 68260
+Documento tem 68260 tokens.
+O texto anterior tinha 166736
+O texto atual tem 83131
+Documento tem 83131 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: DXCO3
+TP = 20
+FP = 11
+TN = 1
+FN = 3
+F1 FINAL = 0.7407
+  Processando ECOR3 ...
+O texto anterior tinha 105288
+O texto atual tem 52754
+Documento tem 52754 tokens.
+O texto anterior tinha 105714
+O texto atual tem 52869
+Documento tem 52869 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: ECOR3
+TP = 21
+FP = 11
+TN = 1
+FN = 3
+F1 FINAL = 0.7500
+  Processando GOLL4 ...
+O texto anterior tinha 114547
+O texto atual tem 57006
+Documento tem 57006 tokens.
+O texto anterior tinha 142962
+O texto atual tem 70988
+Documento tem 70988 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: GOLL4
+TP = 22
+FP = 11
+TN = 1
+FN = 3
+F1 FINAL = 0.7586
+  Processando MDIA3 ...
+O texto anterior tinha 160949
+O texto atual tem 82306
+Documento tem 82306 tokens.
+O texto anterior tinha 136325
+O texto atual tem 69026
+Documento tem 69026 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: MDIA3
+TP = 23
+FP = 11
+TN = 1
+FN = 3
+F1 FINAL = 0.7667
+  Processando QUAL3 ...
+O texto anterior tinha 117647
+O texto atual tem 60654
+Documento tem 60654 tokens.
+O texto anterior tinha 123921
+O texto atual tem 59225
+Documento tem 59225 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: QUAL3
+TP = 24
+FP = 11
+TN = 1
+FN = 3
+F1 FINAL = 0.7742
+  Processando SIMH3 ...
+O texto anterior tinha 254307
+O texto atual tem 123579
+Documento tem 123579 tokens.
+O texto anterior tinha 248349
+O texto atual tem 118466
+Documento tem 118466 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: SIMH3
+TP = 25
+FP = 11
+TN = 1
+FN = 3
+F1 FINAL = 0.7812
+
+Processando para data_pred=2023-12-31 e data_check=2024-12-31
+  Processando AZZA3 ...
+O texto anterior tinha 189122
+O texto atual tem 92485
+Documento tem 92485 tokens.
+O texto anterior tinha 219495
+O texto atual tem 110750
+Documento tem 110750 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: AZZA3
+TP = 25
+FP = 11
+TN = 1
+FN = 4
+F1 FINAL = 0.7692
+  Processando BHIA3 ...
+O texto anterior tinha 130163
+O texto atual tem 66828
+Documento tem 66828 tokens.
+O texto anterior tinha 134753
+O texto atual tem 69909
+Documento tem 69909 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BHIA3
+TP = 26
+FP = 11
+TN = 1
+FN = 4
+F1 FINAL = 0.7761
+  Processando BRAV3 ...
+O texto anterior tinha 201975
+O texto atual tem 99702
+Documento tem 99702 tokens.
+O texto anterior tinha 263480
+O texto atual tem 136502
+Documento tem 136502 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BRAV3
+TP = 26
+FP = 12
+TN = 1
+FN = 4
+F1 FINAL = 0.7647
+  Processando CBAV3 ...
+O texto anterior tinha 209094
+O texto atual tem 102575
+Documento tem 102575 tokens.
+O texto anterior tinha 207866
+O texto atual tem 100358
+Documento tem 100358 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CBAV3
+TP = 27
+FP = 12
+TN = 1
+FN = 4
+F1 FINAL = 0.7714
+  Processando DXCO3 ...
+O texto anterior tinha 219855
+O texto atual tem 107634
+Documento tem 107634 tokens.
+O texto anterior tinha 217970
+O texto atual tem 107367
+Documento tem 107367 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: DXCO3
+TP = 27
+FP = 13
+TN = 1
+FN = 4
+F1 FINAL = 0.7606
+  Processando ECOR3 ...
+O texto anterior tinha 224906
+O texto atual tem 110482
+Documento tem 110482 tokens.
+O texto anterior tinha 237690
+O texto atual tem 117852
+Documento tem 117852 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: ECOR3
+TP = 28
+FP = 13
+TN = 1
+FN = 4
+F1 FINAL = 0.7671
+  Processando GOLL4 ...
+O texto anterior tinha 170587
+O texto atual tem 85000
+Documento tem 85000 tokens.
+Documento tem 10 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: GOLL4
+TP = 28
+FP = 13
+TN = 1
+FN = 4
+F1 FINAL = 0.7671
+  Processando MDIA3 ...
+O texto anterior tinha 226467
+O texto atual tem 110189
+Documento tem 110189 tokens.
+O texto anterior tinha 216180
+O texto atual tem 105444
+Documento tem 105444 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: MDIA3
+TP = 28
+FP = 14
+TN = 1
+FN = 4
+F1 FINAL = 0.7568
+  Processando QUAL3 ...
+O texto anterior tinha 146527
+O texto atual tem 74854
+Documento tem 74854 tokens.
+O texto anterior tinha 146191
+O texto atual tem 72334
+Documento tem 72334 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: QUAL3
+TP = 29
+FP = 14
+TN = 1
+FN = 4
+F1 FINAL = 0.7632
+  Processando SIMH3 ...
+O texto anterior tinha 330584
+O texto atual tem 160702
+Documento tem 160702 tokens.
+[INFO] Texto excede 160000 tokens, cortando em duas partes.
+Documento tem 10 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: SIMH3
+TP = 29
+FP = 14
+TN = 1
+FN = 4
+F1 FINAL = 0.7632
+
+Para a data 2022-12-31, os seguintes tickers não foram processados: ['ALSO3', 'CASH3', 'CIEL3']
+  Reprocessando ALSO3 para 2022-12-31...
+    Nenhum documento encontrado para ALSO3 em 2022-12-31
+  [ERRO] Não foi possível processar ALSO3 mesmo na reexecução.
+  Reprocessando CIEL3 para 2022-12-31...
+    Nenhum documento encontrado para CIEL3 em 2022-12-31
+  [ERRO] Não foi possível processar CIEL3 mesmo na reexecução.
+  Reprocessando CASH3 para 2022-12-31...
+    Nenhum documento encontrado para CASH3 em 2022-12-31
+  [ERRO] Não foi possível processar CASH3 mesmo na reexecução.
+
+Para a data 2023-03-31, os seguintes tickers não foram processados: ['ALSO3', 'CASH3', 'CIEL3']
+  Reprocessando ALSO3 para 2023-03-31...
+    Nenhum documento encontrado para ALSO3 em 2023-03-31
+  [ERRO] Não foi possível processar ALSO3 mesmo na reexecução.
+  Reprocessando CIEL3 para 2023-03-31...
+    Nenhum documento encontrado para CIEL3 em 2023-03-31
+  [ERRO] Não foi possível processar CIEL3 mesmo na reexecução.
+  Reprocessando CASH3 para 2023-03-31...
+    Nenhum documento encontrado para CASH3 em 2023-03-31
+  [ERRO] Não foi possível processar CASH3 mesmo na reexecução.
+
+Para a data 2023-06-30, os seguintes tickers não foram processados: ['ALSO3', 'CASH3', 'CIEL3']
+  Reprocessando ALSO3 para 2023-06-30...
+    Nenhum documento encontrado para ALSO3 em 2023-06-30
+  [ERRO] Não foi possível processar ALSO3 mesmo na reexecução.
+  Reprocessando CIEL3 para 2023-06-30...
+    Nenhum documento encontrado para CIEL3 em 2023-06-30
+  [ERRO] Não foi possível processar CIEL3 mesmo na reexecução.
+  Reprocessando CASH3 para 2023-06-30...
+    Nenhum documento encontrado para CASH3 em 2023-06-30
+  [ERRO] Não foi possível processar CASH3 mesmo na reexecução.
+
+Para a data 2023-09-30, os seguintes tickers não foram processados: ['ALSO3', 'CASH3', 'CIEL3']
+  Reprocessando ALSO3 para 2023-09-30...
+    Nenhum documento encontrado para ALSO3 em 2023-09-30
+  [ERRO] Não foi possível processar ALSO3 mesmo na reexecução.
+  Reprocessando CIEL3 para 2023-09-30...
+    Nenhum documento encontrado para CIEL3 em 2023-09-30
+  [ERRO] Não foi possível processar CIEL3 mesmo na reexecução.
+  Reprocessando CASH3 para 2023-09-30...
+    Nenhum documento encontrado para CASH3 em 2023-09-30
+  [ERRO] Não foi possível processar CASH3 mesmo na reexecução.
+
+Para a data 2023-12-31, os seguintes tickers não foram processados: ['ALSO3', 'CASH3', 'CIEL3']
+  Reprocessando ALSO3 para 2023-12-31...
+    Nenhum documento encontrado para ALSO3 em 2023-12-31
+  [ERRO] Não foi possível processar ALSO3 mesmo na reexecução.
+  Reprocessando CIEL3 para 2023-12-31...
+    Nenhum documento encontrado para CIEL3 em 2023-12-31
+  [ERRO] Não foi possível processar CIEL3 mesmo na reexecução.
+  Reprocessando CASH3 para 2023-12-31...
+    Nenhum documento encontrado para CASH3 em 2023-12-31
+  [ERRO] Não foi possível processar CASH3 mesmo na reexecução.
+
+Processo concluído.

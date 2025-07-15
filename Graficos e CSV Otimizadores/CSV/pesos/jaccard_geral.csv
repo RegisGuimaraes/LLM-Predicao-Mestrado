@@ -1,0 +1,7 @@
+Filtro,Estrategia,Jaccard
+Lucro Liquido Positivo,Markowitz,0.2667
+Lucro Liquido Positivo,Value-Weighted,1.0000
+Naive,Markowitz,0.3449
+Naive,Value-Weighted,1.0000
+Projetado,Markowitz,0.2071
+Projetado,Value-Weighted,1.0000

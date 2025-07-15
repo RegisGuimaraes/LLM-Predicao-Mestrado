@@ -1,0 +1,5 @@
+﻿Unnamed: 0,Filtro,Limiar,Estratégia,Sharpe,Beta,Volatilidade,Retorno Anual,Retorno Acumulado
+1,Lucro Líquido Positivo,2.0%,value_weighted,1.4375,0.9690,0.1576,0.3956,0.4137
+1,Naive,2.0%,value_weighted,1.3071,0.8637,0.1477,0.3520,0.3678
+1,Lucro Líquido Positivo,1.5%,value_weighted,1.3028,0.9520,0.1480,0.3516,0.3674
+0,Lucro Líquido Positivo,2.0%,equal_weight,1.2810,0.9196,0.1435,0.3405,0.3557

@@ -1,0 +1,77 @@
+[
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2022-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "-58148",
+            "lucro liquido projetado": "5000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O resultado atual foi impactado por itens não recorrentes, como o ajuste de earn-out a pagar e as perdas associadas à controlada Bankly, que deverão ser desreconhecidos ou isolados após a reestruturação/possível venda de Bankly.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Próximo exercício anual",
+            "grau de confianca": "60%",
+            "motivo grau de confianca": "Embora as iniciativas de reestruturação (redução de custos, parceria com o banco BV e desinvestimento em Bankly) apontem para uma reversão dos resultados, o ambiente macroeconômico – com juros elevados e incertezas quanto ao consumo – e a dependência de ajustes extraordinários elevam o risco da previsão.",
+            "total de acoes em circulacao": "864931939"
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-03-31",
+        "output_llm1": {
+            "lucro liquido atual": -11869,
+            "lucro liquido projetado": 10000,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por despesas extraordinárias e itens não recorrentes – como os efeitos da reestruturação, perdas associadas à operação do Bankly e provisões específicas – que não se espera se repetir no próximo período.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão se baseia na melhoria expressiva do desempenho operacional recorrente e na continuidade das iniciativas de redução de custos; entretanto, as incertezas do ambiente macroeconômico (juro elevado, inflação persistente e desaceleração do consumo) moderam a segurança do resultado.",
+            "total de acoes em circulacao": 865180443
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-06-30",
+        "output_llm1": {
+            "lucro liquido atual": "-15532",
+            "lucro liquido projetado": "1000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por eventos não recorrentes, como a reclassificação e os efeitos da alienação das operações relacionadas ao Bankly (e possivelmente à Acessopar), além de ajustes pontuais de provisões e reestruturações.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano",
+            "grau de confianca": "70%",
+            "motivo grau de confianca": "Apesar do cenário macroeconômico desafiador – com taxas de juros elevadas e incertezas inflacionárias conforme destacado na Ata do COPOM –, as medidas internas de redução de custos, otimização das margens e a integração estratégica com o Banco BV já demonstraram melhora expressiva, o que fundamenta uma previsão de reversão dos prejuízos, embora com incertezas moderadas.",
+            "total de acoes em circulacao": "86518044"
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-09-30",
+        "output_llm1": {
+            "lucro liquido atual": 5163,
+            "lucro liquido projetado": 6500,
+            "unidade": "mil",
+            "extraordinariedade de eventos": "A venda do Bankly, considerada não recorrente, impactou favoravelmente o resultado deste período, permitindo a reestruturação dos custos sem reflexos permanentes.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "mesmo trimestre do próximo ano fiscal (3T2024)",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A consolidação dos resultados demonstra uma reversão significativa dos prejuízos, com redução de custos e melhoria de margens, além de um ambiente de política monetária levemente mais acomodatício segundo o COPOM; entretanto, persistem riscos externos e incertezas quanto à evolução do consumo.",
+            "total de acoes em circulacao": 86560518
+        }
+    },
+    {
+        "ticker": "CASH3",
+        "periodo_pred": "2023-12-31",
+        "output_llm1": {
+            "lucro liquido atual": "-25552",
+            "lucro liquido projetado": "-10000",
+            "unidade": "mil",
+            "extraordinariedade de eventos": "O lucro líquido atual foi impactado por itens extraordinários relacionados à reestruturação (como ajustes em earn-out, deságios e pagamentos pontuais) que não se repetirão de forma recorrente.",
+            "previsao de melhora ou piora": "Melhora",
+            "periodo previsao": "Próximo exercício anual (31 de dezembro de 2024)",
+            "grau de confianca": "75%",
+            "motivo grau de confianca": "A previsão se fundamenta na melhoria operacional evidente, na redução robusta de custos e no ambiente macroeconômico mais acomodatício indicado pela ata do COPOM, embora persistam riscos relacionados à recuperação econômica e à efetiva consolidação das iniciativas internas.",
+            "total de acoes em circulacao": "86580215"
+        }
+    }
+]

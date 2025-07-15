@@ -1,0 +1,10 @@
+Filtro,Estrategia,Semanas Lider,Total Semanas,Percentual Semanas Lider
+Lucro Liquido Positivo,Equal-Weight,239,270,0.8852
+Lucro Liquido Positivo,Markowitz,175,270,0.6481
+Lucro Liquido Positivo,Value-Weighted,171,270,0.6333
+Naive,Equal-Weight,9,270,0.0333
+Naive,Markowitz,58,270,0.2148
+Naive,Value-Weighted,99,270,0.3667
+Projetado,Equal-Weight,22,270,0.0815
+Projetado,Markowitz,37,270,0.1370
+Projetado,Value-Weighted,0,270,0.0000

@@ -1,0 +1,46 @@
+Filtro A,Filtro B,Limiar,Estrategia,Jaccard
+Lucro Liquido Positivo,Naive,0.0%,Equal-Weight,0.4614
+Lucro Liquido Positivo,Naive,0.0%,Markowitz,0.3999
+Lucro Liquido Positivo,Naive,0.0%,Value-Weighted,0.4614
+Lucro Liquido Positivo,Naive,0.5%,Equal-Weight,0.4408
+Lucro Liquido Positivo,Naive,0.5%,Markowitz,0.3806
+Lucro Liquido Positivo,Naive,0.5%,Value-Weighted,0.4408
+Lucro Liquido Positivo,Naive,1.0%,Equal-Weight,0.4372
+Lucro Liquido Positivo,Naive,1.0%,Markowitz,0.3626
+Lucro Liquido Positivo,Naive,1.0%,Value-Weighted,0.4372
+Lucro Liquido Positivo,Naive,1.5%,Equal-Weight,0.4442
+Lucro Liquido Positivo,Naive,1.5%,Markowitz,0.3836
+Lucro Liquido Positivo,Naive,1.5%,Value-Weighted,0.4442
+Lucro Liquido Positivo,Naive,2.0%,Equal-Weight,0.3854
+Lucro Liquido Positivo,Naive,2.0%,Markowitz,0.3636
+Lucro Liquido Positivo,Naive,2.0%,Value-Weighted,0.3854
+Lucro Liquido Positivo,Projetado,0.0%,Equal-Weight,0.7498
+Lucro Liquido Positivo,Projetado,0.0%,Markowitz,0.5428
+Lucro Liquido Positivo,Projetado,0.0%,Value-Weighted,0.7498
+Lucro Liquido Positivo,Projetado,0.5%,Equal-Weight,0.7269
+Lucro Liquido Positivo,Projetado,0.5%,Markowitz,0.5380
+Lucro Liquido Positivo,Projetado,0.5%,Value-Weighted,0.7269
+Lucro Liquido Positivo,Projetado,1.0%,Equal-Weight,0.7012
+Lucro Liquido Positivo,Projetado,1.0%,Markowitz,0.5467
+Lucro Liquido Positivo,Projetado,1.0%,Value-Weighted,0.7012
+Lucro Liquido Positivo,Projetado,1.5%,Equal-Weight,0.6429
+Lucro Liquido Positivo,Projetado,1.5%,Markowitz,0.5224
+Lucro Liquido Positivo,Projetado,1.5%,Value-Weighted,0.6429
+Lucro Liquido Positivo,Projetado,2.0%,Equal-Weight,0.5627
+Lucro Liquido Positivo,Projetado,2.0%,Markowitz,0.4453
+Lucro Liquido Positivo,Projetado,2.0%,Value-Weighted,0.5627
+Naive,Projetado,0.0%,Equal-Weight,0.3657
+Naive,Projetado,0.0%,Markowitz,0.3217
+Naive,Projetado,0.0%,Value-Weighted,0.3657
+Naive,Projetado,0.5%,Equal-Weight,0.3718
+Naive,Projetado,0.5%,Markowitz,0.3046
+Naive,Projetado,0.5%,Value-Weighted,0.3718
+Naive,Projetado,1.0%,Equal-Weight,0.3626
+Naive,Projetado,1.0%,Markowitz,0.2896
+Naive,Projetado,1.0%,Value-Weighted,0.3626
+Naive,Projetado,1.5%,Equal-Weight,0.3535
+Naive,Projetado,1.5%,Markowitz,0.2856
+Naive,Projetado,1.5%,Value-Weighted,0.3535
+Naive,Projetado,2.0%,Equal-Weight,0.3320
+Naive,Projetado,2.0%,Markowitz,0.3317
+Naive,Projetado,2.0%,Value-Weighted,0.3320

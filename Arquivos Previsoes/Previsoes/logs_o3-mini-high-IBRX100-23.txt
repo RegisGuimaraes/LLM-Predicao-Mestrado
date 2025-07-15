@@ -1,0 +1,29 @@
+Iniciando processo...
+
+Processando para data_pred=2022-12-31 e data_check=2023-12-31
+
+Processando para data_pred=2023-12-31 e data_check=2024-12-31
+  Processando ELET3 ...
+O texto anterior tinha 444588
+O texto atual tem 229122
+Documento tem 229122 tokens.
+[INFO] Texto excede 80000 tokens, cortando em duas partes.
+O texto anterior tinha 279726
+O texto atual tem 138541
+Documento tem 138541 tokens.
+[INFO] Texto excede 80000 tokens, cortando em duas partes.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: ELET3
+TP = 6
+FP = 2
+TN = 1
+FN = 0
+F1 FINAL = 0.8571
+
+Para a data 2022-12-31, os seguintes tickers não foram processados: ['ELET3']
+  Reprocessando ELET3 para 2022-12-31...
+O texto anterior tinha 320775
+O texto atual tem 161425
+Documento tem 161425 tokens.
+[INFO] Texto excede 80000 tokens, cortando em duas partes.

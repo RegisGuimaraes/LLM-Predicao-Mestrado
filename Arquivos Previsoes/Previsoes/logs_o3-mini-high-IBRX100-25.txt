@@ -1,0 +1,98 @@
+Iniciando processo...
+
+Processando para data_pred=2022-12-31 e data_check=2023-12-31
+  Processando CASH3 ...
+O texto anterior tinha 133069
+O texto atual tem 67003
+Documento tem 67003 tokens.
+O texto anterior tinha 128288
+O texto atual tem 65326
+Documento tem 65326 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 1
+FP = 0
+TN = 0
+FN = 0
+F1 FINAL = 1.0000
+
+Processando para data_pred=2023-03-31 e data_check=2024-03-31
+  Processando CASH3 ...
+O texto anterior tinha 54967
+O texto atual tem 25023
+Documento tem 25023 tokens.
+O texto anterior tinha 96191
+O texto atual tem 49376
+Documento tem 49376 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 2
+FP = 0
+TN = 0
+FN = 0
+F1 FINAL = 1.0000
+
+Processando para data_pred=2023-06-30 e data_check=2024-06-30
+  Processando CASH3 ...
+O texto anterior tinha 111862
+O texto atual tem 57290
+Documento tem 57290 tokens.
+O texto anterior tinha 105416
+O texto atual tem 54169
+Documento tem 54169 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 2
+FP = 1
+TN = 0
+FN = 0
+F1 FINAL = 0.8000
+
+Processando para data_pred=2023-09-30 e data_check=2024-09-30
+  Processando CASH3 ...
+O texto anterior tinha 133164
+O texto atual tem 68943
+Documento tem 68943 tokens.
+O texto anterior tinha 113720
+O texto atual tem 57142
+Documento tem 57142 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 3
+FP = 1
+TN = 0
+FN = 0
+F1 FINAL = 0.8571
+
+Processando para data_pred=2023-12-31 e data_check=2024-12-31
+  Processando CASH3 ...
+O texto anterior tinha 128288
+O texto atual tem 65326
+Documento tem 65326 tokens.
+O texto anterior tinha 64187
+O texto atual tem 28912
+Documento tem 28912 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 4
+FP = 1
+TN = 0
+FN = 0
+F1 FINAL = 0.8889
+
+Todos os tickers para a data 2022-12-31 foram processados com sucesso.
+
+Todos os tickers para a data 2023-03-31 foram processados com sucesso.
+
+Todos os tickers para a data 2023-06-30 foram processados com sucesso.
+
+Todos os tickers para a data 2023-09-30 foram processados com sucesso.
+
+Todos os tickers para a data 2023-12-31 foram processados com sucesso.
+
+Processo concluído.

@@ -1,0 +1,335 @@
+[
+  {
+    "ticker": "ALOS3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 842142000.0,
+    "valor_penultimo": 222144000.0,
+    "pct_diff": 0.736215507598481,
+    "fonte": "DFP-YTD",
+    "cnpj": "05878397000132"
+  },
+  {
+    "ticker": "BBSE3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 6044571000.0,
+    "valor_penultimo": 6196415000.0,
+    "pct_diff": 0.02512072403484052,
+    "fonte": "DFP-YTD",
+    "cnpj": "17344597000194"
+  },
+  {
+    "ticker": "BPAC11",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 7841837000.0,
+    "valor_penultimo": 7650742000.0,
+    "pct_diff": 0.02436865239611586,
+    "fonte": "DFP-YTD",
+    "cnpj": "30306294000145"
+  },
+  {
+    "ticker": "BPAC11",
+    "periodo_pred": "2023-09-30",
+    "valor_consolidado": 2622551000.0,
+    "valor_penultimo": 2688981000.0,
+    "pct_diff": 0.025330298629082905,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "30306294000145"
+  },
+  {
+    "ticker": "BPAC11",
+    "periodo_pred": "2023-12-31",
+    "valor_consolidado": 9924566000.0,
+    "valor_penultimo": 10254760000.0,
+    "pct_diff": 0.033270371722048095,
+    "fonte": "DFP-YTD",
+    "cnpj": "30306294000145"
+  },
+  {
+    "ticker": "BRKM5",
+    "periodo_pred": "2023-12-31",
+    "valor_consolidado": -4530000000.0,
+    "valor_penultimo": -4890000000.0,
+    "pct_diff": 0.07947019867549669,
+    "fonte": "DFP-YTD",
+    "cnpj": "42150391000170"
+  },
+  {
+    "ticker": "CCRO3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 4133088000.0,
+    "valor_penultimo": 4212180000.0,
+    "pct_diff": 0.019136297122151768,
+    "fonte": "DFP-YTD",
+    "cnpj": "02846056000197"
+  },
+  {
+    "ticker": "DIRR3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 276559000.0,
+    "valor_penultimo": 255689000.0,
+    "pct_diff": 0.07546310190592243,
+    "fonte": "DFP-YTD",
+    "cnpj": "16614075000100"
+  },
+  {
+    "ticker": "HAPV3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": -775839000.0,
+    "valor_penultimo": -355267000.0,
+    "pct_diff": 0.5420866958222003,
+    "fonte": "ITR-ΔYTD",
+    "cnpj": "05197443000138"
+  },
+  {
+    "ticker": "HAPV3",
+    "periodo_pred": "2023-03-31",
+    "valor_consolidado": -341554000.0,
+    "valor_penultimo": -237517000.0,
+    "pct_diff": 0.3045989799563173,
+    "fonte": "ITR-YTD",
+    "cnpj": "05197443000138"
+  },
+  {
+    "ticker": "HAPV3",
+    "periodo_pred": "2023-06-30",
+    "valor_consolidado": -161941000.0,
+    "valor_penultimo": -286908000.0,
+    "pct_diff": 0.7716822793486516,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "05197443000138"
+  },
+  {
+    "ticker": "HAPV3",
+    "periodo_pred": "2023-09-30",
+    "valor_consolidado": -206701000.0,
+    "valor_penultimo": -98189000.0,
+    "pct_diff": 0.5249708516165863,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "05197443000138"
+  },
+  {
+    "ticker": "HAPV3",
+    "periodo_pred": "2023-12-31",
+    "valor_consolidado": -739769000.0,
+    "valor_penultimo": -614629000.0,
+    "pct_diff": 0.16916091374469597,
+    "fonte": "DFP-YTD",
+    "cnpj": "05197443000138"
+  },
+  {
+    "ticker": "IRBR3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": -630341000.0,
+    "valor_penultimo": -420739000.0,
+    "pct_diff": 0.3325216033861037,
+    "fonte": "DFP-YTD",
+    "cnpj": "33376989000191"
+  },
+  {
+    "ticker": "IRBR3",
+    "periodo_pred": "2023-03-31",
+    "valor_consolidado": 8551000.0,
+    "valor_penultimo": -24570000.0,
+    "pct_diff": 3.873348146415624,
+    "fonte": "ITR-YTD",
+    "cnpj": "33376989000191"
+  },
+  {
+    "ticker": "IRBR3",
+    "periodo_pred": "2023-06-30",
+    "valor_consolidado": 20085000.0,
+    "valor_penultimo": -37286000.0,
+    "pct_diff": 2.8564102564102565,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "33376989000191"
+  },
+  {
+    "ticker": "IRBR3",
+    "periodo_pred": "2023-09-30",
+    "valor_consolidado": 47744000.0,
+    "valor_penultimo": 43643000.0,
+    "pct_diff": 0.08589560991957104,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "33376989000191"
+  },
+  {
+    "ticker": "ITUB4",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 30737000000.0,
+    "valor_penultimo": 30242000000.0,
+    "pct_diff": 0.016104369326869896,
+    "fonte": "DFP-YTD",
+    "cnpj": "60872504000123"
+  },
+  {
+    "ticker": "JBSS3",
+    "periodo_pred": "2023-06-30",
+    "valor_consolidado": -263624000.0,
+    "valor_penultimo": -198167000.0,
+    "pct_diff": 0.2482968166782994,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "02916265000160"
+  },
+  {
+    "ticker": "JBSS3",
+    "periodo_pred": "2023-12-31",
+    "valor_consolidado": -1060972000.0,
+    "valor_penultimo": -729145000.0,
+    "pct_diff": 0.31275754685326285,
+    "fonte": "DFP-YTD",
+    "cnpj": "02916265000160"
+  },
+  {
+    "ticker": "LWSA3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 30281000.0,
+    "valor_penultimo": 28273000.0,
+    "pct_diff": 0.0663122089759255,
+    "fonte": "DFP-YTD",
+    "cnpj": "02351877000152"
+  },
+  {
+    "ticker": "MGLU3",
+    "periodo_pred": "2023-09-30",
+    "valor_consolidado": 331229000.0,
+    "valor_penultimo": -498332000.0,
+    "pct_diff": 2.5044938698000476,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "47960950000121"
+  },
+  {
+    "ticker": "MRFG3",
+    "periodo_pred": "2023-12-31",
+    "valor_consolidado": -1517776000.0,
+    "valor_penultimo": 147493000.0,
+    "pct_diff": 1.0971770537944994,
+    "fonte": "ITR-ΔYTD",
+    "cnpj": "03853896000140"
+  },
+  {
+    "ticker": "MRVE3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": -149335000.0,
+    "valor_penultimo": -123463000.0,
+    "pct_diff": 0.17324806642783006,
+    "fonte": "DFP-YTD",
+    "cnpj": "08343492000120"
+  },
+  {
+    "ticker": "PSSA3",
+    "periodo_pred": "2023-03-31",
+    "valor_consolidado": 346062000.0,
+    "valor_penultimo": 355476000.0,
+    "pct_diff": 0.027203217920488236,
+    "fonte": "ITR-YTD",
+    "cnpj": "02149205000169"
+  },
+  {
+    "ticker": "PSSA3",
+    "periodo_pred": "2023-06-30",
+    "valor_consolidado": 722707000.0,
+    "valor_penultimo": 693354000.0,
+    "pct_diff": 0.04061535310990484,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "02149205000169"
+  },
+  {
+    "ticker": "PSSA3",
+    "periodo_pred": "2023-09-30",
+    "valor_consolidado": 590696000.0,
+    "valor_penultimo": 570281000.0,
+    "pct_diff": 0.034560924739629184,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "02149205000169"
+  },
+  {
+    "ticker": "RDOR3",
+    "periodo_pred": "2023-03-31",
+    "valor_consolidado": 303808000.0,
+    "valor_penultimo": 315067000.0,
+    "pct_diff": 0.03705959026753739,
+    "fonte": "ITR-YTD",
+    "cnpj": "06047087000139"
+  },
+  {
+    "ticker": "RDOR3",
+    "periodo_pred": "2023-06-30",
+    "valor_consolidado": 435358000.0,
+    "valor_penultimo": 318213000.0,
+    "pct_diff": 0.2690774029649162,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "06047087000139"
+  },
+  {
+    "ticker": "RDOR3",
+    "periodo_pred": "2023-09-30",
+    "valor_consolidado": 760303000.0,
+    "valor_penultimo": 688948000.0,
+    "pct_diff": 0.09385074108611961,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "06047087000139"
+  },
+  {
+    "ticker": "SANB11",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 12358525000.0,
+    "valor_penultimo": 14339475000.0,
+    "pct_diff": 0.16029016407702376,
+    "fonte": "DFP-YTD",
+    "cnpj": "90400888000142"
+  },
+  {
+    "ticker": "SANB11",
+    "periodo_pred": "2023-06-30",
+    "valor_consolidado": 5804665000.0,
+    "valor_penultimo": 4652364000.0,
+    "pct_diff": 0.19851292021158845,
+    "fonte": "ITR-YTD",
+    "cnpj": "90400888000142"
+  },
+  {
+    "ticker": "SANB11",
+    "periodo_pred": "2023-12-31",
+    "valor_consolidado": 8974230000.0,
+    "valor_penultimo": 9498812000.0,
+    "pct_diff": 0.058454262928407226,
+    "fonte": "DFP-YTD",
+    "cnpj": "90400888000142"
+  },
+  {
+    "ticker": "SBSP3",
+    "periodo_pred": "2022-12-31",
+    "valor_consolidado": 3121267000.0,
+    "valor_penultimo": 0.0,
+    "pct_diff": 1.0,
+    "fonte": "DFP-YTD",
+    "cnpj": "43776517000180"
+  },
+  {
+    "ticker": "SBSP3",
+    "periodo_pred": "2023-03-31",
+    "valor_consolidado": 747212000.0,
+    "valor_penultimo": 0.0,
+    "pct_diff": 1.0,
+    "fonte": "ITR-YTD",
+    "cnpj": "43776517000180"
+  },
+  {
+    "ticker": "SBSP3",
+    "periodo_pred": "2023-06-30",
+    "valor_consolidado": 743743000.0,
+    "valor_penultimo": 0.0,
+    "pct_diff": 1.0,
+    "fonte": "ITR-QUARTER",
+    "cnpj": "43776517000180"
+  },
+  {
+    "ticker": "VALE3",
+    "periodo_pred": "2023-12-31",
+    "valor_consolidado": 39940000000.0,
+    "valor_penultimo": 40554000000.0,
+    "pct_diff": 0.015373059589384076,
+    "fonte": "DFP-YTD",
+    "cnpj": "33592510000154"
+  }
+]

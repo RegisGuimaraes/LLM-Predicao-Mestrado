@@ -1,0 +1,189 @@
+Iniciando processo...
+
+Processando para data_pred=2022-12-31 e data_check=2023-12-31
+  Processando BBDC4 ...
+O texto anterior tinha 543942
+O texto atual tem 271844
+Documento tem 271844 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 271844 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+O texto anterior tinha 504456
+O texto atual tem 255627
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BBDC4
+TP = 0
+FP = 1
+TN = 0
+FN = 0
+F1 FINAL = 0.0000
+  Processando CASH3 ...
+O texto anterior tinha 133069
+O texto atual tem 67003
+Documento tem 67003 tokens.
+O texto anterior tinha 128288
+O texto atual tem 65326
+Documento tem 65326 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 1
+FP = 1
+TN = 0
+FN = 0
+F1 FINAL = 0.6667
+
+Processando para data_pred=2023-03-31 e data_check=2024-03-31
+  Processando BBDC4 ...
+O texto anterior tinha 367976
+O texto atual tem 186621
+Documento tem 186621 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+O texto anterior tinha 340473
+O texto atual tem 169230
+Documento tem 169230 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BBDC4
+TP = 1
+FP = 2
+TN = 0
+FN = 0
+F1 FINAL = 0.5000
+  Processando CASH3 ...
+O texto anterior tinha 54967
+O texto atual tem 25023
+Documento tem 25023 tokens.
+O texto anterior tinha 96191
+O texto atual tem 49376
+Documento tem 49376 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 2
+FP = 2
+TN = 0
+FN = 0
+F1 FINAL = 0.6667
+
+Processando para data_pred=2023-06-30 e data_check=2024-06-30
+  Processando BBDC4 ...
+O texto anterior tinha 419435
+O texto atual tem 208747
+Documento tem 208747 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+O texto anterior tinha 396668
+O texto atual tem 199029
+Documento tem 199029 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BBDC4
+TP = 3
+FP = 2
+TN = 0
+FN = 0
+F1 FINAL = 0.7500
+  Processando CASH3 ...
+O texto anterior tinha 111862
+O texto atual tem 57290
+Documento tem 57290 tokens.
+O texto anterior tinha 105416
+O texto atual tem 54169
+Documento tem 54169 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 3
+FP = 2
+TN = 1
+FN = 0
+F1 FINAL = 0.7500
+
+Processando para data_pred=2023-09-30 e data_check=2024-09-30
+  Processando BBDC4 ...
+O texto anterior tinha 374853
+O texto atual tem 186733
+Documento tem 186733 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+O texto anterior tinha 365928
+O texto atual tem 182507
+Documento tem 182507 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: BBDC4
+TP = 4
+FP = 2
+TN = 1
+FN = 0
+F1 FINAL = 0.8000
+  Processando CASH3 ...
+O texto anterior tinha 133164
+O texto atual tem 68943
+Documento tem 68943 tokens.
+O texto anterior tinha 113720
+O texto atual tem 57142
+Documento tem 57142 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 5
+FP = 2
+TN = 1
+FN = 0
+F1 FINAL = 0.8333
+
+Processando para data_pred=2023-12-31 e data_check=2024-12-31
+  Processando BBDC4 ...
+O texto anterior tinha 504456
+O texto atual tem 255627
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+    [ERRO] Falha no primeiro LLM para BBDC4 em 2023-12-31
+  Processando CASH3 ...
+O texto anterior tinha 128288
+O texto atual tem 65326
+Documento tem 65326 tokens.
+O texto anterior tinha 64187
+O texto atual tem 28912
+Documento tem 28912 tokens.
+
+[RESULTADOS FINAIS DE AVALIAÇÃO Lucro Liquido]
+Ticker: CASH3
+TP = 6
+FP = 2
+TN = 1
+FN = 0
+F1 FINAL = 0.8571
+
+Todos os tickers para a data 2022-12-31 foram processados com sucesso.
+
+Todos os tickers para a data 2023-03-31 foram processados com sucesso.
+
+Todos os tickers para a data 2023-06-30 foram processados com sucesso.
+
+Todos os tickers para a data 2023-09-30 foram processados com sucesso.
+
+Para a data 2023-12-31, os seguintes tickers não foram processados: ['BBDC4']
+  Reprocessando BBDC4 para 2023-12-31...
+O texto anterior tinha 504456
+O texto atual tem 255627
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+Documento tem 255627 tokens.
+[INFO] Texto excede 150000 tokens, cortando em duas partes.
+    [ERRO] Falha no primeiro LLM para BBDC4 em 2023-12-31
+  [ERRO] Não foi possível processar BBDC4 mesmo na reexecução.
+
+Processo concluído.

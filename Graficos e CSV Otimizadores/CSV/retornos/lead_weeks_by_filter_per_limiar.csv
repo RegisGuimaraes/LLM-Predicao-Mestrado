@@ -1,0 +1,46 @@
+Filtro,Limiar,Estrategia,Semanas Lider,Total Semanas,Percentual Semanas Lider,Retorno Acumulado
+Lucro Liquido Positivo,0.0%,Equal-Weight,45,54,0.8333,0.3154
+Naive,0.0%,Equal-Weight,2,54,0.0370,0.2714
+Projetado,0.0%,Equal-Weight,7,54,0.1296,0.2758
+Lucro Liquido Positivo,0.0%,Markowitz,1,54,0.0185,0.1790
+Naive,0.0%,Markowitz,31,54,0.5741,0.1872
+Projetado,0.0%,Markowitz,22,54,0.4074,0.2155
+Lucro Liquido Positivo,0.0%,Value-Weighted,38,54,0.7037,0.3131
+Naive,0.0%,Value-Weighted,16,54,0.2963,0.3070
+Projetado,0.0%,Value-Weighted,0,54,0.0000,0.2776
+Lucro Liquido Positivo,0.5%,Equal-Weight,50,54,0.9259,0.3280
+Naive,0.5%,Equal-Weight,2,54,0.0370,0.2411
+Projetado,0.5%,Equal-Weight,2,54,0.0370,0.2592
+Lucro Liquido Positivo,0.5%,Markowitz,45,54,0.8333,0.2185
+Naive,0.5%,Markowitz,6,54,0.1111,0.1641
+Projetado,0.5%,Markowitz,3,54,0.0556,0.2074
+Lucro Liquido Positivo,0.5%,Value-Weighted,41,54,0.7593,0.3193
+Naive,0.5%,Value-Weighted,13,54,0.2407,0.2912
+Projetado,0.5%,Value-Weighted,0,54,0.0000,0.2738
+Lucro Liquido Positivo,1.0%,Equal-Weight,44,54,0.8148,0.3261
+Naive,1.0%,Equal-Weight,2,54,0.0370,0.2612
+Projetado,1.0%,Equal-Weight,8,54,0.1481,0.2533
+Lucro Liquido Positivo,1.0%,Markowitz,30,54,0.5556,0.2151
+Naive,1.0%,Markowitz,12,54,0.2222,0.1836
+Projetado,1.0%,Markowitz,12,54,0.2222,0.2246
+Lucro Liquido Positivo,1.0%,Value-Weighted,33,54,0.6111,0.3383
+Naive,1.0%,Value-Weighted,21,54,0.3889,0.3193
+Projetado,1.0%,Value-Weighted,0,54,0.0000,0.2833
+Lucro Liquido Positivo,1.5%,Equal-Weight,47,54,0.8704,0.3424
+Naive,1.5%,Equal-Weight,2,54,0.0370,0.2449
+Projetado,1.5%,Equal-Weight,5,54,0.0926,0.2052
+Lucro Liquido Positivo,1.5%,Markowitz,49,54,0.9074,0.2243
+Naive,1.5%,Markowitz,5,54,0.0926,0.1406
+Projetado,1.5%,Markowitz,0,54,0.0000,0.1742
+Lucro Liquido Positivo,1.5%,Value-Weighted,28,54,0.5185,0.3677
+Naive,1.5%,Value-Weighted,26,54,0.4815,0.3510
+Projetado,1.5%,Value-Weighted,0,54,0.0000,0.2829
+Lucro Liquido Positivo,2.0%,Equal-Weight,53,54,0.9815,0.3553
+Naive,2.0%,Equal-Weight,1,54,0.0185,0.2061
+Projetado,2.0%,Equal-Weight,0,54,0.0000,0.1585
+Lucro Liquido Positivo,2.0%,Markowitz,50,54,0.9259,0.2293
+Naive,2.0%,Markowitz,4,54,0.0741,0.0860
+Projetado,2.0%,Markowitz,0,54,0.0000,0.1609
+Lucro Liquido Positivo,2.0%,Value-Weighted,31,54,0.5741,0.4136
+Naive,2.0%,Value-Weighted,23,54,0.4259,0.3674
+Projetado,2.0%,Value-Weighted,0,54,0.0000,0.2983

@@ -1,0 +1,106 @@
+,Universo,Threshold,Estratégia,Sharpe,Beta,Volatilidade,Retorno Anual,Retorno Acumulado
+0,Lucro Líquido Positivo,Base,equal_weight,1.0234,0.9724,0.1522,0.3020,0.3153
+1,Lucro Líquido Positivo,Base,value_weighted,1.0774,0.9379,0.1416,0.2999,0.3131
+2,Lucro Líquido Positivo,Base,markowitz,0.4235,0.5495,0.1043,0.1722,0.1793
+3,Lucro Líquido Positivo,Base,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Lucro Líquido Positivo,Base,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Lucro Líquido Positivo,Base,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Lucro Líquido Positivo,Base,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Lucro Líquido Positivo,EY05,equal_weight,1.1127,0.9395,0.1475,0.3138,0.3277
+1,Lucro Líquido Positivo,EY05,value_weighted,1.1188,0.9278,0.1401,0.3055,0.3190
+2,Lucro Líquido Positivo,EY05,markowitz,0.7119,0.5741,0.1072,0.2099,0.2188
+3,Lucro Líquido Positivo,EY05,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Lucro Líquido Positivo,EY05,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Lucro Líquido Positivo,EY05,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Lucro Líquido Positivo,EY05,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Lucro Líquido Positivo,EY10,equal_weight,1.1010,0.9529,0.1482,0.3124,0.3262
+1,Lucro Líquido Positivo,EY10,value_weighted,1.1787,0.9508,0.1458,0.3242,0.3386
+2,Lucro Líquido Positivo,EY10,markowitz,0.6689,0.5965,0.1107,0.2067,0.2155
+3,Lucro Líquido Positivo,EY10,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Lucro Líquido Positivo,EY10,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Lucro Líquido Positivo,EY10,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Lucro Líquido Positivo,EY10,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Lucro Líquido Positivo,EY15,equal_weight,1.1996,0.9313,0.1456,0.3280,0.3425
+1,Lucro Líquido Positivo,EY15,value_weighted,1.3028,0.9520,0.1480,0.3516,0.3674
+2,Lucro Líquido Positivo,EY15,markowitz,0.7748,0.5430,0.1038,0.2153,0.2244
+3,Lucro Líquido Positivo,EY15,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Lucro Líquido Positivo,EY15,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Lucro Líquido Positivo,EY15,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Lucro Líquido Positivo,EY15,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Lucro Líquido Positivo,EY20,equal_weight,1.2810,0.9196,0.1435,0.3405,0.3557
+1,Lucro Líquido Positivo,EY20,value_weighted,1.4375,0.9690,0.1576,0.3956,0.4137
+2,Lucro Líquido Positivo,EY20,markowitz,0.7529,0.6034,0.1132,0.2199,0.2293
+3,Lucro Líquido Positivo,EY20,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Lucro Líquido Positivo,EY20,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Lucro Líquido Positivo,EY20,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Lucro Líquido Positivo,EY20,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Naive,Base,equal_weight,0.8875,0.8366,0.1359,0.2602,0.2714
+1,Naive,Base,value_weighted,1.0803,0.8206,0.1366,0.2943,0.3072
+2,Naive,Base,markowitz,0.4712,0.5274,0.1085,0.1798,0.1873
+3,Naive,Base,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Naive,Base,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Naive,Base,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Naive,Base,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Naive,EY05,equal_weight,0.7001,0.8562,0.1396,0.2312,0.2411
+1,Naive,EY05,value_weighted,0.9879,0.8226,0.1378,0.2794,0.2916
+2,Naive,EY05,markowitz,0.2953,0.5355,0.1084,0.1576,0.1641
+3,Naive,EY05,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Naive,EY05,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Naive,EY05,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Naive,EY05,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Naive,EY10,equal_weight,0.8089,0.8589,0.1403,0.2505,0.2613
+1,Naive,EY10,value_weighted,1.0926,0.8591,0.1445,0.3061,0.3196
+2,Naive,EY10,markowitz,0.4204,0.5762,0.1171,0.1765,0.1839
+3,Naive,EY10,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Naive,EY10,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Naive,EY10,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Naive,EY10,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Naive,EY15,equal_weight,0.7125,0.8727,0.1425,0.2353,0.2454
+1,Naive,EY15,value_weighted,1.2537,0.8554,0.1438,0.3357,0.3507
+2,Naive,EY15,markowitz,0.1124,0.5805,0.1190,0.1350,0.1405
+3,Naive,EY15,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Naive,EY15,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Naive,EY15,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Naive,EY15,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Naive,EY20,equal_weight,0.4880,0.8803,0.1454,0.1978,0.2062
+1,Naive,EY20,value_weighted,1.3071,0.8637,0.1477,0.3520,0.3678
+2,Naive,EY20,markowitz,-0.2699,0.6180,0.1237,0.0827,0.0860
+3,Naive,EY20,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Naive,EY20,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Naive,EY20,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Naive,EY20,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Projetado,Base,equal_weight,0.7640,1.0575,0.1688,0.2646,0.2761
+1,Projetado,Base,value_weighted,0.8914,0.9353,0.1413,0.2660,0.2775
+2,Projetado,Base,markowitz,0.7018,0.5215,0.1044,0.2067,0.2154
+3,Projetado,Base,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Projetado,Base,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Projetado,Base,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Projetado,Base,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Projetado,EY05,equal_weight,0.7059,1.0267,0.1636,0.2488,0.2595
+1,Projetado,EY05,value_weighted,0.8801,0.9182,0.1396,0.2624,0.2738
+2,Projetado,EY05,markowitz,0.6530,0.4980,0.1027,0.1994,0.2078
+3,Projetado,EY05,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Projetado,EY05,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Projetado,EY05,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Projetado,EY05,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Projetado,EY10,equal_weight,0.6717,1.0383,0.1657,0.2432,0.2536
+1,Projetado,EY10,value_weighted,0.9010,0.9470,0.1453,0.2715,0.2834
+2,Projetado,EY10,markowitz,0.7621,0.5503,0.1062,0.2157,0.2248
+3,Projetado,EY10,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Projetado,EY10,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Projetado,EY10,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Projetado,EY10,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Projetado,EY15,equal_weight,0.4308,1.0662,0.1706,0.1964,0.2047
+1,Projetado,EY15,value_weighted,0.8814,0.9593,0.1489,0.2713,0.2831
+2,Projetado,EY15,markowitz,0.3819,0.5304,0.1055,0.1675,0.1745
+3,Projetado,EY15,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Projetado,EY15,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Projetado,EY15,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Projetado,EY15,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
+0,Projetado,EY20,equal_weight,0.2098,1.0798,0.1716,0.1523,0.1586
+1,Projetado,EY20,value_weighted,0.9219,0.9794,0.1560,0.2860,0.2985
+2,Projetado,EY20,markowitz,0.2742,0.5333,0.1060,0.1545,0.1609
+3,Projetado,EY20,SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+4,Projetado,EY20,BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+5,Projetado,EY20,BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+6,Projetado,EY20,Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358

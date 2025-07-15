@@ -1,0 +1,8 @@
+Estratégia,Sharpe,Beta,Volatilidade,Retorno Anual,Retorno Acumulado
+equal_weight,0.2098,1.0798,0.1716,0.1523,0.1586
+value_weighted,0.9219,0.9794,0.1560,0.2860,0.2985
+markowitz,0.2742,0.5333,0.1060,0.1545,0.1609
+SELIC,0.0000,0.0000,0.0012,0.1276,0.1329
+BOVA11,0.7846,0.9989,0.1463,0.2511,0.2619
+BRAX11,0.7442,0.9520,0.1409,0.2398,0.2501
+Todas Ações Value-Weighted,0.6759,0.8785,0.1382,0.2262,0.2358
